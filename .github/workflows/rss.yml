@@ -3,7 +3,7 @@ name: RSS Content Analyzer mumu
 on:
   schedule:
     - cron: '0 8 * * *'      # 每天 UTC 时间 8 点运行
-  workflow_dispatch:          # 允许手动触发
+  workflow_dispatch:          # 允许手动触发 沐沐
 
 jobs:
   analyze_rss:
