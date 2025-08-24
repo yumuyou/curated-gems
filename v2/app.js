@@ -28,7 +28,7 @@ async function init() {
 }
 function mountControls() {
     const lang = window.currentLang || 'zh';
-    const placeholder = lang === 'zh' ? '搜索标题/摘要/标签…' : 'Search title/summary/tags...';
+    const placeholder = lang === 'zh' ? '🔍 输入关键词搜索精彩内容...' : '🔍 Enter keywords to search amazing content...';
     controlsEl.innerHTML = `
     <div class="controls">
       <input id="search" placeholder="${placeholder}"/>
