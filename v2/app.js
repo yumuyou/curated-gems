@@ -68,8 +68,8 @@ function render(items) {
     if (!items.length) { 
         listEl.innerHTML = ''; 
         const emptyTexts = {
-            zh: '未找到匹配的内容',
-            en: 'No matching content found'
+          zh: '😅 没有找到相关内容，换个关键词试试吧',
+          en: '😅 No relevant content found, try different keywords'
         };
         emptyEl.textContent = emptyTexts[lang];
         emptyEl.classList.remove('hidden'); 
