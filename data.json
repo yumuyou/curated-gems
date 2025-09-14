@@ -878,4 +878,121 @@
     "summary_zh": "这份特朗普与拜登首次辩论的文字记录，简直是一场政治闹剧的真实写照。它揭示了现代政治话语的混乱与荒谬，政策讨论几乎缺席，取而代之的是人身攻击和无休止的打断。读完不禁感慨，这种辩论形式究竟是为了什么？它更像是一场表演，而非寻求解决之道。作为读者，我从中看到了美国政治极化的深层问题，以及在信息爆炸时代，理性对话的稀缺性。这篇内容不仅是对事件的记录，更是对当前政治生态的一种批判性反思。",
     "best_quote_en": "One thing we all know for sure is that this election is going to be a shitshow. Will you accept the results of the shitshow and tell your supporters to accept the results peacefully?",
     "best_quote_zh": "有一件事我们都确定，那就是这次选举会是一场乱局。你会接受这场乱局的结果并告诉你的支持者和平地接受结果吗？"
+  },{
+    "id": 76,
+    "title": "Taylor Swift’s romantic travails were the soundtrack to mine. What does her engagement mean for fans’ love lives? | Hollie Richardson",
+    "title_zh": "泰勒·斯威夫特的浪漫经历曾是我的爱情配乐。她的订婚对粉丝的爱情生活意味着什么？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/music/2025/aug/28/taylor-swift-engagement",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-08-28",
+    "summary_en": "This reflective piece explores the profound impact of Taylor Swift's romantic journey on her fans' personal love lives, particularly the author's own. It thoughtfully traces how Swift's discography has mirrored and articulated various stages of romantic experience, from teenage crushes to heartbreak and now, lasting love and engagement. The article delves into the evolving relationship between artist and audience, pondering how Swift's shift from chronicling romantic travails to celebrating stable love might resonate with a maturing fanbase. It’s a poignant examination of how a public figure's personal milestones can evoke deep, shared introspection among those who have grown up with her music, offering a unique blend of pop culture commentary and personal reflection on the universal search for love and connection.",
+    "summary_zh": "这篇文章深刻探讨了泰勒·斯威夫特浪漫历程对粉丝爱情观的影响，尤其是作者本人的共鸣。它细腻地描绘了斯威夫特的歌曲如何伴随并诠释了从青涩暗恋到心碎，再到如今稳定爱情与订婚的各个阶段。我特别喜欢作者对“她嫁给运动员”这一刻的解读，仿佛是她自我定位的圆满。这不仅是流行文化评论，更是一次关于成长、爱情和艺术家与观众之间独特纽带的深沉思考，引人深思。",
+    "best_quote_en": "When the pop star who has soundtracked your entire adult love life gets engaged, it’s discombobulating. Especially when they are similar in age.",
+    "best_quote_zh": "当那位为你整个成年爱情生活配乐的流行歌星订婚时，这令人不安。尤其是当她们与你年龄相仿时。"
+  },
+  {
+    "id": 77,
+    "title": "Crazy New Ideas",
+    "title_zh": "疯狂的新想法",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/newideas.html",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2025-09-14",
+    "summary_en": "This essay critically examines the common human tendency to dismiss \"crazy-sounding\" new ideas, especially when they originate from reasonable domain experts. The author argues that such ideas, despite their initial implausibility, often hold disproportionately high potential for significant impact, precisely because they challenge existing paradigms. He delves into the psychological and social reasons for dismissal, including envy, the desire to appear sophisticated, vested interests, and the pervasive influence of current paradigms. The piece advocates for a more discerning and open-minded approach, urging readers to question rather than dismiss, and to actively seek out and support those who dare to propose revolutionary concepts. It's a compelling call to intellectual humility and a nuanced understanding of innovation's often-unconventional birth.",
+    "summary_zh": "这篇文章深刻剖析了人们对“听起来疯狂”的新想法，尤其是来自理性领域专家的想法，普遍存在的排斥心理。作者认为，这类想法尽管最初看似荒谬，却往往蕴含着颠覆性变革的巨大潜力，因为它们挑战了既有范式。我特别喜欢他揭示嫉妒、追求表面成熟和既得利益等深层原因，这些洞察力令人反思。这不仅是一篇关于创新的文章，更是一次对思维模式和认知偏差的自我审视，提醒我们保持开放、好奇，并勇于支持那些敢于质疑现状的先驱者。",
+    "best_quote_en": "When the average person proposes an implausible-sounding idea, its implausibility is evidence of their incompetence. But when a reasonable domain expert does it, the situation is reversed. There's something like an efficient market here: on average the ideas that seem craziest will, if correct, have the biggest effect.",
+    "best_quote_zh": "当普通人提出一个听起来不可思议的想法时，其不可思议性是他们能力不足的证据。但当一个理性的领域专家这样做时，情况就颠倒了。这里有点像一个高效市场：平均而言，那些看起来最疯狂的想法，如果正确，将会产生最大的影响。"
+  },
+  {
+    "id": 78,
+    "title": "Day #1 Fasting, Livestream, In protest of Superintelligent AI",
+    "title_zh": "第一天禁食，直播，抗议超智能人工智能",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/5fesJ7fKpTBa2PHjd/day-1-fasting-livestream-in-protest-of-superintelligent-ai",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "lifestyle",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "生活方式",
+      "争议观点"
+    ],
+    "date": "2025-09-14",
+    "summary_en": "This piece chronicles a rather extreme form of protest: a multi-day fast undertaken to raise awareness about the existential threat posed by superintelligent AI. The author's motivation is rooted in a deep concern that advanced AI could lead to humanity's demise by 2030, advocating for a global pause in AI research. While the act itself is certainly attention-grabbing, it also reveals a fascinating personal experiment into the limits of the human body, driven by a blend of altruistic alarm and individual curiosity. It highlights the growing urgency felt by some in the AI safety community, pushing for public engagement through unconventional means. The call to action is clear: educate yourself, engage with experts, and consider the profound implications of unchecked AI development. It makes one ponder the efficacy of such personal sacrifices in influencing public discourse on complex technological risks.",
+    "summary_zh": "这篇内容记录了一场极端抗议：通过绝食直播来警示超智能AI带来的生存威胁。作者深信AI可能在2030年前毁灭人类，呼吁暂停AI研究。这种行为既是个人对身体极限的探索，也反映出AI安全领域日益增长的紧迫感。我个人觉得，这种激进方式虽然能吸引眼球，但能否有效传达复杂的AI风险、促成广泛共识，仍是一个值得深思的问题。它无疑激发了人们对AI伦理和未来走向的关注，但也可能被误读为偏激。然而，其背后对人类命运的担忧是真诚且深刻的。",
+    "best_quote_en": "Superintelligent AI might kill every person on Earth by 2030 (unless people coordinate to pause AI research). I want public at large to understand the gravity of the situation.",
+    "best_quote_zh": "超智能AI可能在2030年前杀死地球上的每一个人（除非人们协调暂停AI研究）。我希望广大公众理解局势的严重性。"
+  },
+  {
+    "id": 79,
+    "title": "A Campus Mourns Charlie Kirk",
+    "title_zh": "校园悼念查理·柯克",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/a-campus-mourns-charlie-kirk",
+    "tags": [
+      "analyze",
+      "politics",
+      "society",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "社会议题",
+      "争议观点"
+    ],
+    "date": "2025-09-13",
+    "summary_en": "This article delves into the complex aftermath of conservative activist Charlie Kirk's assassination, focusing on a vigil held at Texas A.&M. University. It highlights the students' attempt to bridge political divides in a moment of shared grief, even as the broader political landscape intensified its ideological warfare. The piece critically examines Kirk's controversial legacy as a 'MAGA whisperer' who skillfully mobilized young conservatives through social media and campus debates, often employing aggressive rhetoric against perceived 'leftist propaganda.' It also connects Kirk's influence to the increasing political pressures on Texas universities, leading to bans on DEI programs and drag shows, and incidents of faculty being targeted. The article thoughtfully explores the tension between the students' desire for unity and the divisive tactics that characterized Kirk's public persona, revealing how even in death, his impact remains deeply polarizing yet paradoxically, a catalyst for temporary, localized unity.",
+    "summary_zh": "这篇文章深入探讨了查理·柯克遇刺后在德克萨斯农工大学举行的一场守夜活动。它不仅展现了学生们在悲痛中试图弥合政治分歧的努力，也批判性地审视了柯克作为“MAGA耳语者”的复杂遗产，他以激进言论动员年轻保守派，对大学校园施加了深远影响。文章揭示了柯克的影响如何助推了德州大学对多元化项目的限制，以及教职人员被攻击的事件。这种表面上的团结与深层意识形态冲突的并置，令人深思。柯克的离世，究竟是弥合裂痕的契机，还是加剧对立的开端？",
+    "best_quote_en": "“Tonight is not a night for politics,” Hurly said, when it was his time to speak. “Violence can happen on both sides of the aisle and it is up to us for the future to change it.”",
+    "best_quote_zh": "“今晚不是谈政治的夜晚，”赫尔利发言时说，“暴力可能发生在政治光谱的两端，未来如何改变它取决于我们。”"
+  },
+  {
+    "id": 80,
+    "title": "The Big and the Small",
+    "title_zh": "大与小",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2020/09/universe.html",
+    "tags": [
+      "inspire",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2020-09-22",
+    "summary_en": "This article from Wait But Why introduces 'Universe in a Nutshell,' an app developed in collaboration with Kurzgesagt. It recounts the origin story of this partnership, born from a shared fascination with visualizing the scale of the universe. The author, known for his deep dives into complex topics, describes the app as an 'impossibly large' and 'high-resolution' interactive wall showcasing 250 objects with 30,000+ words of explanation. What's truly insightful is the emphasis on experiencing a 'mind-blow effect' by understanding these objects exist on a single 2D plane, challenging our perception of scale. It's a testament to the power of creative collaboration in making abstract scientific concepts engaging and accessible, inviting users into a 'brain playground' that promises continuous evolution.",
+    "summary_zh": "这篇Wait But Why的文章介绍了一款与Kurzgesagt合作开发的名为“Universe in a Nutshell”的应用程序。它讲述了这段合作的缘起，源于对宇宙尺度可视化共同的着迷。作者将这款应用描述为一个“大得不可思议”且“高分辨率”的互动墙，展示了250个物体及三万多字的解释。最有意思的是，文章强调通过理解这些物体都存在于同一个二维平面上，来体验一种“震撼心灵”的效果，挑战我们对尺度的固有认知。这不仅是跨界合作的典范，也让我反思，如何能将深奥的科学概念以如此引人入胜的方式呈现给大众，激发更广泛的求知欲。",
+    "best_quote_en": "You’re not moving forward and backward through a tunnel of objects—it just seems that way because your brain will refuse to accept the insanity of the actual sizes you’re seeing. By reminding yourself again and again that all of these objects are “painted” on the same 2D wall, you’ll hopefully experience some fun mind-bending moments.",
+    "best_quote_zh": "你并不是在物体隧道中前后移动——之所以看起来是这样，是因为你的大脑拒绝接受你所看到的实际尺寸的疯狂。通过反复提醒自己，所有这些物体都“画”在同一个二维墙上，你或许会体验到一些有趣的、令人脑洞大开的时刻。"
   }]
