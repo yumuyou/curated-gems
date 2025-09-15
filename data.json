@@ -995,4 +995,121 @@
     "summary_zh": "这篇Wait But Why的文章介绍了一款与Kurzgesagt合作开发的名为“Universe in a Nutshell”的应用程序。它讲述了这段合作的缘起，源于对宇宙尺度可视化共同的着迷。作者将这款应用描述为一个“大得不可思议”且“高分辨率”的互动墙，展示了250个物体及三万多字的解释。最有意思的是，文章强调通过理解这些物体都存在于同一个二维平面上，来体验一种“震撼心灵”的效果，挑战我们对尺度的固有认知。这不仅是跨界合作的典范，也让我反思，如何能将深奥的科学概念以如此引人入胜的方式呈现给大众，激发更广泛的求知欲。",
     "best_quote_en": "You’re not moving forward and backward through a tunnel of objects—it just seems that way because your brain will refuse to accept the insanity of the actual sizes you’re seeing. By reminding yourself again and again that all of these objects are “painted” on the same 2D wall, you’ll hopefully experience some fun mind-bending moments.",
     "best_quote_zh": "你并不是在物体隧道中前后移动——之所以看起来是这样，是因为你的大脑拒绝接受你所看到的实际尺寸的疯狂。通过反复提醒自己，所有这些物体都“画”在同一个二维墙上，你或许会体验到一些有趣的、令人脑洞大开的时刻。"
+  },{
+    "id": 81,
+    "title": "How to find the plus-size dress that makes you feel like you belong on the red carpet",
+    "title_zh": "如何找到让你感觉像是红毯明星的大码礼服",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/aug/27/how-to-find-plus-size-dress-red-carpet-formal-smart",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2025-08-27",
+    "summary_en": "This article offers a deeply personal and insightful perspective on the challenges and triumphs of finding fashionable plus-size clothing, particularly dresses. The author, Billie Bhatia, candidly shares her frustrations with ill-fitting separates and the generally 'crap' offerings in high-street plus-size fashion. However, she pivots to highlight the empowering potential of the right dress, recounting her own journey from designing a size-inclusive collection with Rixo to a transformative red-carpet experience in a Bernadette dress. The piece isn't just about fashion; it's a powerful narrative on body image, self-acceptance, and finding a sense of belonging through clothing. It thoughtfully blends practical shopping tips, like understanding brand sizing and exploring oversized silhouettes, with a compelling emotional core, making it resonate beyond mere style advice.",
+    "summary_zh": "这篇文章以真诚的笔触，探讨了大码时尚的痛点与亮点。作者分享了她如何从对大码服装的失望，转变为通过设计和精心挑选，找到真正赋能自己的礼服。这不仅仅是穿搭指南，更是一场关于自我接纳、身体自信以及通过时尚表达“归属感”的深刻对话。读来令人动容，它提醒我们，服装不仅是外在，更是内在力量的载体。",
+    "best_quote_en": "But in that dress I felt good. Good enough to take up space, good enough to walk through the world carefree, good enough to walk through previously unopened doors, and good enough to belong.",
+    "best_quote_zh": "但穿着那件礼服，我感觉很好。好到足以占据空间，好到足以无忧无虑地行走于世，好到足以推开那些以前未曾开启的门，好到足以拥有归属感。"
+  },
+  {
+    "id": 82,
+    "title": "An NFT That Saves Lives",
+    "title_zh": "一个拯救生命的NFT",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/nft.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-09-15",
+    "summary_en": "This article explores an innovative application of NFTs by Noora Health, a non-profit focused on maternal and infant health in South Asia. Instead of merely representing existing assets, this unique NFT, titled 'Save Thousands of Lives,' directly funds life-saving interventions, with its value increasing proportionally to the lives saved. The author highlights Noora Health's impressive track record—saving 9 babies per 1000 live births at a remarkably low cost of $1,235 per life—backed by robust data from a large-scale study. This initiative represents a compelling case study for leveraging emerging blockchain technology for social impact, offering a transparent and measurable way for donors to contribute directly to tangible outcomes. It challenges conventional notions of NFTs and philanthropy, prompting reflection on how technology can redefine charitable giving and accountability.",
+    "summary_zh": "这篇文章介绍了一个令人振奋的NFT新用途：Noora Health通过发行名为“拯救数千生命”的NFT，直接为母婴健康项目筹款。这不仅仅是数字艺术品，其价值与拯救的生命数量直接挂钩，价格越高，拯救的生命越多，这本身就是一种强大的激励。作者对Noora Health在南亚地区显著的救生效率和透明度表示赞赏，认为这为NFT和慈善事业开辟了新路径。它让我思考，当技术与人类最深层的同情心结合时，可以创造出多么非凡的社会价值。",
+    "best_quote_en": "this NFT gets better as the price gets higher.",
+    "best_quote_zh": "这个NFT的价值会随着其价格的升高而提升。"
+  },
+  {
+    "id": 83,
+    "title": "What, if not agency?",
+    "title_zh": "如果没有代理（Agency），那会是什么？",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/tQ9vWm4b57HFqbaRj/what-if-not-agency",
+    "tags": [
+      "inspire",
+      "design",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-09-15",
+    "summary_en": "This thought-provoking article delves into Sahil's vision for the future of AI, challenging the dominant 'agency' paradigm in favor of 'high-actuation' and 'co-agency'. It critiques the current focus on AI as an automated replacement for humans, advocating instead for AI as a tool that enhances human capabilities and integrates into a 'distributed network of care'. The author introduces concepts like 'soloware' and 'groupware' as a future where individuals and communities can custom-build software, countering big tech's lock-in strategies and optimizing for user benefit rather than profitability. A core argument is that true agency, with its complex self-preservation and power-seeking behaviors, may emerge later in AI development than other advanced capabilities, creating a critical interim period for humans to design more integrated and beneficial AI systems. The piece encourages deep consideration of how we can adapt to this 'autostructure period' by fostering communities around personalized, high-actuation interfaces.",
+    "summary_zh": "这篇文章深入探讨了萨希尔（Sahil）对AI未来的独特愿景，挑战了AI领域普遍的“代理”范式，转而倡导“高驱动”和“协同代理”的概念。它批判了将AI视为人类自动化替代品的现有趋势，提出AI应作为增强人类能力、融入“分布式关怀网络”的工具。文章还引入了“个人软件”（soloware）和“团体软件”（groupware）的理念，预示着一个用户可以定制软件、摆脱科技巨头束缚的未来。作者认为，真正具备复杂自我保护和权力追求行为的“代理”能力，可能比其他高级AI能力出现得更晚，这为人类设计更具整合性和有益的AI系统提供了宝贵的窗口期。我个人认为，这种对AI本质和未来形态的重新思考，极具启发性，尤其是在用户主权和AI伦理方面，它提出了一个更以人为本的AI发展路径。",
+    "best_quote_en": "A co-agentic AI would instead be engineered with the high-actuation philosophy in mind, designed to enhance what humans can do.",
+    "best_quote_zh": "协同代理（Co-agency）的AI将被设计为以高驱动理念为核心，旨在增强人类的能力。"
+  },
+  {
+    "id": 84,
+    "title": "What I Wanted, What I Got",
+    "title_zh": "我所渴望的，我所得到的",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/magazine/2025/09/22/what-i-wanted-what-i-got",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-09-14",
+    "summary_en": "Rachel Kushner's poignant essay delves into the formative power of desire, deprivation, and self-fashioning during childhood and adolescence. Through a series of vivid anecdotes, she explores how unfulfilled longings—for specific clothes, a different appearance, or a certain social status—shaped her identity more profoundly than mere acquisition ever could. The piece beautifully articulates the complex interplay between internal aspirations and external realities, drawing on psychoanalytic insights to suggest that our 'unlived lives' and the things we miss out on are crucial to our self-discovery. Kushner's narrative is a thoughtful reflection on the continuous process of aligning one's inner self with outward expression, culminating in a mature understanding of authenticity and personal style. It's a journey from external validation to internal congruence, highlighting the enduring impact of early experiences on adult identity.",
+    "summary_zh": "雷切尔·库什纳这篇散文深刻探讨了渴望、匮乏和自我塑造如何塑造了一个人的成长。我特别喜欢她引用心理学家亚当·菲利普斯关于“未曾实现的生活”的观点，这让我反思那些未竟的愿望如何成为了我们最真实的指南。文章以真挚的笔触描绘了作者从追求外部认同到最终找到内在和谐的历程，这不正是我们每个人都在寻求的吗？那种“恰如其分”的感觉，才是我们穷尽一生在服装和生活中寻找的自我表达。这不仅仅是关于衣服，更是关于一个人如何通过与世界互动来定义自己。",
+    "best_quote_en": "Missing out is not necessarily a bad thing. Having everything we want would leave us nothing to desire, to hope for, to expect. We need both the reassuring delusion of what we imagine, and a reality that can’t deliver it.",
+    "best_quote_zh": "错过不一定是坏事。如果我们拥有想要的一切，我们将一无所求，一无所望，一无所期。我们既需要对想象的安慰性幻觉，也需要一个无法实现它的现实。"
+  },
+  {
+    "id": 85,
+    "title": "You Won’t Believe My Morning",
+    "title_zh": "你不会相信我的早晨",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2020/03/my-morning.html",
+    "tags": [
+      "learn",
+      "science",
+      "design",
+      "controversial"
+    ],
+    "tags_zh": [
+      "学习",
+      "科学研究",
+      "设计创意",
+      "争议观点"
+    ],
+    "date": "2020-03-25",
+    "summary_en": "This speculative fiction piece from Wait But Why plunges the reader into a multi-tiered reality where different scales of existence coexist, each with its own perception of time and space. The protagonist is shrunk to a microscopic level by beings who are themselves microscopic to humans, revealing a fascinating hierarchy of life. The core insight is that the COVID-19 pandemic was engineered by a 'lower' tier of beings to unite humanity against a common enemy, hoping to foster wisdom in a species they deem technologically advanced but emotionally stunted. It's a thought-provoking narrative that uses a fantastical premise to deliver a sharp critique of human societal behavior and offers a unique, albeit extreme, solution to global conflict, prompting reflection on our place in the universe and our collective responsibility.",
+    "summary_zh": "这篇来自Wait But Why的科幻故事，以一个惊人的多层级宇宙观，探讨了人类社会面临的困境。文章通过将主角缩小到微观世界，揭示了不同生命层级对时间和空间的独特感知。最引人深思的是，新冠疫情竟是被“低一级”的生命设计，旨在团结人类、促使我们觉醒智慧。这让我不禁思考，我们自以为是的“宏大”视角，是否错失了太多更深层的现实？这种以极端方式“唤醒”人类的设定，既荒诞又充满警示，让人在会心一笑之余，也对人类的未来和集体责任有了更深刻的自省。",
+    "best_quote_en": "We created this coronavirus to fall into a certain sweet spot—not damaging enough to destroy your world, but bad enough to cause a long and scary global crisis. Short of an alien attack, it is the one thing that could make all humans in your world feel like they’re on the same team against a common enemy. The first and most crucial step on the road to a long-lasting species is the epiphany that you truly are a single team, alone in a dark and dangerous universe.",
+    "best_quote_zh": "我们制造这种冠状病毒，是为了让它处于一个恰到好处的境地——不足以摧毁你的世界，但足以引发一场漫长而可怕的全球危机。除了外星人入侵，这是唯一能让你们世界所有人类感受到他们是一个团队，共同对抗一个共同敌人的事情。迈向一个长寿物种的第一步也是最关键的一步，就是顿悟你们确实是一个团队，独自存在于一个黑暗而危险的宇宙中。"
   }]
