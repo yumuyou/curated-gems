@@ -144,6 +144,26 @@ class SmartTagGenerator:
                 ],
                 'domains': ['krebsonsecurity.com', 'schneier.com']
             },
+            'data-science': {
+                'zh': '数据科学',
+                'keywords': [
+                    'data science', 'data analysis', 'big data', 'analytics',
+                    'machine learning', 'statistics', 'data mining', 'visualization',
+                    'database', 'sql', 'python', 'r', 'tableau', 'pandas',
+                    '数据科学', '数据分析', '大数据', '统计', '数据挖掘', '可视化', '数据库'
+                ],
+                'domains': ['kaggle.com', 'towardsdatascience.com']
+            },
+            'gaming': {
+                'zh': '游戏开发',
+                'keywords': [
+                    'game', 'gaming', 'game development', 'game design', 'unity',
+                    'unreal engine', 'indie game', 'mobile game', 'esports',
+                    'game industry', 'gamedev', 'game engine', 'graphics',
+                    '游戏', '游戏开发', '游戏设计', '独立游戏', '手机游戏', '电竞', '游戏引擎'
+                ],
+                'domains': ['gamasutra.com', 'gamedev.net', 'itch.io']
+            },
             
             # === 商业类 ===
             'startup-strategy': {
@@ -196,6 +216,16 @@ class SmartTagGenerator:
                 ],
                 'domains': ['marketingland.com', 'contentmarketinginstitute.com']
             },
+            'product-management': {
+                'zh': '产品管理',
+                'keywords': [
+                    'product management', 'product manager', 'product strategy',
+                    'user research', 'product roadmap', 'feature', 'user story',
+                    'agile', 'scrum', 'mvp', 'product launch', 'metrics',
+                    '产品管理', '产品经理', '产品策略', '用户研究', '产品路线图', '敏捷', '最小可行产品'
+                ],
+                'domains': ['productplan.com', 'mindtheproduct.com']
+            },
             
             # === 学术研究类 ===
             'science': {
@@ -227,6 +257,16 @@ class SmartTagGenerator:
                     '心理学', '心理健康', '行为', '认知', '情绪', '治疗', '正念', '压力'
                 ],
                 'domains': ['psychologytoday.com', 'apa.org']
+            },
+            'environment': {
+                'zh': '环境科学',
+                'keywords': [
+                    'environment', 'climate change', 'sustainability', 'renewable energy',
+                    'carbon', 'greenhouse gas', 'global warming', 'ecology',
+                    'conservation', 'green technology', 'clean energy', 'pollution',
+                    '环境', '气候变化', '可持续发展', '可再生能源', '碳排放', '生态', '环保技术'
+                ],
+                'domains': ['nature.com', 'ipcc.ch', 'epa.gov']
             },
             
             # === 社会文化类 ===
@@ -260,6 +300,16 @@ class SmartTagGenerator:
                 ],
                 'domains': ['npr.org', 'bbc.com', 'theguardian.com']
             },
+            'legal': {
+                'zh': '法律法规',
+                'keywords': [
+                    'law', 'legal', 'regulation', 'legislation', 'court',
+                    'judge', 'lawyer', 'attorney', 'lawsuit', 'compliance',
+                    'contract', 'intellectual property', 'patent', 'copyright',
+                    '法律', '法规', '立法', '法院', '法官', '律师', '诉讼', '合规', '知识产权'
+                ],
+                'domains': ['law.com', 'justia.com', 'findlaw.com']
+            },
             
             # === 生活方式类 ===
             'lifestyle': {
@@ -282,6 +332,26 @@ class SmartTagGenerator:
                 ],
                 'domains': ['edutopia.org', 'khanacademy.org']
             },
+            'health-wellness': {
+                'zh': '健康养生',
+                'keywords': [
+                    'health', 'wellness', 'fitness', 'nutrition', 'diet',
+                    'exercise', 'workout', 'mental health', 'meditation',
+                    'sleep', 'stress management', 'healthy lifestyle', 'yoga',
+                    '健康', '养生', '健身', '营养', '饮食', '锻炼', '冥想', '睡眠', '瑜伽'
+                ],
+                'domains': ['healthline.com', 'webmd.com', 'mayoclinic.org']
+            },
+            'personal-finance': {
+                'zh': '个人理财',
+                'keywords': [
+                    'personal finance', 'money', 'budget', 'saving', 'investment',
+                    'retirement', 'insurance', 'debt', 'credit', 'financial planning',
+                    'wealth', 'passive income', 'financial independence',
+                    '个人理财', '金钱', '预算', '储蓄', '投资', '退休', '保险', '债务', '财务规划'
+                ],
+                'domains': ['mint.com', 'nerdwallet.com', 'investopedia.com']
+            },
             
             # === 创意设计类 ===
             'design': {
@@ -293,6 +363,26 @@ class SmartTagGenerator:
                     '设计', '用户体验', '界面', '图形设计', '网页设计', '创意', '艺术'
                 ],
                 'domains': ['dribbble.com', 'behance.net', 'designbetter.co']
+            },
+            'music-arts': {
+                'zh': '音乐艺术',
+                'keywords': [
+                    'music', 'art', 'artist', 'musician', 'painting', 'sculpture',
+                    'photography', 'film', 'cinema', 'theater', 'performance',
+                    'creative process', 'inspiration', 'gallery', 'exhibition',
+                    '音乐', '艺术', '艺术家', '音乐家', '绘画', '雕塑', '摄影', '电影', '戏剧'
+                ],
+                'domains': ['artsy.net', 'spotify.com', 'soundcloud.com']
+            },
+            'writing-content': {
+                'zh': '写作内容',
+                'keywords': [
+                    'writing', 'content', 'blog', 'journalism', 'storytelling',
+                    'copywriting', 'creative writing', 'author', 'book', 'novel',
+                    'poetry', 'publishing', 'editing', 'narrative',
+                    '写作', '内容', '博客', '新闻', '故事', '文案', '创意写作', '作者', '小说', '诗歌'
+                ],
+                'domains': ['medium.com', 'substack.com', 'goodreads.com']
             }
         }
     
