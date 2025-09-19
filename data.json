@@ -805,4 +805,119 @@
     "summary_zh": "这篇Wait But Why的文章以其标志性的幽默和深度，介绍了与Kurzgesagt合作开发的“Universe in a Nutshell”应用。作者分享了与Kurzgesagt创始人Philipp Dettmer因共同的“乐趣房间”（即对宇宙尺度的痴迷）而结缘的故事，以及这款旨在探索从微观粒子到宏观星系的互动应用的诞生过程。它不仅仅是产品发布，更是一次对人类好奇心和探索欲的致敬，让我不禁思考，那些看似微不足道的个人兴趣，如何能汇聚成震撼人心的创造。",
     "best_quote_en": "You’re not moving forward and backward through a tunnel of objects—it just seems that way because your brain will refuse to accept the insanity of the actual sizes you’re seeing. By reminding yourself again and again that all of these objects are “painted” on the same 2D wall, you’ll hopefully experience some fun mind-bending moments.",
     "best_quote_zh": "你并不是在物体隧道中前后移动——之所以看起来是那样，是因为你的大脑会拒绝接受你所看到实际尺寸的疯狂。通过一遍又一遍地提醒自己，所有这些物体都“绘制”在同一个二维墙上，你将有望体验到一些有趣的、令人脑洞大开的时刻。"
+  },{
+    "id": 36,
+    "title": "Sex work and abuse: the women trapped in Malawi’s growing refugee camp",
+    "title_zh": "性工作与虐待：马拉维日益壮大的难民营中受困的女性",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/world/2025/sep/16/refugees-camp-malawi-dzaleka-aid-unhcr-sex-work-domestic-violence",
+    "tags": [
+      "solve",
+      "politics",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-09-16",
+    "summary_en": "This article powerfully exposes the harrowing realities faced by women in Malawi's Dzaleka refugee camp, where funding cuts and a cessation of US refugee intake have exacerbated already dire conditions. Through the poignant testimonies of Francine, Anne, and Judith, it illuminates the tragic descent into sex work for survival, the surge in domestic violence, and the profound despair stemming from a lack of relocation prospects. The piece critically highlights the systemic failures and the immense human cost of global policy shifts, challenging readers to confront the ethical implications of reduced aid and restricted resettlement. It's a sobering look at how geopolitical decisions directly impact the most vulnerable, questioning the efficacy and humanity of current refugee support structures.",
+    "summary_zh": "这篇文章揭示了马拉维Dzaleka难民营中女性的残酷现实。资金削减和美国停止接收难民，让她们的困境雪上加霜。通过弗朗辛、安妮和朱迪思的证词，我看到了为生存从事性工作、家暴激增以及对安置前景的绝望。这不仅是对个人悲剧的记录，更是对全球政策失灵的深刻批判，让人不禁思考，当人道主义援助被削减，这些脆弱的生命该何去何从？我们真的可以袖手旁观吗？",
+    "best_quote_en": "“Sometimes I see other people going, who are in good health, but … I am staying behind. I feel so much pain. Sometimes I ask myself, ‘Why is it that I don’t get helped like others? Is it because of who I am, my health condition?’”",
+    "best_quote_zh": "“有时候我看到其他人走了，他们身体健康，而我却被留下了。我感到非常痛苦。有时我问自己，‘为什么我得不到像其他人一样的帮助？是因为我是谁，还是我的健康状况？’”"
+  },
+  {
+    "id": 37,
+    "title": "What I've Learned from Users",
+    "title_zh": "我从用户那里学到了什么",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/users.html",
+    "tags": [
+      "solve",
+      "startup-strategy",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "创业策略",
+      "数据驱动"
+    ],
+    "date": "2025-09-19",
+    "summary_en": "This essay offers profound insights into the operational philosophy and value proposition of Y Combinator, framed through the lens of lessons learned from interacting with thousands of startup founders. The author, a co-founder of YC, reveals that despite their unique products, most startups grapple with a surprisingly similar set of fundamental problems. A key takeaway is the counterintuitive nature of startups and the critical role YC plays in helping founders navigate this complexity, not through a one-size-fits-all formula, but through individualized guidance and by fostering a unique peer-to-peer ecosystem. The article compellingly argues that YC's true genius lies in its ability to provide focus, accelerate learning, and connect founders with a powerful network of colleagues, addressing a deep-seated need for ambitious individuals. It's a fascinating look into the mechanics of fostering innovation and growth at scale.",
+    "summary_zh": "这篇文章以YC联合创始人的视角，深入剖析了YC从服务数千家初创公司中汲取的宝贵经验。我被文章中“大多数初创公司面临的问题惊人地相似”这一洞察深深吸引，它揭示了创业的底层逻辑。YC的价值不仅在于提供指导，更在于它如何通过个性化辅导和强大的社群网络，帮助创始人驾驭创业的“反直觉”本质，并提供关键的“专注力”。这不仅是关于一个孵化器的运作模式，更是对创新生态系统如何有效赋能创业者的深刻思考，其对“同事”价值的强调尤为引人深思。",
+    "best_quote_en": "The reason startups are so counterintuitive is that they're so different from most people's other experiences. No one knows what it's like except those who've done it. Which is why YC partners should usually have been founders themselves.",
+    "best_quote_zh": "创业之所以如此反直觉，是因为它与大多数人的其他经历截然不同。除了亲身实践过的人，没人知道那是什么滋味。这就是为什么YC的合伙人通常也应该是创始人。"
+  },
+  {
+    "id": 38,
+    "title": "Book Review: If Anyone Builds It, Everyone Dies",
+    "title_zh": "书评：《如果有人建造，所有人都会死》",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/N2Cs7vGbfevfFzmxE/book-review-if-anyone-builds-it-everyone-dies-1",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-09-19",
+    "summary_en": "This review critically dissects the core arguments of \"If Anyone Builds It, Everyone Dies,\" a book positing that superintelligence will inevitably emerge, be misaligned, and destroy humanity. The reviewer, while sharing a general concern about superintelligence risk, systematically challenges the book's overconfident assertions, particularly regarding the speed of AI development, the suddenness of superintelligence emergence, and the inevitability of its destructive misalignment. The analysis highlights the book's flawed logic in conflating theoretical possibility with high probability, and its unrigorous leap from our inability to precisely specify AI goals to the certainty of alien, destructive goals. The reviewer thoughtfully contrasts the book's speculative claims with current empirical evidence from AI models, suggesting a more nuanced and less alarmist perspective on AI alignment and safety. The piece offers a balanced critique, acknowledging the book's value in clarifying certain misconceptions for a lay audience while firmly refuting its alarmist conclusions.",
+    "summary_zh": "这篇书评对《如果有人建造，所有人都会死》一书进行了深刻剖析，挑战了其关于超智能必然出现、失控并毁灭人类的核心论点。评论者虽认同超智能的潜在风险，但对作者将理论可能性等同于必然性的过度自信提出质疑，并指出其在AI发展速度、突发性以及目标异化方面的论证存在缺陷。我尤其欣赏评论者用现有AI模型的实际表现来反驳那些末日论断，这提醒我们，在面对未来科技时，批判性思维和实证精神远比恐慌更重要。这篇评论不仅是一次学术辩论，更是一次对AI未来走向的冷静思考。",
+    "best_quote_en": "The main flaw of the book is asserting that various things are possible in theory, and then implying that this means they will definitely happen.",
+    "best_quote_zh": "这本书的主要缺陷在于，它断言各种事情在理论上是可能的，然后暗示这意味着它们一定会发生。"
+  },
+  {
+    "id": 39,
+    "title": "The Grave Threat Posed by Donald Trump’s Attack on Jimmy Kimmel",
+    "title_zh": "唐纳德·特朗普攻击吉米·坎摩尔所构成的严重威胁",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/q-and-a/the-grave-threat-posed-by-donald-trumps-attack-on-jimmy-kimmel",
+    "tags": [
+      "analyze",
+      "writing-content",
+      "politics",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容",
+      "政治时事",
+      "案例研究"
+    ],
+    "date": "2025-09-19",
+    "summary_en": "This article presents a chilling Q&A with Michael Idov, a filmmaker and former editor of GQ Russia, who draws stark parallels between the Trump administration's alleged attacks on media and culture in the US and the gradual erosion of free expression under Putin's rule in Russia. Idov highlights the speed and directness of Trump's actions, contrasting them with Putin's more gradual, often reactive, and initially less centralized approach. The piece provocatively suggests that Trump's methods, driven by personal grievance, are perhaps more akin to Orbán or Erdoğan than early Putin, raising concerns about the rapid normalization of authoritarian tactics in a democratic society. It makes one ponder how easily foundational freedoms can be undermined when power is wielded with such deliberate intent.",
+    "summary_zh": "这篇访谈令人不安地揭示了特朗普政府对媒体和文化的攻击，与普京治下俄罗斯言论自由逐步受侵蚀的惊人相似之处。作者Michael Idov以亲身经历对比，指出特朗普行动的直接与迅速，可能比早期普京更具侵略性。这不禁让人深思，当权力被如此直接地用来压制异见时，民主社会的基石会以何等速度被侵蚀，而我们又该如何警醒。",
+    "best_quote_en": "Up until very recently, ninety-nine per cent of censorship that I’ve witnessed in Russia and in Russian culture was self-censorship. In a way, it was middle managers trying to divine which way the wind blows and preëmptively complying with rules that were never really written down.",
+    "best_quote_zh": "直到最近，我在俄罗斯和俄罗斯文化中看到百分之九十九的审查都是自我审查。在某种程度上，这是中层管理者试图揣摩风向，并先发制人地遵守从未真正成文的规则。"
+  },
+  {
+    "id": 40,
+    "title": "You Won’t Believe My Morning",
+    "title_zh": "你不会相信我的早晨",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2020/03/my-morning.html",
+    "tags": [
+      "learn",
+      "design",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "设计创意",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2020-03-25",
+    "summary_en": "This captivating narrative plunges the reader into a mind-bending exploration of scale, time, and humanity's place in a multi-tiered universe. What begins as a mundane morning walk quickly spirals into a fantastical journey where the protagonist is shrunk to microscopic levels, revealing hidden civilizations and a startling origin story for the COVID-19 pandemic. The story cleverly uses the concept of vastly different scales and time perceptions to deliver a profound commentary on human arrogance, technological advancement outpacing wisdom, and the desperate need for global unity. It challenges our anthropocentric views, suggesting that our biggest problems might be orchestrated by beings we can't even perceive, all in an attempt to nudge us towards collective enlightenment. The ending, with its meta-commentary on the protagonist writing about his experience, adds another layer of intrigue and self-awareness.",
+    "summary_zh": "这篇引人入胜的故事将我们带入一个关于尺度、时间和多层宇宙的奇妙旅程。从一个普通的早晨散步开始，主人公意外缩小到微观世界，揭示了隐藏的文明和新冠疫情的惊人起源。故事巧妙地利用巨大的尺度差异和时间感知，深刻评论了人类的傲慢、技术进步与智慧脱节，以及全球团结的迫切需要。它挑战了我们以人类为中心的视角，暗示我们最大的问题可能由我们无法感知的存在精心策划，旨在推动我们走向集体觉醒。故事以主人公撰写自身经历的元叙事结尾，增添了一层引人深思的趣味。",
+    "best_quote_en": "For most of time, Earth was a safe and stable home for our world. But over the last century, your world has been advancing exponentially in technology but remaining stagnant in wisdom. You’re rapidly gaining tremendous powers but still behaving like short-sighted primates.",
+    "best_quote_zh": "在大部分时间里，地球对我们的世界来说都是一个安全稳定的家园。但在过去的一个世纪里，你们的世界在技术上呈指数级进步，智慧却停滞不前。你们正在迅速获得巨大的力量，却仍然表现得像短视的灵长类动物。"
   }]
