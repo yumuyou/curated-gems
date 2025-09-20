@@ -920,4 +920,119 @@
     "summary_zh": "这篇引人入胜的故事将我们带入一个关于尺度、时间和多层宇宙的奇妙旅程。从一个普通的早晨散步开始，主人公意外缩小到微观世界，揭示了隐藏的文明和新冠疫情的惊人起源。故事巧妙地利用巨大的尺度差异和时间感知，深刻评论了人类的傲慢、技术进步与智慧脱节，以及全球团结的迫切需要。它挑战了我们以人类为中心的视角，暗示我们最大的问题可能由我们无法感知的存在精心策划，旨在推动我们走向集体觉醒。故事以主人公撰写自身经历的元叙事结尾，增添了一层引人深思的趣味。",
     "best_quote_en": "For most of time, Earth was a safe and stable home for our world. But over the last century, your world has been advancing exponentially in technology but remaining stagnant in wisdom. You’re rapidly gaining tremendous powers but still behaving like short-sighted primates.",
     "best_quote_zh": "在大部分时间里，地球对我们的世界来说都是一个安全稳定的家园。但在过去的一个世纪里，你们的世界在技术上呈指数级进步，智慧却停滞不前。你们正在迅速获得巨大的力量，却仍然表现得像短视的灵长类动物。"
+  },{
+    "id": 41,
+    "title": "The pill, Puerto Rico and the patriarchal medical system | Letters",
+    "title_zh": "避孕药、波多黎各与父权医疗体系 | 读者来信",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/2025/sep/19/the-pill-puerto-rico-and-the-patriarchal-medical-system",
+    "tags": [
+      "analyze",
+      "science",
+      "medicine",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "医学健康",
+      "数据驱动"
+    ],
+    "date": "2025-09-19",
+    "summary_en": "This letter insightfully critiques the prevailing narrative around contraceptive misinformation, shifting the blame from women to the medical establishment. It powerfully highlights the historical injustices, particularly the coercive testing of the birth control pill on Puerto Rican women, and the subsequent medical gaslighting that dismisses women's reported side effects. The author, a PhD researcher, argues that current social media discussions, while sometimes containing misinformation, are a continuation of women's health activism against a patriarchal medical system. This piece compels us to reconsider the systemic issues within healthcare that perpetuate distrust and underscores the urgent need for medical practitioners to develop better, more ethical birth control methods, rather than silencing legitimate concerns. It's a critical call for accountability and empathy in women's health.",
+    "summary_zh": "这封读者来信深刻剖析了避孕药争议背后的父权医疗体系。作者作为博士研究员，揭露了避孕药在波多黎各女性身上进行强制性试验的历史，以及长期以来医疗界对女性副作用报告的漠视与精神操控。她认为，将避孕药担忧归咎于女性“误传”是本末倒置，真正的责任在于医疗从业者开发更优、更道德的避孕方法。这不仅是对历史不公的控诉，更是对当下医疗伦理和女性健康权益的有力呼吁，引人深思。",
+    "best_quote_en": "However, the onus is on medical practitioners to develop better birth control methods, rather than trying to quash concerns about the pill. A legacy of medical gaslighting, trauma and violence runs through women’s medicine.",
+    "best_quote_zh": "然而，医疗从业者有责任开发更好的节育方法，而不是试图平息对避孕药的担忧。医学精神操控、创伤和暴力在女性医疗中由来已久。"
+  },
+  {
+    "id": 42,
+    "title": "Heresy",
+    "title_zh": "异端",
+    "source": "Paul Graham",
+    "link": "http://www.paulgraham.com/heresy.html",
+    "tags": [
+      "guide",
+      "startup-strategy",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "指导",
+      "创业策略",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2025-09-20",
+    "summary_en": "This essay provocatively reintroduces the concept of 'heresy' into contemporary discourse, arguing that modern employment and social dynamics exhibit structural parallels to historical religious persecution. The author contends that certain opinions, labeled as 'x-ist' or otherwise, are treated as unforgivable sins, overriding truth and an individual's entire past contributions. This phenomenon, driven by 'aggressively conventional-minded' individuals and fueled by rigid ideologies, mirrors historical waves of intolerance like the Cultural Revolution. While acknowledging the current narrowing of free expression, the author remains guardedly optimistic, suggesting that societal antibodies can be developed by pushing back against this trend. The piece offers a compelling framework for understanding the mechanisms of censorship and conformity in a secular age, urging readers to recognize and resist the subtle erosion of open discourse.",
+    "summary_zh": "这篇文章以“异端”之名，犀利地剖析了当代社会中言论压制与思想禁锢的结构性回归。作者敏锐地指出，某些观点被赋予“不可饶恕之罪”的地位，其影响力甚至凌驾于事实真相之上，并能抹杀个体过往的所有贡献。这种现象，由“攻击性守旧派”驱动，并被僵化意识形态所利用，与历史上的文化大革命等不宽容浪潮如出一辙。尽管承认言论自由空间正在收窄，作者仍保持审慎乐观，呼吁通过反抗来形成社会抗体。它让我深思，在追求进步的旗帜下，我们是否正无意中重蹈历史的覆辙，以新的形式压制异见？",
+    "best_quote_en": "There are an ever-increasing number of opinions you can be fired for. Those doing the firing don't use the word \"heresy\" to describe them, but structurally they're equivalent.",
+    "best_quote_zh": "你可以因为越来越多的观点而被解雇。那些解雇你的人不用“异端”这个词来形容它们，但从结构上讲，它们是等同的。"
+  },
+  {
+    "id": 43,
+    "title": "An Economic Model of Modern Dating",
+    "title_zh": "现代约会经济学模型",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/hqFqnxLugSZqupcqA/an-economic-model-of-modern-dating",
+    "tags": [
+      "learn",
+      "economics",
+      "business-model"
+    ],
+    "tags_zh": [
+      "学习",
+      "经济金融",
+      "商业模式"
+    ],
+    "date": "2025-09-20",
+    "summary_en": "This article presents a compelling economic model to explain the complexities and frustrations of modern dating, particularly within the context of dating apps. Drawing parallels to job search models and private information economics, it introduces the concept of 'reservation values' for physical attractiveness and unobserved traits like personality. The author skillfully dissects how factors such as the variance of unobserved traits, the intent of daters (long-term vs. short-term), and the 'flow rate' of offers influence these reservation values and ultimately shape dating dynamics. A particularly insightful aspect is the 'no-trade zone' phenomenon, where high-value but physically unattractive individuals struggle to find matches, a problem exacerbated by larger markets. This model offers a fresh, analytical perspective on why dating apps, despite increasing options, can lead to greater pickiness and sorting, making it a thought-provoking read for anyone curious about human behavior in digital environments.",
+    "summary_zh": "这篇文章用经济学模型深入剖析了现代约会的困境，尤其是约会应用带来的挑战。作者巧妙地将就业市场和信息不对称理论引入，提出了“保留价值”的概念来解释外貌和个性在约会中的作用。最引人深思的是“无交易区”现象：那些内在价值高但外表不具吸引力的人，反而可能在选择更多的大市场中被边缘化。这不禁让我思考，当效率和选择的增加，反而可能导致某些群体更难找到伴侣时，我们应该如何重新审视这些“进步”？这不仅是关于约会，更是对现代社会中人际连接模式的深刻反思。",
+    "best_quote_en": "Ugly people on dating apps will have bad personalities because if they had good personalities, they wouldn't be using the dating app.",
+    "best_quote_zh": "约会应用上不漂亮的人会有糟糕的个性，因为如果他们有好的个性，他们就不会使用约会应用了。"
+  },
+  {
+    "id": 44,
+    "title": "The Great Student Swap",
+    "title_zh": "学生大交换",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-great-student-swap",
+    "tags": [
+      "analyze",
+      "economics",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "经济金融",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-09-19",
+    "summary_en": "This insightful article explores the phenomenon of the \"Great Student Swap\" in US higher education, where public universities aggressively recruit out-of-state and international students to offset state budget cuts by charging higher tuition. It meticulously details how flagship universities, initially focused on in-state students, shifted strategies over the past two decades, transforming their demographics and financial models. The piece highlights the intense competition for students, the sophisticated marketing tactics employed by universities like Alabama, and the societal implications, such as in-state students being displaced. Crucially, it raises a thought-provoking question about the sustainability of this model, given declining birth rates and stricter international student policies, suggesting that this lucrative pipeline may be drying up. The analysis compels reflection on the true cost and value of higher education, and the ethical considerations when financial imperatives drive student recruitment strategies.",
+    "summary_zh": "这篇文章深入剖析了美国高等教育中“学生大交换”现象，公立大学为弥补州政府拨款不足，积极招募州外和国际学生以收取更高学费。作者详细阐述了大学如何从关注本州生源转向全国乃至全球招生，以及这背后的复杂市场策略。我特别思考，当教育的本质被财政压力所裹挟，这种模式对教育公平和学生选择权的影响。随着出生率下降和国际政策收紧，这种“淘金热”能否持续，以及它将如何重塑美国高等教育的未来，都值得我们深思。",
+    "best_quote_en": "The point of this is to persuade teen-agers from all over the country to choose Alabama. “You have to differentiate yourself at the front door,” Matt McLendon, who oversees the school’s undergraduate-enrollment operation, told me during a campus visit. “Not all undergraduates even here now were predisposed to consider us at first.”",
+    "best_quote_zh": "这样做的目的，是为了说服全国各地的青少年选择阿拉巴马大学。“你必须在‘前门’就展现出自己的与众不同，”负责学校本科招生运营的马特·麦克伦登在我参观校园时告诉我，“并非所有现在的本科生一开始都倾向于考虑我们学校。”"
+  },
+  {
+    "id": 45,
+    "title": "It’s 2020 and you’re in the future",
+    "title_zh": "2020年，你已身处未来",
+    "source": "Wait But Why",
+    "link": "https://waitbutwhy.com/2020/01/its-2020-and-youre-in-the-future.html",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "psychology"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "心理学"
+    ],
+    "date": "2020-01-02",
+    "summary_en": "This article masterfully uses historical analogies and cultural touchstones to illustrate the relentless march of time, creating a profound sense of temporal displacement. By comparing the perceived distance of past events (like WWII or Y2K) to current generations, it cleverly highlights how our subjective experience of time often distorts objective chronology. The author's playful yet poignant tone encourages readers to reflect on their own place in history and the fleeting nature of 'the present.' It's a thought-provoking piece that nudges us to appreciate the current moment while also marveling at how quickly the future becomes the past. The references to AGI and the 2100s add a layer of future-focused contemplation, grounding the personal reflections in a broader, technological context.",
+    "summary_zh": "这篇文章以幽默而深刻的方式，通过一系列历史事件的对比，巧妙地揭示了时间流逝的奇特感知。它让我意识到，我们对“过去”的距离感是如此主观，那些曾经的“未来”已然成为历史。读完不禁感叹，我们正生活在一个由无数个“曾经的未来”交织而成的现在，而此刻的我们，也在为百年后的“老古董”们创造着历史。这种对时间维度的重新审视，既令人有些许“老去”的惆怅，也激发出对当下和未来的无限思考。",
+    "best_quote_en": "But the weirdest thing about kids today: most of them will live to see the 2100s.",
+    "best_quote_zh": "但关于今天的孩子最奇怪的事情是：他们中的大多数人将活到22世纪。"
   }]
