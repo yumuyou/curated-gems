@@ -129,6 +129,28 @@ function applyAndRender() {
     const query = (searchEl.value || '').trim().toLowerCase();
     const lang = window.currentLang || 'zh';
 
+    // 统计：当前搜索条件下，各数据源可见数量
+    const counts = { all: 0 };
+    for (const item of raw) {
+      const summaryField = (lang === 'zh' ? item.summary_zh : item.summary_en) || '';
+      const quoteField   = (lang === 'zh' ? item.best_quote_zh : item.best_quote_en) || '';
+      const titleField   = (lang === 'zh' ? (item.title_zh || item.title) : item.title) || '';
+      const tagsArr      = item.tags || [];
+    
+      const matchesQuery = !query ||
+        titleField.toLowerCase().includes(query) ||
+        summaryField.toLowerCase().includes(query) ||
+        quoteField.toLowerCase().includes(query) ||
+        tagsArr.some(tag => tag.toLowerCase().includes(query));
+    
+      if (matchesQuery) {
+        counts.all += 1;
+        const s = item.source || 'unknown';
+        counts[s] = (counts[s] || 0) + 1;
+      }
+    }
+    
+    window.__countsForCurrentQuery = counts;
     // 筛选数据
     view = raw.filter(item => {
         // 根据语言选择对应字段
@@ -151,6 +173,7 @@ function applyAndRender() {
 
     // 渲染结果
     render(view);
+    renderSources(['all', ...new Set(raw.map(x => x.source))]);
     // 彩蛋：输入 magic 试试看
     if (query === 'magic') {
       alert('✨ 哇！你发现了隐藏功能！');
@@ -161,13 +184,17 @@ function applyAndRender() {
  * 渲染数据源选择器
  */
 function renderSources(list) {
+    const counts = window.__countsForCurrentQuery || { all: raw.length };
     const lang = window.currentLang || 'zh';
 
     sourcesEl.innerHTML = list.map(source => {
         // 🌟 优化数据源显示文字
+        const n = counts[source] || 0;
         const displayText = source === 'all'
-            ? (lang === 'zh' ? '📚 全部精选' : '📚 All Sources')
-            : `✨ ${source}`;
+          ? (lang === 'zh'
+              ? `📚 全部 (${n})`
+              : `📚 All (${n})`)
+          : `✨ ${source} (${n})`;
 
         const isActive = source === activeSource ? 'active' : '';
 
