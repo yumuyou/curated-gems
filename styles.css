@@ -61,7 +61,7 @@ body {
     margin: 0;
     font-size: 2rem;
     font-weight: 700;
-    color: #3b5998; /* 添加蓝色调 */
+    color: #f4cccc; /* 添加淡粉色调 */
     letter-spacing: -0.5px;
     text-shadow: 1px 1px 0px rgba(0,0,0,0.05);
 }
@@ -95,7 +95,7 @@ body {
     justify-content: center;
     cursor: pointer;
     font-weight: 600;
-    color: #3b5998; /* 添加蓝色调 */
+    color: #f4cccc; /* 添加蓝色调 */
     transition: all 0.2s ease;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.05);
 }
@@ -133,7 +133,7 @@ body {
 
 .version-tab:hover {
     background: rgba(59, 89, 152, 0.1); /* 蓝色调的悬停效果 */
-    color: #3b5998;
+    color: #f4cccc;
 }
 
 .version-tab.active {
