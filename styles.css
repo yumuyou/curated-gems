@@ -5,7 +5,7 @@
 body {
     font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
     margin: 0;
-    background-color: #f8f9fa;
+    background-color: #ffe8ff;
     color: #343a40
 }
 
@@ -85,7 +85,7 @@ body {
 }
 
 .control-button {
-    background: linear-gradient(145deg, #f8f9fa, #e9ecef);
+    background: linear-gradient(145deg, #ffe8ff, #e9ecef);
     border: 1px solid #e9ecef;
     border-radius: 50%;
     width: 40px;
@@ -101,7 +101,7 @@ body {
 }
 
 .control-button:hover {
-    background: linear-gradient(145deg, #e9ecef, #f8f9fa);
+    background: linear-gradient(145deg, #e9ecef, #ffe8ff);
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
@@ -175,7 +175,7 @@ body {
     justify-content: center;
     gap: 8px;
     padding: 12px;
-    background: #f8f9fa;
+    background: #ffe8ff;
     border-radius: 8px;
     border: 1px solid #e9ecef;
     flex: 1;
@@ -289,7 +289,7 @@ button:hover {
     flex-wrap: wrap;
     margin-bottom: 16px;
     padding: 12px;
-    background: #f8f9fa;
+    background: #ffe8ff;
     border-radius: 12px;
     border: 1px solid #e9ecef;
 }
@@ -439,7 +439,7 @@ button:hover {
 
 /* V3 控件样式 */
 .controls {
-    background: #f8f9fa;
+    background: #ffe8ff;
     border: 1px solid #e9ecef;
     border-radius: 8px;
     padding: 12px;
@@ -859,7 +859,7 @@ button:hover {
 }
 
 .stat-item {
-    background: #f8f9fa;
+    background: #ffe8ff;
     padding: 1rem;
     border-radius: 8px;
     text-align: center;
@@ -902,7 +902,7 @@ button:hover {
 .stats-header-row {
     display: grid;
     grid-template-columns: 2fr 1fr 1fr;
-    background: #f8f9fa;
+    background: #ffe8ff;
     padding: 0.75rem;
     font-weight: bold;
     color: #2c3e50;
@@ -918,7 +918,7 @@ button:hover {
 }
 
 .stats-row:hover {
-    background: #f8f9fa;
+    background: #ffe8ff;
 }
 
 .stats-row:last-child {
