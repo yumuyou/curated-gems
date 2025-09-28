@@ -61,7 +61,7 @@ body {
     margin: 0;
     font-size: 2rem;
     font-weight: 700;
-    color: #f4cccc; /* 添加淡粉色调 */
+    color: #f8aa9e; /* 添加淡粉色调 */
     letter-spacing: -0.5px;
     text-shadow: 1px 1px 0px rgba(0,0,0,0.05);
 }
@@ -95,7 +95,7 @@ body {
     justify-content: center;
     cursor: pointer;
     font-weight: 600;
-    color: #f4cccc; /* 添加蓝色调 */
+    color: #f8aa9e; /* 添加蓝色调 */
     transition: all 0.2s ease;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.05);
 }
@@ -132,8 +132,8 @@ body {
 }
 
 .version-tab:hover {
-    background: rgba(59, 89, 152, 0.1); /* 蓝色调的悬停效果 */
-    color: #f4cccc;
+    background: rgba(248,170,158, 0.1); /* 蓝色调的悬停效果 */
+    color: #f8aa9e;
 }
 
 .version-tab.active {
@@ -211,12 +211,12 @@ body {
 
 .version-select:focus {
     outline: none;
-    border-color: #0a58ca;
+    border-color: #93493c;
     box-shadow: 0 0 0 2px rgba(10, 88, 202, 0.25)
 }
 
 .version-select:hover {
-    border-color: #0a58ca
+    border-color: #93493c
 }
 
 #hint {
@@ -245,7 +245,7 @@ body {
 }
 
 .card a {
-    color: #0a58ca;
+    color: #93493c;
     text-decoration: none
 }
 
@@ -432,7 +432,7 @@ button:hover {
 
 .ai-label {
     font-weight: 600;
-    color: #0066cc;
+    color: #93493c;
     margin-right: 4px;
     font-size: 13px;
 }
