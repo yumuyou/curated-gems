@@ -211,12 +211,12 @@ body {
 
 .version-select:focus {
     outline: none;
-    border-color: #93493c;
+    border-color: #ab5bc1;
     box-shadow: 0 0 0 2px rgba(10, 88, 202, 0.25)
 }
 
 .version-select:hover {
-    border-color: #93493c
+    border-color: #ab5bc1
 }
 
 #hint {
@@ -245,7 +245,7 @@ body {
 }
 
 .card a {
-    color: #93493c;
+    color: #ab5bc1;
     text-decoration: none
 }
 
@@ -432,7 +432,7 @@ button:hover {
 
 .ai-label {
     font-weight: 600;
-    color: #93493c;
+    color: #ab5bc1;
     margin-right: 4px;
     font-size: 13px;
 }
