@@ -249,14 +249,14 @@
 
 2. **编辑标题内容**
    - 点击文件右上角的铅笔图标（Edit this file）
-   - 使用Ctrl+F（Windows）或Cmd+F（Mac）搜索"孙玲的精选内容收藏"，找到网站标题部分：
+   - 使用Ctrl+F（Windows）或Cmd+F（Mac）搜索"沐沐的精选内容收藏"，找到网站标题部分：
    ```html
-   <h1 data-zh="孙玲的精选内容收藏" data-en="Ling Sun's Curated Content">孙玲的精选内容收藏</h1>
+   <h1 data-zh="沐沐的精选内容收藏" data-en="Ling Sun's Curated Content">沐沐的精选内容收藏</h1>
    <p class="subtitle" data-zh="优质文章、播客和资源分享" data-en="Quality articles, podcasts and resources">优质文章、播客和资源分享</p>
    ```
 
 3. **修改为你的名字**
-   - 将"孙玲"替换为你的中文名字
+   - 将"沐沐"替换为你的中文名字
    - 将"Ling Sun"替换为你的英文名字
    - 例如，如果你叫张三：
    ```html
