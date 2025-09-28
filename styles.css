@@ -137,7 +137,7 @@ body {
 }
 
 .version-tab.active {
-    background: #3b5998; /* 蓝色调的激活状态 */
+    background: #BF98A0; /* 豆沙粉色调的激活状态 */
     color: white;
     font-weight: 500;
     box-shadow: 0 2px 4px rgba(59, 89, 152, 0.3);
