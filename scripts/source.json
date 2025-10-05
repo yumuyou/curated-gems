@@ -1,5 +1,25 @@
 [
   {
+    "name": "MacRumors",
+    "url": "https://feeds.macrumors.com/MacRumors-Mac"
+  },
+  {
+    "name": "elle",
+    "url": "https://www.elle.com/rss/beauty.xml/"
+  },
+  {
+    "name": "ign.com",
+    "url": "https://www.ign.com/rss/articles/feed"
+  },
+  {
+    "name": "escapistmagazine.com",
+    "url": "https://www.escapistmagazine.com/feed/"
+  },
+  {
+    "name": "blog.playstation.com",
+    "url": "https://feeds.feedburner.com/psblog"
+  },
+  {
     "name": "Women | The Guardian",
     "url": "http://theguardian.com/lifeandstyle/women/rss"
   },
