@@ -1,53 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "ByteDance’s new game ‘Clockwork Squad’ launched",
-    "title_zh": "字节旗下新游《发条总动员》上线",
-    "source": "TapTap - 游戏葡萄",
-    "link": "https://www.taptap.cn/moment/712529427753338918",
-    "tags": [
-      "game",
-      "ByteDance",
-      "art style",
-      "launch"
-    ],
-    "tags_zh": [
-      "游戏",
-      "字节",
-      "美术风格",
-      "上线"
-    ],
-    "date": "2025-09-01",
-    "summary_en": "ByteDance’s Moonton launched ‘Clockwork Squad’, a bullet-hell shooting game with a unique rubber hose animation art style rarely seen in China. The game quickly topped free charts globally and reached China’s top 21 grossing chart. Its distinctive hand-drawn animation, inspired by Cuphead and early cartoons, stands out in the mobile market despite high development costs. While its core gameplay isn’t new, its depth, modes, and strong art direction bring freshness, earning positive reception from both older and younger players.",
-    "summary_zh": "字节旗下的沐瞳科技于8月28日推出新游《发条总动员》，主打飞行射击与弹幕玩法，并采用国内少见的“橡皮管”复古手绘风格。游戏上线后在全球34个地区免费榜登顶，在国内畅销榜最高进入Top 21。项目组通过逐帧手绘和全新生产流程，克服了高成本与招人难的挑战。虽然玩法框架较为传统，但角色机制、玩法模式与社交体验设计丰富，加上独特美术风格，获得了不同年龄段玩家的高度好评。",
-    "best_quote_en": "The biggest highlight of ‘Clockwork Squad’ is its retro rubber hose animation style—exaggerated, fluid, mechanical, and steampunk elements give it unmatched visual identity in the Chinese mobile market.",
-    "best_quote_zh": "《发条总动员》最大的亮点显然在于美术——复古的橡皮管动画风格，配合机械感与蒸汽朋克元素，让其在国内手游中几乎找不出相似的画风。"
-  },
-  {
-    "id": 2,
-    "title": "Why Harvard Needs International Students",
-    "title_zh": "为什么哈佛需要国际学生",
-    "source": "Harvard Magazine",
-    "link": "https://www.harvardmagazine.com/commentary/harvard-international-students-necessary-campus-culture",
-    "tags": [
-      "international students",
-      "global education",
-      "university policy",
-      "diversity"
-    ],
-    "tags_zh": [
-      "国际学生",
-      "全球教育",
-      "大学政策",
-      "多样性"
-    ],
-    "date": "2025-08-08",
-    "summary_en": "Fernando M. Reimers argues that international students are essential not just as a source of revenue or prestige for universities like Harvard, but as vital contributors to learning environments that prepare students to engage with global challenges. Drawing from his own experience and stories of alumni, Reimers shows how international peers enrich education through cross-cultural communication, comparative perspective, collaborative problem-solving, and networks that extend beyond graduation. He warns that restrictions on international enrolment threaten these gains, and insists that global competence, empathy, and exposure to diverse ideas are necessities for any institution aiming to lead in the 21st century.",
-    "summary_zh": "Fernando M. Reimers 提出，国际学生不仅为像哈佛这样的大学带来收入或声望，更是帮助塑造能应对全球挑战的学习环境的关键组成部分。通过自身经历与校友故事，他展示了国际同学如何通过跨文化沟通、比较视角、协作解决问题以及毕业后延伸的全球网络来丰富教育体验。他警告说，对国际招生的限制会危及这些成果，并坚持认为全球能力、同理心与多元思维对于任何立志在 21 世纪引领教育的机构而言都是必不可少的。",
-    "best_quote_en": "To educate leaders equipped to meet today’s challenges, from war to climate change to migration, we must remain a University that is, itself, a community of nations.",
-    "best_quote_zh": "为了培养能够应对当今挑战的领导者——从战争到气候变化再到移民问题——我们必须保持大学本身就是一个国家之间的共同体。"
-  },
-  {
     "id": 3,
     "title": "Taylor Swift’s romantic travails were the soundtrack to mine. What does her engagement mean for fans’ love lives?",
     "title_zh": "泰勒·斯威夫特的情感历程曾是我的背景音乐。她订婚对粉丝的爱情生活意味着什么？",
@@ -470,8 +422,8 @@
     "summary_zh": "本期播客聚焦《鬼影·庚岳》的发布，深入探讨了这款引人入胜的新作，同时预告了多款即将上市的游戏。从动作冒险到多人射击，展现了PlayStation丰富的游戏库。对声优石井玲香的采访增添了幕后故事，让游戏体验更加立体。节目还提到索尼30周年纪念品，即将出版的摄影书将呈现丰富的品牌历史。对于期待《英雄学院：正义联盟》和《使命召唤：黑色行动7》的玩家，本期提供了珍贵的预览和实测报告。PlayStation Plus每月免费游戏的加入，更为用户带来了《艾兰·韦克2》等热门游戏的免费体验。整体而言，本期播客为索尼玩家提供了全面的游戏资讯，兼具专业分析和社区互动价值。",
     "best_quote_en": "Get a first look at the new modes in My Hero Academia: All's Justice coming to PS5 on February 6, 2026",
     "best_quote_zh": "《英雄学院：正义联盟》新模式首度曝光，2026年2月6日登陆PS5"
-  }
-,{
+  },
+  {
     "id": 20,
     "title": "Deals: Amazon Takes $149 Off 2020 MacBook Air Models, Starting at $849.99 for 256GB",
     "title_zh": "交易：亚马逊为2020款MacBook Air模型降价149美元，256GB起售849.99美元",
@@ -588,7 +540,8 @@
     "summary_zh": "伊西伊莎贝拉为《幽灵的夜莺》中阿津配音和动作捕捉，她的即兴表演和桌游背景为角色赋予了深刻情感。访谈揭示了她与开发团队的紧密合作，概念艺术和早期动画帮助她沉浸在角色中。从发现cosplay指南到看到Astro Bot客串，伊西的个人经历为表演增添了真实感。这款游戏以亚裔和亚裔美国演员为主的阵容也凸显了文化代表性的重要性。作为粉丝转演员，伊西的经历与阿津的故事相呼应，讲述了超越复仇后的成长之路。",
     "best_quote_en": "I was a fan, I was a cosplayer, and, you know, I would go to release parties, and you know, now I get to be part of that. And who knows, maybe somebody will cosplay Atsu or play the game, and years later, they'll point to Ghost of Yōtei as something that inspired them to start telling their own stories. I mean, that's the dream.",
     "best_quote_zh": "我曾是粉丝，是cosplayer，会参加发布会。现在我成为了其中的一部分。谁知道呢，或许有人会cosplay阿津或玩这款游戏，多年后，他们会把《幽灵的夜莺》视为激励他们开始讲述自己故事的契机。这才是梦想。"
-  },{
+  },
+  {
     "id": 25,
     "title": "Deals: Amazon Drops Price of 256GB M1 MacBook Air to New Low of $849.99 ($149 Off)",
     "title_zh": "Amazon降低256GB M1 MacBook Air价格至历史新低849.99美元（优惠149美元）",
@@ -705,7 +658,8 @@
     "summary_zh": "这篇文章探讨了特朗普政府在国内政策上的军事化趋势，批评其模糊外部战争与国内战争界限的激进言论和行动。作者深入分析了国防部更名为战争部、对委内瑞拉船只采取的争议性行动，以及在美城市戏剧化部署军队的现象。文章指出这些举措缺乏明确战略，更像是权力攫取而非有效治理。特朗普政府既谴责过去的对外战争，又采取军事化手段应对国内问题的矛盾态度也引发关注。全文警示，政府的军事化行动可能正在将国家推向真正的冲突边缘。",
     "best_quote_en": "\"This is going to be a major part for some of the people in this room. That's a war, too. It's the war from within.\"",
     "best_quote_zh": "“这是在座各位的一项重要任务。这也是一场战争，是内部战争。”"
-  },{
+  },
+  {
     "id": 30,
     "title": "Deals: All-Time Low Prices Return to Apple's M1 MacBook Pro, Starting at $1,099.99 for 256GB",
     "title_zh": "交易：苹果M1 MacBook Pro再次回归历史最低价，256GB起售$1,099.99",
@@ -824,7 +778,8 @@
     "summary_zh": "《御令津之魂》原声带聆听会揭示了游戏配乐的文化融合与情感深度。作曲家大和田智晶将传统日式乐器与西方音乐元素融合，为阿津的复仇与自我发现之旅谱写了独特的音符。即将举行的直播活动将邀请创作团队分享幕后故事，包括作曲家、创意总监、音频总监和女主角配音演员。这一活动不仅庆祝游戏音乐成就，也展示了游戏原声带的协作创作过程，为粉丝和游戏开发者提供了宝贵见解。",
     "best_quote_en": "The original score... is the perfect accompaniment to immerse you in a cultural adventure as you unlock hidden levels of beauty and brutality.",
     "best_quote_zh": "这部原声带... 是将你沉浸在文化冒险中的完美伴奏，当你揭开美与残酷的隐秘层面时。"
-  },{
+  },
+  {
     "id": 35,
     "title": "Deals: Take Up to $199 Off Apple's M1 MacBook Pro and MacBook Air at Best Buy and Amazon",
     "title_zh": "优惠：在Best Buy和Amazon购买苹果M1 MacBook Pro和MacBook Air可享最高199美元折扣",
@@ -895,7 +850,8 @@
     "summary_zh": "这篇文章从统计学角度分析了未来大流行病的可能性，强调准备一款高质量可重复使用的口罩的重要性。作者认为，即使保守估计，这种口罩的价值也远超其成本。文中还提到，提前准备不仅能保障自身安全，还能减少未来可能出现的供应短缺问题，建议读者尽早采购。",
     "best_quote_en": "A reusable mask ('elastomeric respirator') would be really valuable to have, if things got really bad.",
     "best_quote_zh": "如果情况变得非常严重，一款可重复使用的口罩 ('弹性面罩') 会非常有价值。"
-  },{
+  },
+  {
     "id": 38,
     "title": "Deals: Get Apple's 512GB M1 Mac Mini for Record Low of $799 on Amazon ($100 Off)",
     "title_zh": "交易：在亚马逊以历史最低价格799美元购买苹果512GB M1 Mac Mini（折扣100美元）",
@@ -1012,7 +968,8 @@
     "summary_zh": "《侏罗纪世界进化3》推出岛屿生成器，玩家可创建无限独特的岛屿布局。该工具提供对地形、植被和水域的精细控制，激发无限创意。岛屿DNA代码分享功能和Frontier工作室促进社区协作。结合PS5 Pro的光线追踪和超级光谱超分辨率技术，游戏在视觉呈现上达到新高度。创意自由与技术创新的结合，为模拟类游戏树立了新标杆。",
     "best_quote_en": "\"We are so excited to bring the Island Generator to Jurassic World Evolution 3. This is a feature we have wanted to realise for a long time now, and with the incredible new environmental tools we've developed for JWE3, we are finally able to do it justice.\"",
     "best_quote_zh": "\"我们非常激动地将岛屿生成器带入《侏罗纪世界进化3》。这是我们一直想要实现的功能，而JWE3开发的新环境工具终于让我们能够完美呈现它。\""
-  },{
+  },
+  {
     "id": 43,
     "title": "Deals: Shop Record Low Prices Across Apple's Full MacBook Pro and MacBook Air Lineup (Up to $499 Off)",
     "title_zh": "交易：Apple MacBook Pro 和 MacBook Air 全系列价格创下历史新低（最高优惠 $499）",
@@ -1125,7 +1082,8 @@
     "summary_zh": "Sam Eng开发的《Skate Story》以玻璃身体的恶魔身份穿越冥界，吞噬月亮完成魔鬼契约。游戏特色包括动态板子磨损、定制贴纸和Blood Cultures打造的原创纽约风格音乐。PS5双感控制器通过灯光效果增强沉浸感。战斗机制通过连续技巧组合释放伤害，将滑板运动与战斗策略结合。这款充满创意的独立游戏值得期待。",
     "best_quote_en": "\"When I was working on the soundtrack, Sam gave me some insane instructions. He was like, 'I dunno, maybe make it sound industrial... it's the underworld, you know?'\"",
     "best_quote_zh": "\"在制作音乐时，Sam给了我一些疯狂的指示。他说，‘不知道，可能让它听起来像工业风...这是地下世界，你知道吗？’\""
-  },{
+  },
+  {
     "id": 48,
     "title": "Deals: Find All-Time Low Prices on M1 MacBook Pro Models in Amazon's Newest Sales ($199 Off)",
     "title_zh": "交易：在亚马逊最新促销中发现M1 MacBook Pro型号的全历史最低价格（优惠199美元）",
@@ -1244,7 +1202,8 @@
     "summary_zh": "本期每周分享展示了《鬼泣御岳》中玩家用照相模式创作的Atsu主题作品，从秋日落叶的宁静画面到Atsu挥舞长矛的动作瞬间，充分展现了玩家对游戏美学和叙事的深度参与。这些作品不仅是游戏的视觉延伸，更体现了玩家的创造力和对鬼泣御岳世界的热爱。",
     "best_quote_en": "Atsu unleashing the Onryō howl in black and white",
     "best_quote_zh": "Atsu以黑白色调释放幽灵的咆哮"
-  },{
+  },
+  {
     "id": 53,
     "title": "Deals: Get the M1 MacBook Air for Up to $150 Off, Starting at $899 for 256GB",
     "title_zh": "交易：M1 MacBook Air现价最低至$899起，最高可享$150折扣",
@@ -1363,7 +1322,8 @@
     "summary_zh": "原神版本·露娜II带来了丰富的叙事和创新的游戏机制。故事在诺德克莱展开，玩家将面对强大的敌人“索尔纳里的复仇者”雷里尔，并与法蒂玛哈拉尔金和回归的角色瓦尔卡等新盟友并肩作战。新增的5星角色尼菲作为植物系催化武器使，以其特殊的月华绽放反应能力为战斗策略增添了复杂性。然而，最具突破性的功能是米里亚斯塔幻想国度，一个用户生成内容系统，允许玩家创建和探索用户创建的舞台，定制人偶，并与社区互动。此次更新不仅拓展了游戏的创造潜力，还通过社交互动和个性化表达深化了玩家的参与度。",
     "best_quote_en": "With Miliastra Wonderland opening its gates and the battles of Nod-Krai calling for unity, this update celebrates creativity, courage, and discovery.",
     "best_quote_zh": "随着米里亚斯塔幻想国度的大门开启和诺德克莱的战斗呼唤团结，此次更新庆祝了创造力、勇气和发现。"
-  },{
+  },
+  {
     "id": 58,
     "title": "Deals: Apple's 512GB M1 MacBook Air Hits New Low Price at $1,099 ($150 Off)",
     "title_zh": "交易：Apple的512GB M1 MacBook Air降价至$1,099（优惠$150）",
@@ -1482,7 +1442,8 @@
     "summary_zh": "索尼互动娱乐推出的Player's Choice促销活动将从10月8日起提供获奖游戏、经典作品和粉丝最爱的系列游戏折扣价。这次有限时间促销活动为游戏爱好者提供了探索新冒险或重温经典的机会。该活动凸显了索尼通过独家优惠提升游戏体验的战略决心，尤其值得关注的是，它为休闲玩家和忠实玩家都创造了价值，提供了大众和小众游戏的混合选择。",
     "best_quote_en": "Find something fun to play, explore fantastical frontiers, rediscover a favorite game series and more with PlayStation Store’s Player’s Choice promotion, offering a selection of games at reduced prices for a limited time.",
     "best_quote_zh": "PlayStation Store的Player's Choice促销活动为您提供了找到有趣游戏、探索奇幻前沿、重新发现喜爱的游戏系列等机会，并以折扣价提供一系列游戏，时间有限。"
-  },{
+  },
+  {
     "id": 63,
     "title": "Deals: Get $49 Off Apple's New M1 iMacs, Starting at $1,249.99 for 7-Core 256GB",
     "title_zh": "促销：Apple新款M1 iMac 享$49折扣，7核256GB版本起售$1,249.99",
@@ -1599,7 +1560,8 @@
     "summary_zh": "《The Haunting》更新将恐怖元素融入《黑色行动6》和《战区》，为玩家带来全新的游戏体验。夜晚版本的经典地图和新增的刀锋死亡模式让多人对战更具挑战性，而僵尸模式的恐怖强化版不仅提升了难度，还设置了丰厚奖励。对于战区玩家来说，夜间模式和僵尸皇家模式的回归将带来更刺激的战斗体验。本次更新不仅丰富了游戏内容，还通过新武器和附件增强了游戏玩法，免费试玩和战斗通行证的设置也为新玩家提供了友好的入门方式。",
     "best_quote_en": "Drop into map variants like Bootown and night versions of Verdansk and Rebirth Island, become the monster in Slasher Deathmatch, and face the undead in Haunted Havoc and Zombie Royale.",
     "best_quote_zh": "进入类似Bootown的地图变体和Verdansk和Rebirth Island的夜间版本，在刀锋死亡模式中化身怪物，在恐怖混乱和僵尸皇家模式中对抗不死生物。"
-  },{
+  },
+  {
     "id": 68,
     "title": "Deals: Amazon Continuing to Discount M1 MacBook Air Models to All-Time Low Prices (Save Up to $149)",
     "title_zh": "交易：亚马逊持续折扣M1 MacBook Air机型至历史最低价（节省高达149美元）",
@@ -1716,7 +1678,8 @@
     "summary_zh": "PlayStation新推出的DualSense Icon Blue特别版手柄，以独特的蓝色渐变设计和镀光玩家形状触摸板图案，致敬品牌传承。手柄的标志性蓝色光芒象征着游戏带来的兴奋与奇妙体验。值得注意的是，背面的片假名字符拼写了PlayStation的日语名称，展现了对品牌起源的尊重。这款特别版将于10月上市，凸显了PlayStation标志性的审美，吸引收藏家和注重设计细节的游戏玩家。同时推出的配套周边产品，包括Twisted Metal Meltz角色系列和《最后生还者》灵感的迷你背包，将品牌影响力从硬件延伸至游戏生活方式，构建了完整的生态系统。",
     "best_quote_en": "\"From the moment the console powers on and the DualSense controller lights up, that signature blue glow signals the start of something special.\"",
     "best_quote_zh": "“从控制台开机的瞬间，DualSense手柄的标志性蓝光亮起，标志着特别体验的开始。”"
-  },{
+  },
+  {
     "id": 73,
     "title": "Deals: Amazon Discounts 512GB M1 MacBook Air to Match Record Low Price of $1,149 ($100 Off)",
     "title_zh": "Amazon折扣512GB M1 MacBook Air至$1,149，创历史最低价（减$100）",
@@ -1833,7 +1796,8 @@
     "summary_zh": "10月PlayStation Plus游戏目录为恐怖季节带来精彩内容。沉默之丘2重制版以震撼的视觉和音效呈现心理恐怖。为PS5改造的直到黎明让玩家选择决定生死。V Rising作为独特的吸血鬼生存RPG支持多人联机。龙が如龙以全新战斗系统和群像剧情吸引玩家。加入改进后的铁拳3，本次目录满足恐怖、RPG和格斗游戏爱好者，展现PlayStation丰富的游戏体验。不同地区发售日期体现平台对本地玩家的重视。",
     "best_quote_en": "As James comes to terms with his own turmoil, he'll be left with one question - why did he really come to Silent Hill?",
     "best_quote_zh": "詹姆斯面对内心的动荡，最终会问自己一个问题——他为什么真的来到沉默之丘？"
-  },{
+  },
+  {
     "id": 78,
     "title": "Deals: Apple's 512GB M1 MacBook Pro Hits $1,299.99 on Amazon ($199 Off, Lowest Price)",
     "title_zh": "Apple M1 MacBook Pro 512GB 1299.99美元优惠 Amazon（直降199美元，最低价）",
@@ -1952,7 +1916,8 @@
     "summary_zh": "战地6既回归经典元素，又带来创新升级。游戏平衡了传统玩法与战术深度的提升，破坏系统更具战略性，小队指令更精准。新增的升级模式融合了经典目标与动态地图变化，使战斗更紧张刺激。改进后的职业系统允许更深度的定制化，而灵敏的移动控制和触觉反馈让玩家更沉浸其中。这些创新展示了战地6如何超越传统，重新定义现代第一人称射击游戏的可能性。",
     "best_quote_en": "Battlefield 6's look back to its past is actually full of steps forward into its future.",
     "best_quote_zh": "战地6对过去的回顾实际上充满了通向未来的进步。"
-  },{
+  },
+  {
     "id": 83,
     "title": "Deals: Take $49 Off Apple's M1 iMac With New All-Time Low Prices",
     "title_zh": "交易：Apple M1 iMac 价格下调49美元，创历史新低",
@@ -2069,7 +2034,8 @@
     "summary_zh": "本期播客详细介绍了即将推出的游戏发布情况，并深入探讨了特定游戏。主持人讨论了《御剑鬼影》的发布，并采访了配音演员石井彩夏，还提供了《Lumines Arise》和《战地6》的详细预览。节目还突出了10月PlayStation Plus目录的新增内容，包括《沉默之丘2》和《如龙》。值得关注的是，节目将行业新闻、专家见解和实用信息相结合，使其对PlayStation社区既有信息量又富有吸引力。",
     "best_quote_en": "Check out the best armor builds for your playstyle and situation, from staying undetected to charging ahead with a full frontal assault.",
     "best_quote_zh": "查看最佳装备搭配，根据您的游戏风格和情况，从隐形潜行到正面强攻。"
-  },{
+  },
+  {
     "id": 88,
     "title": "Deals: Save $100 on Apple's 2020 M1 Mac Mini, Starting at $599.99 for 256GB",
     "title_zh": "Apple 2020款M1 Mac Mini促销：256GB起$599.99，节省$100",
@@ -2186,7 +2152,8 @@
     "summary_zh": "这篇文章深刻探讨了写作作为完善思想的工具。作者认为，将想法转化为文字会暴露其不完整和模糊之处，迫使我们面对认知盲区。通过反复推敲，思想才能变得更严谨。文章质疑了某些人声称能完整形成复杂想法的说法，强调真正的掌握需要语言表达的纪律。它还将写作与说话区分开来，认为前者更严谨，需要更精准的表达。最终，文章认为写作不仅是交流手段，更是深化理解的必要方法。",
     "best_quote_en": "Putting ideas into words is a severe test. The first words you choose are usually wrong; you have to rewrite sentences over and over to get them exactly right.",
     "best_quote_zh": "将想法付诸文字是一个严峻的考验。你最初选择的词语往往是错误的；你必须反复修改句子才能让它们准确无误。"
-  },{
+  },
+  {
     "id": 93,
     "title": "Deals: Amazon Introduces Pair of Record Low Prices on Apple's 27-Inch iMacs (Save Up to $399)",
     "title_zh": "交易：亚马逊推出苹果27英寸iMac的历史最低价（最高可省399美元）",
@@ -2301,4 +2268,123 @@
     "summary_zh": "本月PlayStation Plus游戏目录带来一系列适合万圣节的恐怖与冒险游戏。重制版《静默之丘2》展现了心理恐怖的魅力，而《至暗时刻》的PS5版本则重塑了互动式恐怖体验。开放世界生存RPG《V Rising》则为玩家提供了独特的吸血鬼视角。这些游戏展示了索尼为不同玩家提供多元化游戏体验的决心，尤其值得关注的是对经典游戏的现代化改编，如《铁拳3》的升级版本，既尊重游戏历史又满足当代需求。",
     "best_quote_en": "Experience a master class in psychological horror on the latest hardware with chilling visuals and visceral sounds.",
     "best_quote_zh": "在最新硬件上体验心理恐怖的经典之作，惊悚的视觉效果与震撼的音效带来沉浸式体验。"
-  }]
+  },
+  {
+    "id": 98,
+    "title": "Deals: Amazon Discounts 512GB 27-Inch iMac to Lowest Price of $1,699.99 ($299 Off)",
+    "title_zh": "交易：亚马逊将512GB 27英寸iMac折价至1699.99美元（优惠299美元）",
+    "source": "MacRumors",
+    "link": "https://www.macrumors.com/2021/06/03/deals-amazon-27-inch-imac/",
+    "tags": [
+      "inspire",
+      "startup-strategy",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "创业策略",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2021-06-03",
+    "summary_en": "This article highlights a significant price drop on Apple's 27-inch 5K iMac with 512GB SSD, now priced at $1,699.99 on Amazon—a record low. The discount is notable as it brings the 512GB model to the same price point as the 256GB version. The deal is particularly valuable for those looking to upgrade or purchase an iMac for the first time. The article also directs readers to a comprehensive buyer's guide for ongoing iMac deals from various retailers, emphasizing the importance of staying informed about tech discounts. The personal touch comes from the reminder that such deals are rare and worth acting on quickly.",
+    "summary_zh": "这篇文章报道了苹果27英寸5K iMac 512GB固态硬盘版本在亚马逊上的大幅降价，降至1699.99美元，创历史新低。这个折扣使得512GB版本的价格与256GB版本持平，对想升级或首次购买iMac的用户来说非常划算。文章还指引读者参考一份综合性的购买指南，了解来自各大零售商的最新iMac优惠。作者强调，这样的优惠难得，建议读者抓住机会。",
+    "best_quote_en": "This sale was introduced last month on Amazon and it remains the best discount we've ever tracked for this model of the 27-inch Intel iMac.",
+    "best_quote_zh": "这个促销活动上个月在亚马逊首次推出，至今仍是我们追踪到的这款27英寸Intel iMac的最佳折扣。"
+  },
+  {
+    "id": 99,
+    "title": "These 15 Lip Liners Stay Put Through Drinks, Food, and Sweat",
+    "title_zh": "这些15种唇线笔能经受住饮料、食物和汗水的考验",
+    "source": "elle",
+    "link": "https://www.elle.com/beauty/makeup-skin-care/g69061890/best-long-lasting-lip-liners/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "design"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "设计创意"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "This article is a comprehensive guide to long-lasting lip liners, offering expert insights from celebrity makeup artists Kelli Anne Sewell and Lisa Aharon. It provides a curated list of 15 top-performing lip liners, each reviewed for durability, formula, and application ease. The piece highlights the importance of lip liners in achieving polished makeup looks and offers practical tips for application and longevity. It's particularly valuable for makeup enthusiasts seeking product recommendations and professional advice on achieving flawless, long-wearing lip makeup. The inclusion of expert opinions and user reviews adds credibility and depth to the recommendations.",
+    "summary_zh": "这篇文章是关于持久唇线笔的全面指南，提供了名人化妆师Kelli Anne Sewell和Lisa Aharon的专业见解。它推荐了15种顶级唇线笔，每种产品都经过耐用性、配方和使用便捷性的评测。文章强调了唇线笔在完美妆容中的重要作用，并提供了实用的应用和持久性技巧。对于寻求产品推荐和专业建议的化妆爱好者来说，这篇文章特别有价值。专家意见和用户评价的加入增加了推荐的可信度和深度。",
+    "best_quote_en": "It’s one of those products that transforms the face and really ties an entire look together.",
+    "best_quote_zh": "这是一种能够改变面部表情并让整体造型更加完美的产品。"
+  },
+  {
+    "id": 100,
+    "title": "'They Didn't See How Ben Solo Was Alive. And That Was That' — Adam Driver Reveals Disney Said No to a 'Really Cool' Kylo Ren Star Wars Movie",
+    "title_zh": "亚当·德瑞弗揭秘：迪士尼否决了本·索罗生还的《星球大战》电影计划",
+    "source": "ign.com",
+    "link": "https://www.ign.com/articles/they-didnt-see-how-ben-solo-was-alive-and-that-was-that-adam-driver-reveals-disney-said-no-to-a-really-cool-kylo-ren-star-wars-movie",
+    "tags": [
+      "update",
+      "ai-research",
+      "leadership",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "领导管理",
+      "未来预测"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "This article reveals a fascinating behind-the-scenes look at a proposed Star Wars sequel that never came to fruition. Adam Driver and Steven Soderbergh developed 'The Hunt for Ben Solo,' a follow-up to The Rise of Skywalker, which Disney ultimately rejected. The most intriguing aspect is the creative vision behind the film, which would have explored Ben Solo's survival and potentially completed an arc that Driver envisioned as an inversion of Darth Vader's journey. The rejection highlights Disney's cautious approach to the franchise and raises questions about their creative direction. The article also touches on George Lucas's reflections on the franchise's post-Disney era and Kathleen Kennedy's future at Lucasfilm. It's a compelling case study in Hollywood decision-making and fan expectations.",
+    "summary_zh": "文章揭示了一个未能实现的《星球大战》续集计划，亚当·德瑞弗与史蒂文·索德伯格联合开发的《本·索罗的追寻》被迪士尼拒绝。最引人深思的是该电影的创意构想，本应探索本·索罗的生还与角色弧线。拒绝反映了迪士尼对系列的谨慎态度，同时引发对创作方向的思考。乔治·卢卡斯对后迪士尼时代的反思和凯瑟琳·肯尼迪未来规划也值得关注。这部作品是好莱坞决策与粉丝期待的经典案例。",
+    "best_quote_en": "Driver had undertaken the trilogy with an arc in mind for Ren that inverted the journey of Darth Vader. As the trilogy evolved, it didn’t play out that way.",
+    "best_quote_zh": "德瑞弗最初为雷恩设计了一个与达斯·维德旅程相反的角色弧线，但随着三部曲的发展，最终并未按照这个方向演变。"
+  },
+  {
+    "id": 101,
+    "title": "Realism! Your companions in The Outer Worlds 2 can kill you",
+    "title_zh": "现实感！《外部世界2》中的同伴可能会杀死你",
+    "source": "escapistmagazine.com",
+    "link": "https://www.escapistmagazine.com/news-outer-worlds-2-companions-kill-you/",
+    "tags": [
+      "update",
+      "gaming",
+      "programming",
+      "case-study"
+    ],
+    "tags_zh": [
+      "动态",
+      "游戏开发",
+      "编程开发",
+      "案例研究"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "The upcoming The Outer Worlds 2 is pushing boundaries in RPG realism by giving companions true agency. Developers Obsidian emphasize that companions will act as independent characters with their own motivations, potentially abandoning or even attacking the player if their actions conflict. This design choice aims to create deeper immersion and consequences for player decisions. While this could lead to unexpected drama, it also raises questions about player agency versus companion autonomy. The game's launch on October 29 will test whether this bold approach enhances storytelling or creates frustrating player experiences.",
+    "summary_zh": "《外部世界2》的同伴角色拥有独立意志，可能会背叛甚至杀死玩家。这种设计突破了传统RPG的互动模式，让游戏世界更加真实。开发商Obsidian希望通过这种方式增强游戏的沉浸感和叙事深度。然而，这种设计也可能带来意想不到的挑战，玩家需要在游戏中更谨慎地处理关系。这款游戏将于10月29日发布，我们将见证这种大胆尝试是否能真正提升游戏体验。",
+    "best_quote_en": "\"They have their own goals, their own motivations, and if the player's aligning with them, that's great. They'll be there for you. They'll fight alongside you.\"",
+    "best_quote_zh": "\"他们有自己的目标和动机，如果玩家与他们站在同一阵线，那太好了。他们会站在你这一边，与你并肩作战。\""
+  },
+  {
+    "id": 102,
+    "title": "Festival of Accord: Dreamspell comes to Monster Hunter Wilds starting October 22",
+    "title_zh": "梦符节：怪物猎人野境从10月22日起举办",
+    "source": "blog.playstation.com",
+    "link": "https://blog.playstation.com/2025/10/20/festival-of-accord-dreamspell-comes-to-monster-hunter-wilds-starting-october-22/",
+    "tags": [
+      "analyze",
+      "science",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "The Festival of Accord: Dreamspell in Monster Hunter Wilds brings a seasonal celebration to PlayStation players from October 22 to November 12. This event offers a rich array of limited-time content including special armor sets, Palico equipment, and event quests. The Dreamwalker α Series and Meowrionette α Series stand out as premium collectibles, while returning past quests add nostalgia and replay value. The event also introduces new customization options for hunters and their camps, with themed nameplates, backgrounds, and even new music tracks. Notably, the increased login bonuses and special bounties make participation rewarding. This event not only enriches the gaming experience but also fosters a sense of community among players through shared seasonal activities.",
+    "summary_zh": "梦符节为怪物猎人野境带来了丰富的季节性内容，包括独特的装备、宠物装备和限时任务。此次活动特别推出了梦行者α系列和喵咪小丑α系列装备，同时回归的往期任务增添了怀旧色彩。玩家还可通过登录奖励和特殊任务获得独特的装饰品和音乐，丰富了游戏体验。",
+    "best_quote_en": "Collect limited-time Dreamspell tickets to craft special hunter armor, the Dreamwalker α Series, and Palico equipment, the Meowrionette α Series.",
+    "best_quote_zh": "通过收集限时的梦符节券来制作特殊猎人装备梦行者α系列和宠物装备喵咪小丑α系列。"
+  }
+]
