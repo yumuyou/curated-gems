@@ -1,129 +1,5 @@
 [
   {
-    "id": 3,
-    "title": "Taylor Swift’s romantic travails were the soundtrack to mine. What does her engagement mean for fans’ love lives?",
-    "title_zh": "泰勒·斯威夫特的情感历程曾是我的背景音乐。她订婚对粉丝的爱情生活意味着什么？",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/music/2025/aug/28/taylor-swift-engagement",
-    "tags": [
-      "Taylor Swift",
-      "engagement",
-      "love",
-      "fan perspective",
-      "personal growth"
-    ],
-    "tags_zh": [
-      "泰勒·斯威夫特",
-      "订婚",
-      "爱情",
-      "粉丝视角",
-      "个人成长"
-    ],
-    "date": "2025-08-28",
-    "summary_en": "This opinion piece reflects on what Taylor Swift’s engagement to Travis Kelce means not just as a celebrity moment, but for her fans who have tracked her love life through her music. The writer explores how Swift’s early heartbreak anthems and later songs of mature love have paralleled listeners’ growth. Swift’s transition into engagement — a symbol of stability and commitment — prompts fans to ask what comes next: will her songwriting shift again toward themes of lasting love, family, or perhaps even positivity rather than pain? The piece suggests that for many fans, the news is bittersweet — joyful but charged with nostalgia for previous eras of Swift’s music that were defined by longing, loss, and intensity. Nevertheless, it argues that this new chapter may offer new depth and emotional resonance for both Swift and her audience. :contentReference[oaicite:0]{index=0}",
-    "summary_zh": "这篇评论文章反思泰勒·斯威夫特与特拉维斯·凯尔斯订婚不仅是名人新闻，更对那些通过她的音乐一路追随她情感历程的粉丝有特别意义。作者盘点了斯威夫特早期的心碎歌曲与后来成熟爱情主题是如何与听众的成长经历相呼应。订婚象征着稳定与承诺，也让人不禁好奇，她的歌曲是否将再次转向关于持久爱情、家庭或更多积极而少有痛苦的主题？对许多粉丝来说，这既是喜悦，也是带着对曾以渴望、失落与强烈情绪为特色的旧作时代的怀念。但文章认为，这个新篇章可能为斯威夫特和她的受众带来新的深度与共鸣。 :contentReference[oaicite:1]{index=1}",
-    "best_quote_en": "When the pop star who has sound-tracked your entire adult love life gets engaged, it’s discombobulating. Especially when they are similar in age. :contentReference[oaicite:2]{index=2}",
-    "best_quote_zh": "当那个用音乐作我们成人人生爱情背景音的流行歌手订婚了，会让人有点措手不及。尤其是当你们差不多年纪的时候。 :contentReference[oaicite:3]{index=3}"
-  },
-  {
-    "id": 4,
-    "title": "London fashion week aims to restore sector’s role as UK economic powerhouse",
-    "title_zh": "伦敦时装周力图重塑时尚产业作为英国经济强权的地位",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/fashion/2025/sep/19/london-fashion-week-aims-to-restore-sectors-role-as-uk-economic-powerhouse",
-    "tags": [
-      "London Fashion Week",
-      "UK fashion industry",
-      "economic policy",
-      "creative sector"
-    ],
-    "tags_zh": [
-      "伦敦时装周",
-      "英国时尚产业",
-      "经济政策",
-      "创意产业"
-    ],
-    "date": "2025-09-19",
-    "summary_en": "Under the leadership of new British Fashion Council (BFC) CEO Laura Weir, London Fashion Week is pushing to reestablish the UK fashion sector’s economic strength, which has been weakened by Brexit, COVID-19 disruptions, rising costs, and competition from Paris and Milan. Weir aims to have fashion more deeply integrated into government trade policy, to attract big brands back to London, and to nurture emerging talent across the UK, not just in London. Key strategies include leveraging major department stores like Selfridges and John Lewis as strategic partners, launching outreach and education for young designers, and arguing for better recognition — both domestically and internationally — of the fashion sector’s contribution to GDP and employment.",
-    "summary_zh": "在新任英国时尚理事会（BFC）CEO 劳拉·韦尔的领导下，伦敦时装周正在努力重建英国时尚产业的经济实力。该产业因英国脱欧、新冠疫情带来的供应链中断、生活成本上升以及巴黎和米兰的竞争而受到削弱。韦尔的目标是让时尚业更深度融入政府的贸易政策，吸引大品牌重回伦敦，并在全英国范围内（不仅限伦敦）培养新兴设计人才。关键策略包括将诸如 Selfridges 与 John Lewis 等大型百货公司作为战略合作伙伴、开展面向年轻设计师的教育与外展项目，并为时尚行业在国内外承认其对 GDP 与就业的贡献而努力。",
-    "best_quote_en": "“I started this job not long after we got a new government … there is support, but what I’m wary of is fashion being used when they want sparkle. We’re more than that.”",
-    "best_quote_zh": "“我开始这份工作不久后我们迎来了新政府……确实有支持，但我担心的是时尚被当作一种炫耀的手段。他们只在需要“光鲜”的时候才提到我们。我们不仅仅是这样。”"
-  },
-  {
-    "id": 5,
-    "title": "I’m exhausted but am surviving. How can I heal from burnout without expensive time off?",
-    "title_zh": "我很累，但仍在坚持。怎样在不请昂贵假期的情况下从倦怠中恢复？",
-    "source": "The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/12/burnout-exhausted-surviving-how-to-heal-without-expensive-time-off",
-    "tags": [
-      "burnout",
-      "mental health",
-      "well-being",
-      "self-care",
-      "work life balance"
-    ],
-    "tags_zh": [
-      "倦怠",
-      "心理健康",
-      "幸福感",
-      "自我关怀",
-      "工作与生活平衡"
-    ],
-    "date": "2025-09-12",
-    "summary_en": "In this advice column, Eleanor Gordon-Smith responds to a reader who is suffering from burnout due to overwork, bullying, and misogyny, but cannot afford to take expensive time off. She suggests that healing need not come from grand gestures like long holidays; rather, recovery can begin by shifting how one thinks about self-care — from discrete “activities” to the feelings those activities are meant to evoke (e.g. feeling safe, feeling like oneself, feeling valued). Other strategies include trimming non‐essential tasks (“cutting the corners you can”), setting minimal acceptable standards rather than perfection in day-to-day work, and finding community and shared experiences with others facing similar pressures. She acknowledges the role of structural issues (labor, economic insecurity, power dynamics) and encourages connecting with others as part of resistance and healing. :contentReference[oaicite:0]{index=0}",
-    "summary_zh": "在这篇问答专栏中，埃莉诺·戈登-史密斯回应一位因过度工作、职场欺凌和性别歧视而感到倦怠，但又无法承担昂贵假期的读者。作者建议，恢复不必依赖如长假期这样的重大举措；恢复的起点可以是改变我们对“自我关怀”的思考方式——不是把它当成一系列行为，而是关注这些行为希望带来的感觉（例如安全感、真实感、被认可感）。其他策略包括削减不必要的任务（“能省则省”），设定最低可接受标准而非追求完美，以及与面临相似压力的人建立联系，共同面对和治愈。她也承认结构性问题（劳动条件、经济不安全、权力关系）在其中的作用，并鼓励与他人联结，作为抗争与恢复的一部分。 :contentReference[oaicite:1]{index=1}",
-    "best_quote_en": "“One small thing that can help is to switch your thinking about self-care from activities to feelings.” :contentReference[oaicite:2]{index=2}",
-    "best_quote_zh": "“一个小方法是把你对自我关怀的思考从活动转向感觉。” :contentReference[oaicite:3]{index=3}"
-  },
-  {
-    "id": 6,
-    "title": "The Right Kind of Stubborn",
-    "title_zh": "正确的固执方式",
-    "source": "Paul Graham",
-    "link": "https://paulgraham.com/persistence.html",
-    "tags": [
-      "persistence",
-      "stubbornness",
-      "problem-solving",
-      "character"
-    ],
-    "tags_zh": [
-      "坚持",
-      "固执",
-      "解决问题",
-      "性格"
-    ],
-    "date": "2024-07",
-    "summary_en": "Paul Graham explores the distinction between persistence (a positive, goal-oriented kind of stubbornness) and mere obstinacy (which resists change regardless of evidence). He argues that persistence is composed of several qualities: energy, imagination, resilience, good judgment, and focus. Persistent people are not attached to specific tactics, but to the goal, and are willing to change methods when needed. Obstinate people, by contrast, cling to initial ideas and resist feedback, even when it hurts progress. Graham believes the right kind of stubbornness is rare but leads to better outcomes, especially in solving hard, complex problems.",
-    "summary_zh": "Paul Graham 分析了“坚持”（积极、以目标为导向的固执）与“单纯固执”（无视证据、固守旧法）的区别。他认为真正的坚持由几个要素组成：精力、想象力、韧性、良好的判断力，以及对某个目标的专注。坚持的人不会对特定的方法过分执着，而是对目标本身执着，并在必要时对策略作出调整。相比之下，固执的人会紧抓最早的想法，不听取反馈，即使这样会阻碍进步。Graham 认为，正确的那种固执很稀有，但在解决复杂艰巨问题时会带来更好的结果。",
-    "best_quote_en": "“The persistent are attached to the goal. The obstinate are attached to their ideas about how to reach it.”",
-    "best_quote_zh": "“坚持的人是对目标执着；固执的人是对他们的方法观念执着。”"
-  },
-  {
-    "id": 7,
-    "title": "When To Do What You Love",
-    "title_zh": "什么时候去做你真正热爱的事",
-    "source": "Paul Graham",
-    "link": "https://paulgraham.com/when.html",
-    "tags": [
-      "follow your passion",
-      "career advice",
-      "uncertainty",
-      "work-interest balance"
-    ],
-    "tags_zh": [
-      "追随热情",
-      "职业建议",
-      "不确定性",
-      "兴趣与工作平衡"
-    ],
-    "date": "2024-09",
-    "summary_en": "In 'When To Do What You Love', Paul Graham explores whether and when it's wise to follow your passion. He argues the answer depends on many factors: your financial needs, the nature of your interests, how rare or common they are, and how much uncertainty you’re willing to bear. He says that if you don’t need a lot of money, you can lean toward doing what you love. If you want to be very wealthy, doing what interests you can help you find unique startup ideas. To get clarity, try things early, learn how good you are, see what working on something is really like, and choose paths that preserve options in the future. He also emphasizes that the people you work with and surround yourself by matter — choosing work that interests you tends to surround you with others similarly driven, which boosts satisfaction.",
-    "summary_zh": "在《什么时候去做你真正热爱的事》一文中，Paul Graham 探讨了是否以及何时追随自己的热情是明智之举。他认为这取决于多个因素：你的经济需求、你所热爱的事情的性质、这些兴趣的稀有性，以及你能承受多少不确定性。他指出，如果你不需要太多钱，就可以更倾向于去做你喜欢的事；而如果你想变得非常富有，做你真正感兴趣的事情可能帮助你发现独特的创业点子。为了弄清方向，他建议及早尝试，从实践中了解自己有多喜欢某件事以及做起来真正是什么样子，并选择那些未来仍有许多可能性的路径。他也强调你与什么样的人共事很重要 — 选择你喜欢的工作通常意味着你周围的人也抱有类似动力，会增加满足感。",
-    "best_quote_en": "“The persistent are attached to the goal. The obstinate are attached to their ideas about how to reach it.”",
-    "best_quote_zh": "“坚持的人是对目标执着；固执的人是对他们如何达成目标的方法观念执着。”"
-  },
-  {
     "id": 8,
     "title": "The Origins of Wokeness",
     "title_zh": "觉醒主义的起源",
@@ -2386,5 +2262,125 @@
     "summary_zh": "梦符节为怪物猎人野境带来了丰富的季节性内容，包括独特的装备、宠物装备和限时任务。此次活动特别推出了梦行者α系列和喵咪小丑α系列装备，同时回归的往期任务增添了怀旧色彩。玩家还可通过登录奖励和特殊任务获得独特的装饰品和音乐，丰富了游戏体验。",
     "best_quote_en": "Collect limited-time Dreamspell tickets to craft special hunter armor, the Dreamwalker α Series, and Palico equipment, the Meowrionette α Series.",
     "best_quote_zh": "通过收集限时的梦符节券来制作特殊猎人装备梦行者α系列和宠物装备喵咪小丑α系列。"
+  },
+  {
+    "id": 103,
+    "title": "Deals: Get Apple's 512GB 27-Inch iMac for Lowest Price of $1,699.99 ($299 Off)",
+    "title_zh": "交易：以1699.99美元的最低价格购买苹果27英寸iMac（512GB）",
+    "source": "MacRumors",
+    "link": "https://www.macrumors.com/2021/05/26/deals-27-imac-lowest/",
+    "tags": [
+      "guide",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "指导",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2021-05-26",
+    "summary_en": "This article highlights a significant price drop on Apple's 27-inch 5K iMac with 512GB storage, now available at $1,699.99 - a record low across major retailers. The deal is particularly noteworthy as it matches the price of the 256GB model. The analysis provides context about the value proposition and compares it to other iMac configurations. It also directs readers to a comprehensive buyer's guide for ongoing deals, making this a valuable resource for those considering an iMac purchase or upgrade. The inclusion of affiliate disclosure adds transparency to the recommendation.",
+    "summary_zh": "这篇文章报道了苹果27英寸5K iMac（512GB版）降价至1699.99美元的特价信息，这是各大零售商跟踪到的最低价。该优惠将512GB版降至与256GB版相同的价格，具有很高的性价比。文章还提供了iMac不同配置的对比分析，并引导读者查看综合购买指南，为考虑购买或升级iMac的用户提供了宝贵参考。文章中包含的附属披露增添了推荐的透明度。",
+    "best_quote_en": "This sale is particularly notable because it knocks down the 512GB 27-inch iMac to the same price level as the 256GB model.",
+    "best_quote_zh": "这笔交易特别值得关注，因为它将512GB 27英寸iMac的价格降至与256GB版本相同的水平。"
+  },
+  {
+    "id": 104,
+    "title": "The Most Luxurious Body Washes for Your Softest, Brightest Skin",
+    "title_zh": "最奢华的沐浴露：让你的皮肤更柔软、更光泽",
+    "source": "elle",
+    "link": "https://www.elle.com/beauty/makeup-skin-care/g69081292/best-moisturizing-body-washes/",
+    "tags": [
+      "analyze",
+      "science",
+      "lifestyle",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "生活方式",
+      "数据驱动"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "This ELLE feature offers a comprehensive guide to luxurious body washes, blending expert dermatological insights with hands-on product testing. Dr. Nancy Ilaya from Kiehl's provides valuable scientific guidance on ingredients to seek (syndets, botanical oils, skin conditioners) and avoid (SLS, SLES, AHAs, triclosan). The article goes beyond typical product recommendations by explaining the science behind hydration and skin barrier protection. The author's personal experiences and expert endorsements add credibility, making this more than just a shopping list. It's an educational resource that helps readers make informed skincare choices while addressing seasonal dry skin concerns.",
+    "summary_zh": "这篇ELLE文章不仅是沐浴露推荐，更是一堂关于保湿的科学课。凯兹惠勒的Ilaya博士揭秘了哪些成分真正有效，哪些应该避免。作者通过亲测分享，让读者既能了解专业知识，又能找到适合自己的产品。秋冬季节干燥问题？这篇文章给出了全面解决方案。",
+    "best_quote_en": "Syndets and amino acid-based surfactants protect the skin barrier, minimize irritation, and boost hydration",
+    "best_quote_zh": "辛迪特和氨基酸表面活性剂能保护皮肤屏障，减少刺激并增强保湿"
+  },
+  {
+    "id": 105,
+    "title": "GameCube Classic Luigi's Mansion Hits Nintendo Switch 2 Just in Time for Halloween",
+    "title_zh": "GameCube经典游戏《卢伊吉别墅》将登陆Switch 2，正逢万圣节",
+    "source": "ign.com",
+    "link": "https://www.ign.com/articles/gamecube-classic-luigis-mansion-hits-nintendo-switch-2-just-in-time-for-halloween",
+    "tags": [
+      "update",
+      "gaming",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "游戏开发",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-22",
+    "summary_en": "The announcement of Luigi's Mansion coming to Nintendo Switch Online is a delightful surprise for fans, particularly timed with Halloween. This GameCube classic, originally released in 2001, completes the trilogy's availability on the Switch platform, offering players the chance to experience Luigi's ghost-hunting adventures in the eerie mansion. The game's arrival raises questions about how it will utilize the Switch 2's new features, particularly the mouse controls. This addition to the Nintendo Switch Online + Expansion Pack library further enriches the service's growing collection of classic games, showcasing Nintendo's commitment to preserving and modernizing its gaming heritage. The inclusion of this beloved title is not just nostalgic but also strategic, appealing to both longtime fans and new players eager to explore gaming history.",
+    "summary_zh": "《卢伊吉别墅》登陆Switch 2，恰逢万圣节，为游戏迷带来惊喜。这款2001年发行的GameCube经典游戏完成了三部曲在Switch平台上的汇聚，让玩家得以体验卢伊吉在阴森别墅中的冒险。游戏如何利用Switch 2的新功能，尤其是鼠标控制，值得期待。这款游戏的加入进一步丰富了Nintendo Switch Online + Expansion Pack的经典游戏库，展现了任天堂保护和现代化游戏遗产的承诺。其加入不仅是怀旧，更是战略性的，吸引了老玩家和新玩家探索游戏历史的兴趣。",
+    "best_quote_en": "Luigi’s won a mansion! The bad news is that it’s crawling with ghosts…",
+    "best_quote_zh": "卢伊吉赢得了一栋别墅！坏消息是里面爬满了鬼魂…"
+  },
+  {
+    "id": 106,
+    "title": "Every confirmed weapon in Call of Duty: Black Ops 7 so far",
+    "title_zh": "迄今为止Call of Duty: Black Ops 7中已确认的所有武器",
+    "source": "escapistmagazine.com",
+    "link": "https://www.escapistmagazine.com/news-confirmed-weapons-black-ops-7/",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-10-21",
+    "summary_en": "The article provides a comprehensive overview of all confirmed weapons in the upcoming Call of Duty: Black Ops 7, set to launch in November 2025. It categorizes weapons into assault rifles, submachine guns, shotguns, light machine guns, marksman rifles, sniper rifles, pistols, launchers, and melee weapons, with some weapons still to be determined. The piece highlights weapon customization options, including attachments, camos, and reticles, which players can unlock through gameplay and challenges. This detailed breakdown offers valuable insights for players looking to understand the game's arsenal and customization potential before launch, emphasizing Activision's approach to maintaining a grounded and immersive experience.",
+    "summary_zh": "本文全面介绍了即将在2025年11月发布的《使命召唤：黑色行动7》中已确认的所有武器。文章按突击步枪、冲锋枪、霰弹枪、轻机枪、狙击步枪、手枪、发射器和近战武器等类别进行分类，部分武器仍待确认。内容还强调了武器定制选项，包括附件、涂装和准星，玩家可通过游戏和挑战解锁。此详细分析为玩家提供了宝贵的见解，帮助他们在游戏发布前了解武器库和定制潜力，突出了动视维持沉浸式体验的理念。",
+    "best_quote_en": "You can have up to five attachments equipped at a time in most cases.",
+    "best_quote_zh": "在大多数情况下，您可以同时配备最多五种附件。"
+  },
+  {
+    "id": 107,
+    "title": "Vampire: The Masquerade – Bloodlines 2 hands-on report, out Oct 21",
+    "title_zh": "Vampire: The Masquerade – Bloodlines 2 手游体验报告，10月21日发布",
+    "source": "blog.playstation.com",
+    "link": "https://blog.playstation.com/2025/10/20/vampire-the-masquerade-bloodlines-2-hands-on-report-out-oct-21/",
+    "tags": [
+      "guide",
+      "design",
+      "gaming",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "指导",
+      "设计创意",
+      "游戏开发",
+      "新手友好"
+    ],
+    "date": "2025-10-20",
+    "summary_en": "Vampire: The Masquerade – Bloodlines 2 offers a rich, immersive experience that builds on its tabletop roots with sophisticated gameplay mechanics and deep narrative choices. The game's standout feature is its living world, where environmental storytelling creates a vibrant, atmospheric Seattle filled with life despite its dark, snowy setting. Players take on the role of a customizable 400-year-old vampire, navigating complex social dynamics and supernatural abilities while maintaining the masquerade. The combat system is engaging, with clan-specific abilities adding strategic depth, and the dialogue system encourages thoughtful interaction. The inclusion of Fabien, a vampire detective trapped in the protagonist's mind, adds an intriguing layer to the narrative. This game promises to be a compelling blend of action, strategy, and role-playing, set to release on October 21.",
+    "summary_zh": "Vampire: The Masquerade – Bloodlines 2 以其丰富的叙事和深度的角色扮演体验延续了其桌游传统。游戏的亮点在于其充满活力的世界观，雪中的西雅图尽管阴暗却充满生机。玩家扮演一名可定制的400岁吸血鬼，在保持伪装的同时，探索复杂的社会关系和超自然能力。战斗系统紧张刺激，不同血族的技能为战术增添深度，对话系统鼓励思考互动。法比安的加入为叙事增添了趣味。这款游戏将在10月21日推出，融合了动作、策略与角色扮演的精华。",
+    "best_quote_en": "The Emerald City has adopted a distinct shade of white in Bloodlines 2, following a brutal winter snowstorm, restricting all transport. It’s the perfect setting of isolation for assuming control of a 400-year-old Elder vampire.",
+    "best_quote_zh": "血琴2中，经历了残酷的冬季暴风雪后，翡翠之城披上了一层独特的白色，限制了所有交通。这是控制一名400岁的长老吸血鬼的完美孤立环境。"
   }
 ]
