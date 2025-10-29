@@ -1,125 +1,5 @@
 [
   {
-    "id": 36,
-    "title": "I Tested Dozens of Retinol Serums—These 12 Outperformed Them All",
-    "title_zh": "我测试了数十种视黄醇精华液——这12种产品表现最佳",
-    "source": "elle",
-    "link": "https://www.elle.com/beauty/makeup-skin-care/g65718066/best-retinol-serums/",
-    "tags": [
-      "update",
-      "medicine",
-      "lifestyle",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "动态",
-      "医学健康",
-      "生活方式",
-      "新手友好"
-    ],
-    "date": "2025-10-07",
-    "summary_en": "This comprehensive guide offers a deep dive into the world of retinol serums, highlighting 12 top-performing products through extensive testing. It provides valuable insights into the benefits of retinol, including anti-aging properties, skin texture improvement, and acne treatment. The article emphasizes the importance of starting with lower concentrations to build tolerance and offers expert advice on usage frequency and safety precautions. It's a must-read for anyone looking to incorporate retinol into their skincare routine, with detailed product reviews and professional recommendations.",
-    "summary_zh": "这篇文章详细评测了12款优秀的视黄醇精华液，通过专业测试和皮肤科医生的建议，帮助读者选择适合自己的产品。内容涵盖了视黄醇的作用机制、使用注意事项以及不同肤质的适用产品推荐。对于想要使用视黄醇改善肤质的人来说，这是一篇非常实用的指南。",
-    "best_quote_en": "With extended use, retinol helps address concerns associated with aging skin, namely fine lines, wrinkles, and dark spots.",
-    "best_quote_zh": "长期使用视黄醇可以帮助改善皮肤老化问题，如细纹、皱纹和色斑。"
-  },
-  {
-    "id": 37,
-    "title": "You Should Get a Reusable Mask",
-    "title_zh": "你应该准备一个可重复使用的口罩",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/wXwjMbtiSqALMEw2g/you-should-get-a-reusable-mask",
-    "tags": [
-      "solve",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-10-08",
-    "summary_en": "The article presents a compelling case for investing in a high-quality reusable mask as a precaution against potential future pandemics. The author uses statistical analysis to argue that even a conservative estimate of pandemic risk justifies the relatively low cost of such a mask. By comparing historical mortality rates and estimating risk reduction, the author concludes that a $30-$60 mask could be worth thousands in terms of life-saving value. The piece also touches on the importance of preparedness and collective action in mitigating future crises, offering practical recommendations for mask selection and emphasizing the benefits of early purchase to avoid shortages.",
-    "summary_zh": "这篇文章从统计学角度分析了未来大流行病的可能性，强调准备一款高质量可重复使用的口罩的重要性。作者认为，即使保守估计，这种口罩的价值也远超其成本。文中还提到，提前准备不仅能保障自身安全，还能减少未来可能出现的供应短缺问题，建议读者尽早采购。",
-    "best_quote_en": "A reusable mask ('elastomeric respirator') would be really valuable to have, if things got really bad.",
-    "best_quote_zh": "如果情况变得非常严重，一款可重复使用的口罩 ('弹性面罩') 会非常有价值。"
-  },
-  {
-    "id": 38,
-    "title": "Deals: Get Apple's 512GB M1 Mac Mini for Record Low of $799 on Amazon ($100 Off)",
-    "title_zh": "交易：在亚马逊以历史最低价格799美元购买苹果512GB M1 Mac Mini（折扣100美元）",
-    "source": "MacRumors",
-    "link": "https://www.macrumors.com/2021/08/02/deals-mac-mini-for-799/",
-    "tags": [
-      "guide",
-      "ai-research",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI研究",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2021-08-02",
-    "summary_en": "This article highlights a significant price drop on Apple's 512GB M1 Mac Mini, now available at $799 on Amazon, marking a record low. The deal matches previous discounts and is notable for tech enthusiasts seeking affordable high-performance computing. While the 256GB version doesn't see as steep a discount, this offer presents a compelling opportunity for those needing extra storage. The piece also references other retailers and a buyer's guide, showing comprehensive deal tracking. The content serves as a practical resource for budget-conscious tech buyers, demonstrating how to capitalize on limited-time offers in the competitive electronics market.",
-    "summary_zh": "这篇文章突出了苹果512GB M1 Mac Mini的价格大幅下降，现以799美元的历史最低价在亚马逊销售。这笔交易与之前的折扣持平，对寻求高性价比计算设备的科技爱好者尤其有吸引力。尽管256GB版本没有如此大的折扣，但这一优惠对需要更多存储空间的用户来说仍然很有吸引力。文章还提到了其他零售商和购买指南，展示了全面的交易追踪。内容为预算有限的科技购买者提供了实用资源，展示了如何利用有限时间内的优惠在激烈的电子产品市场中获益。",
-    "best_quote_en": "This sale matches the previous all-time low price on the 512GB M1 Mac mini seen on Amazon",
-    "best_quote_zh": "这笔交易与亚马逊上看到的512GB M1 Mac mini的历史最低价持平"
-  },
-  {
-    "id": 39,
-    "title": "Sorry, Scrubs, These Chemical Exfoliants Are Much Better at Delivering Smooth, Soft Skin",
-    "title_zh": "抱歉，去角质霜，这些化学去角质产品更能让你的皮肤光滑柔软",
-    "source": "elle",
-    "link": "https://www.elle.com/beauty/makeup-skin-care/g68813998/best-chemical-exfoliant/",
-    "tags": [
-      "analyze",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-10-08",
-    "summary_en": "This ELLE article provides an in-depth comparison of chemical exfoliants, debunking the myth that physical scrubs are superior. The piece highlights the benefits of AHAs, BHAs, and PHAs for different skin types, with expert insights from dermatologists. It offers a curated list of top products, emphasizing the importance of proper usage to avoid skin barrier damage. The analysis reveals how chemical exfoliants work at a cellular level, breaking down dead skin cells and enhancing product absorption. The article serves as both an educational guide and practical resource for skincare enthusiasts seeking effective exfoliation solutions.",
-    "summary_zh": "这篇ELLE文章深入比较了化学去角质产品，打破了物理去角质霜的神话。内容介绍了AHA、BHA和PHA对不同肤质的益处，并引用了皮肤科医生的专家见解。文章提供了顶级产品的精选清单，强调了正确使用的重要性以避免损害皮肤屏障。分析揭示了化学去角质产品如何在细胞水平工作，分解死皮细胞并增强产品吸收。这篇文章既是教育指南，也是寻求有效去角质解决方案的护肤爱好者的实用资源。",
-    "best_quote_en": "Everyone can benefit from some form of chemical exfoliation.",
-    "best_quote_zh": "每个人都能从某种形式的化学去角质中受益。"
-  },
-  {
-    "id": 40,
-    "title": "Fortnite's Halloween Plans Get Off to Messy Start Following Social Media Snafu Involving Doja Cat and a Sex Toy",
-    "title_zh": "Forntite的万圣节计划因社交媒体事故开局混乱 涉及Doja Cat和情趣用品",
-    "source": "ign.com",
-    "link": "https://www.ign.com/articles/fortnites-halloween-plans-get-off-to-messy-start-following-social-media-snafu-involving-doja-cat-and-a-sex-toy",
-    "tags": [
-      "update",
-      "marketing",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "市场营销",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-09",
-    "summary_en": "Fortnite's latest Halloween event, Fortnitemares, kicked off with a PR misstep involving rapper Doja Cat and an unintended reference to adult toys. The incident highlights the challenges of balancing edgy marketing with brand safety, especially for a game popular among younger audiences. While the event features an impressive roster of horror-themed crossovers, including Wednesday Addams and Scooby-Doo, the controversy raises questions about content moderation and corporate partnerships. This event comes on the heels of Fortnite's successful KPop collaboration, demonstrating the game's continued innovation in crossover content. The incident serves as a case study in crisis communication and the delicate balance between viral marketing and brand reputation management.",
-    "summary_zh": "Forntite最新的万圣节活动因社交媒体事故开局混乱，涉及Doja Cat和情趣用品引用。这场风波凸显了平衡大胆营销与品牌安全的挑战，尤其是对年轻玩家众多的游戏而言。尽管活动邀请了Wednesday Addams等恐怖主题跨界角色，但争议引发了内容审查和企业合作的思考。此次活动紧随KPop跨界合作成功，展现了游戏在跨界内容创新方面的持续努力。该事件作为危机公关的案例，说明了病毒式营销与品牌声誉之间的微妙平衡。",
-    "best_quote_en": "S*** cringe as f*** now I'm embarrassed",
-    "best_quote_zh": "太尴尬了现在我都害臊了"
-  },
-  {
     "id": 41,
     "title": "Ranking Hades 2 Keepsakes from best to worst",
     "title_zh": "排名《哈迪斯2》神器从最好到最差",
@@ -2364,5 +2244,125 @@
     "summary_zh": "柯琳·洛的新书《拥有一切》挑战了职场为男性设计的现状，揭示女性在职场与家庭之间的“挤压”困境。她指出社会结构低估了女性贡献，未能适应她们的需求，尤其是育儿和家务。书中批评了“职场女强人”理念，认为这加剧了性别不平等。洛建议女性认识到自身特点，制定属于自己的“个人效用函数”，而非追求社会期望。她的解决方案结合社会变革与个人选择，强调没有通用的女性职业与家庭生活模式。",
     "best_quote_en": "You're not failing and you're not bad at this. This is that hard, it is difficult. Once you have the tools to make those decisions with data and information, then whatever you choose is okay.",
     "best_quote_zh": "你并没有失败，你也不是做得不好。这真的很难，确实很困难。一旦你掌握了用数据和信息做决定的工具，那么无论你选择什么都是可以的。"
+  },
+  {
+    "id": 136,
+    "title": "The Korean Skin Care Gems Your Acne Routine Is Likely Missing",
+    "title_zh": "韩国护肤宝藏，你的痘痘护理中可能缺失的",
+    "source": "elle",
+    "link": "https://www.elle.com/beauty/makeup-skin-care/g61926165/best-korean-skincare-for-acne/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "medicine",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "医学健康",
+      "未来预测"
+    ],
+    "date": "2025-10-28",
+    "summary_en": "This ELLE article explores the transformative power of Korean skincare for acne-prone skin, highlighting nine expert-recommended products that address various concerns from deep cleansing to scar treatment. The piece emphasizes the gentle, anti-inflammatory nature of Korean formulations featuring ingredients like green tea extract, tea tree oil, and snail mucin. Dr. Y. Claire Chang, a board-certified dermatologist, provides medical insights throughout, explaining how these products can complement or even outperform traditional Western acne treatments. The article's strength lies in its practical product recommendations, each accompanied by expert and user testimonials that demonstrate effectiveness. It also offers valuable skincare tips, such as proper product application order and safe integration of new products into routines. The content serves as both an educational guide for acne sufferers and a compelling case study for the efficacy of Korean skincare philosophy.",
+    "summary_zh": "这篇ELLE文章深入探讨了韩国护肤品对痘痘肌的神奇效果，推荐了九款专家认证的产品，从深层清洁到祛痘痕都有涉及。全文强调了韩国护肤品温和的抗炎特性，以及绿茶提取物、茶树油等成分的功效。纽约市联合皮肤科诊所的执业皮肤科医生张医生提供了医学观点，解释这些产品如何辅助或优于传统西方痘痘治疗。文章最大的价值在于实用的产品推荐，每款都附有专家和用户见证其有效性。同时也提供了有价值的护肤建议，比如正确的护肤顺序和安全使用新产品的方法。内容既是痘痘肌患者的指南，也是韩国护肤理念有效性的生动案例。",
+    "best_quote_en": "Korean skincare products tend to be gentle and contain soothing, anti-inflammatory ingredients that calm down the skin and may help reduce inflammatory lesions.",
+    "best_quote_zh": "韩国护肤品往往温和，含有镇静、抗炎成分，能够平复皮肤并可能减少炎症性痘痘。"
+  },
+  {
+    "id": 137,
+    "title": "Star Wars: Visions Volume 3 Review",
+    "title_zh": "《星球大战：愿景》第三季评测",
+    "source": "ign.com",
+    "link": "https://www.ign.com/articles/star-wars-visions-volume-3-review",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-10-29",
+    "summary_en": "Star Wars: Visions Volume 3 represents a step back from the innovative diversity of its predecessor. While the return to Japanese animation studios brings some visual brilliance, particularly in episodes like 'The Duel: Payback' and 'The Bird of Paradise,' the season struggles with repetitive themes and storytelling. The focus on Jedi-Sith conflicts and orphaned heroes, while familiar to Star Wars lore, limits the series' creative potential. The standout episodes, 'The Bird of Paradise' and 'BLACK,' demonstrate what happens when studios fully embrace the Visions concept, offering fresh perspectives and experimental storytelling. However, the majority of episodes feel derivative, suggesting that the series may have peaked with its second volume. The best approach is to watch episodes individually rather than binge, allowing each unique animation style to shine. Ultimately, while Volume 3 has its moments, it highlights the challenges of maintaining creative freshness within a beloved but often formulaic franchise.",
+    "summary_zh": "《星球大战：愿景》第三季回归日式动画风格，虽然部分作品如《决斗：报仇》和《天堂鸟》展现了视觉上的震撼力，但整体创意不如第二季。过度依赖绝地武士与西斯的冲突叙事让内容显得重复乏味。突出的两集证明了当外国工作室自由发挥时，能带来全新的星战叙事体验。建议单集观看以欣赏各工作室的独特风格。本季虽然有亮点，但也暴露了系列在保持创新上的挑战。",
+    "best_quote_en": "This is the bold, experimental approach to Star Wars storytelling that Visions needs more of.",
+    "best_quote_zh": "这是《星球大战》叙事中需要更多的大胆实验风格。"
+  },
+  {
+    "id": 138,
+    "title": "Amazon has apparently laid off its Game Studios, including the New World team",
+    "title_zh": "亚马逊似乎裁员了游戏工作室，包括《新世界》团队",
+    "source": "escapistmagazine.com",
+    "link": "https://www.escapistmagazine.com/news-amazon-laid-off-new-world-team/",
+    "tags": [
+      "inspire",
+      "design",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "设计创意",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2025-10-29",
+    "summary_en": "Amazon's recent mass layoffs, affecting over 30,000 employees, have significantly impacted its gaming division, particularly Amazon Game Studios. The company is reportedly scaling back on big-budget titles, especially MMOs, which raises questions about its long-term commitment to the gaming industry. The layoffs include the team working on New World: Aeternum's Nighthaven expansion, suggesting a strategic pivot away from these high-profile projects. This move could indicate Amazon's shift towards supporting existing successful titles like Throne and Liberty and Lost Ark rather than investing in new, high-risk ventures. The emotional farewell message from developers in the Nighthaven expansion hints at the personal impact of these cuts on the creative teams. This development underscores the volatile nature of the gaming industry and the challenges faced by even tech giants in sustaining large-scale game development projects.",
+    "summary_zh": "亚马逊最近的大规模裁员影响了3万多名员工，其中游戏部门尤其受重创。公司似乎在减少对大型MMORPG的投资，包括《新世界：永恒之地》的续作开发团队。这一决定可能反映了亚马逊在游戏领域的战略调整，转向支持现有成功游戏如《王座与自由》和《失落的阿尔卡迪亚》。开发者在《夜间港湾》扩展中留下的动人告别信，凸显了创意团队面临的困境。此次裁员凸显了游戏行业的波动性，即使是科技巨头也难以持续投资大型游戏项目。",
+    "best_quote_en": "Through it all, we watched. We delighted. We reveled in your enjoyment of every perfect moment, every carefully crafted story, and we even bore witness to the joining of two souls who met here in Aeternum.",
+    "best_quote_zh": "我们一直在观察。我们欣喜若狂。我们见证了你们享受每一个完美时刻，每一个精心编织的故事，甚至目睹了两颗灵魂在永恒之地相遇。"
+  },
+  {
+    "id": 139,
+    "title": "Battlefield: Redsec, the new free-to-play Battle Royale launches today",
+    "title_zh": "战场：Redsec，首款免费战royale游戏今日发布",
+    "source": "blog.playstation.com",
+    "link": "https://blog.playstation.com/2025/10/28/battlefield-redsec-the-new-free-to-play-battle-royale-launches-today/",
+    "tags": [
+      "solve",
+      "design",
+      "gaming",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "游戏开发",
+      "案例研究"
+    ],
+    "date": "2025-10-28",
+    "summary_en": "Battlefield: Redsec marks EA's entry into the free-to-play Battle Royale market with a twist - combining traditional Battle Royale elements with Gauntlet, a round-based elimination mode drawing from the franchise's history, and Portal Community Creations. The game introduces a unique class system (Assault, Engineer, Support, Recon) and offers a low-stakes Battle Royale Initiation mode for new players. With a condensed map, limited player count, and bots, it provides an accessible learning environment. The game also features contracts for rewards, respawn mechanics, and team-based survival strategies. For veterans of Battlefield multiplayer, Gauntlet offers a familiar round-based elimination experience with custom loadouts and objective-based scoring. This launch represents EA's strategic move to capture the free-to-play market while leveraging its established franchise.",
+    "summary_zh": "《战场：Redsec》作为EA首款免费战royale游戏，融合了传统战royale玩法、回归经典的回合制消灭模式“Gauntlet”，以及社区创作的沙盒内容。游戏推出了独特的四种职业体系和适合新手的低门槛战royale启蒙模式，提供更小的地图和限制玩家数量的环境。通过完成合同获取奖励，采用复活机制，并强调团队合作策略。对于喜欢传统多人射击的玩家，《Gauntlet》提供了以目标得分为核心的回合制对抗体验。EA此次发行，展现了其抢占免费游戏市场的战略布局和对老牌IP的深度运营思考。",
+    "best_quote_en": "Battle Royale Initiation is built for new players as a low-stakes learning environment",
+    "best_quote_zh": "战royale启蒙模式为新手设计，提供低风险的学习环境"
+  },
+  {
+    "id": 140,
+    "title": "Exclamation marks! Why do women use them three times as much as men?",
+    "title_zh": "感叹号！为什么女性使用频率是男性的三倍？",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/society/2025/oct/28/exclamation-marks-why-do-women-use-them-three-times-as-much-as-men",
+    "tags": [
+      "solve",
+      "science",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2025-10-28",
+    "summary_en": "This article explores the fascinating gender divide in punctuation use, revealing women employ exclamation marks three times more frequently than men. The research suggests this stems from societal pressures to appear warm and approachable. While exclamation marks can make communication seem friendlier, they may also undermine perceived analytical capabilities. The piece highlights how digital communication has amplified these gendered language patterns, with women often feeling compelled to use excessive punctuation to avoid being perceived as cold or aggressive. It's a thought-provoking examination of how subtle linguistic choices reflect and reinforce societal expectations.",
+    "summary_zh": "这篇文章揭示了一个有趣的性别差异：女性使用感叹号的频率是男性的三倍。研究表明，这种差异源于社会对女性温和友善形象的期待。虽然感叹号能让人显得更亲切，但可能同时削弱分析思维的形象。文章指出，在数字化沟通时代，这种性别化语言模式被进一步放大，女性常被迫使用更多标点来避免显得冷漠或强势。一个值得深思的社会现象。",
+    "best_quote_en": "It’s completely eroding my authority!",
+    "best_quote_zh": "这完全在侵蚀我的权威感！"
   }
 ]
