@@ -1,123 +1,5 @@
 [
   {
-    "id": 66,
-    "title": "Battlefield 6 has a huge weapon problem and players are not happy",
-    "title_zh": "《战地6》的武器问题让玩家不满",
-    "source": "escapistmagazine.com",
-    "link": "https://www.escapistmagazine.com/news-battlefield-6-weapon-bloom-issue/",
-    "tags": [
-      "solve",
-      "gaming",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "游戏开发",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-13",
-    "summary_en": "Battlefield 6's launch has been met with mixed reactions, particularly regarding its exaggerated weapon bloom mechanic. While the game has been praised for its serious tone and competitive gameplay, players are frustrated by the increased weapon bloom that makes aiming inaccurate and gameplay frustrating. Many feel the game was better in beta, with some even feeling 'bamboozled' by the changes. The developers likely intended to balance gameplay by slowing movement and increasing bloom, but players argue for a reduction or removal of bloom in favor of traditional recoil mechanics. This issue mirrors complaints from Battlefield 2042, suggesting a pattern of over-correction in the series. The article highlights the tension between game balance and player experience, raising questions about developer responsiveness to community feedback.",
-    "summary_zh": "《战地6》的发布引发了混合反响，尤其对其夸张的武器弹散机制不满。尽管游戏因其严肃的风格和竞技性 gameplay 受到赞赏，但玩家对增加的武器弹散感到沮丧，导致瞄准不准且 gameplay 令人烦躁。许多人认为游戏在测试版时更好，甚至有人觉得被“愚弄”。开发者可能通过减慢移动速度和增加弹散来平衡游戏，但玩家主张减少或去除弹散，改用传统的后坐力机制。这一问题与《战地2042》的投诉如出一辙，表明系列游戏存在过度修正的模式。文章凸显了游戏平衡与玩家体验之间的张力，并质疑开发者对社区反馈的回应能力。",
-    "best_quote_en": "After playing the beta, I was like, 'Why am I so dogshit at this game all of the sudden? I used to be at least 2/1 KD, and now I can't hit anything.'",
-    "best_quote_zh": "玩过测试版后，我就想，'我突然这么烂吗？我以前至少是2:1的击杀比，现在连个目标都打不中。'"
-  },
-  {
-    "id": 67,
-    "title": "The Haunting returns to Call of Duty: Black Ops 6 and Warzone launching October 9",
-    "title_zh": "The Haunting 将回归《使命召唤：黑色行动6》和《战区》于10月9日发布",
-    "source": "blog.playstation.com",
-    "link": "https://blog.playstation.com/2025/10/07/the-haunting-returns-to-call-of-duty-black-ops-6-and-warzone-launching-october-9/",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-07",
-    "summary_en": "The Haunting update brings a terrifyingly exciting addition to Call of Duty's Black Oops 6 and Warzone, blending horror-inspired gameplay with the franchise's signature action. The update introduces night variants of popular maps like Verdansk and Rebirth Island, transforming familiar landscapes into eerie battlegrounds. New multiplayer modes like Slasher Deathmatch offer innovative gameplay where players can become iconic horror villains, adding a fresh layer of strategy and tension. The Zombies mode receives significant enhancements with Haunted Havoc, featuring faster, more aggressive undead foes and new rewards. Warzone players will experience night-time versions of key maps and a return of Zombie Royale with new abilities. This update not only expands content but also deepens the horror theme across all game modes, appealing to both casual and competitive players. The inclusion of new weapons and attachments further enhances gameplay variety, while the free trial and battle pass offer accessible entry points for new players.",
-    "summary_zh": "《The Haunting》更新将恐怖元素融入《黑色行动6》和《战区》，为玩家带来全新的游戏体验。夜晚版本的经典地图和新增的刀锋死亡模式让多人对战更具挑战性，而僵尸模式的恐怖强化版不仅提升了难度，还设置了丰厚奖励。对于战区玩家来说，夜间模式和僵尸皇家模式的回归将带来更刺激的战斗体验。本次更新不仅丰富了游戏内容，还通过新武器和附件增强了游戏玩法，免费试玩和战斗通行证的设置也为新玩家提供了友好的入门方式。",
-    "best_quote_en": "Drop into map variants like Bootown and night versions of Verdansk and Rebirth Island, become the monster in Slasher Deathmatch, and face the undead in Haunted Havoc and Zombie Royale.",
-    "best_quote_zh": "进入类似Bootown的地图变体和Verdansk和Rebirth Island的夜间版本，在刀锋死亡模式中化身怪物，在恐怖混乱和僵尸皇家模式中对抗不死生物。"
-  },
-  {
-    "id": 68,
-    "title": "Deals: Amazon Continuing to Discount M1 MacBook Air Models to All-Time Low Prices (Save Up to $149)",
-    "title_zh": "交易：亚马逊持续折扣M1 MacBook Air机型至历史最低价（节省高达149美元）",
-    "source": "MacRumors",
-    "link": "https://www.macrumors.com/2021/06/23/deals-amazon-m1-macbook-air-3/",
-    "tags": [
-      "inspire",
-      "design",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "设计创意",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2021-06-23",
-    "summary_en": "This article highlights a significant price reduction on Apple's M1 MacBook Air models available through Amazon, marking all-time low prices for both 256GB and 512GB configurations. The deal demonstrates Amazon's post-Prime Day strategy to clear inventory while offering consumers substantial savings. Notably, the 256GB model drops from $999 to $899.99, while the 512GB version sees a $149 reduction to $1,099.99. The persistent discounts and immediate availability suggest strong consumer demand and potential inventory management tactics. For tech enthusiasts and budget-conscious shoppers, this represents an opportunity to acquire a high-performance laptop at a competitive price point. The inclusion of a dedicated deals guide implies a broader strategy to maintain customer engagement through continuous value offers.",
-    "summary_zh": "这篇文章报道了亚马逊持续对M1 MacBook Air机型进行折扣，降至历史最低价。256GB版从999美元降至899.99美元，512GB版降至1099.99美元。这些折扣不仅反映了Prime Day后的清库存策略，也显示出消费者对性价比的强烈需求。对科技爱好者和预算有限的消费者来说，这是购买高性能笔记本电脑的好机会。专门的折扣指南也展示了亚马逊通过持续提供价值来维持客户参与度的战略。",
-    "best_quote_en": "As of writing, all colors are in stock and ready to ship from Amazon.",
-    "best_quote_zh": "截至撰写本文时，所有颜色均有现货且可立即从亚马逊发货。"
-  },
-  {
-    "id": 69,
-    "title": "Taylor Swift Just Revealed Her Go-to Bath Products—Including Her Shampoo for Fine Hair",
-    "title_zh": "泰勒·斯威夫特曝光她的日常洗护产品——包括适合细软发质的洗发水",
-    "source": "elle",
-    "link": "https://www.elle.com/beauty/makeup-skin-care/a69022662/taylor-swift-eras-tour-bath-routine/",
-    "tags": [
-      "solve",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-10-14",
-    "summary_en": "Taylor Swift's recent Instagram reveal of her post-concert beauty routine offers fascinating insights into the celebrity skincare and haircare landscape. The combination of luxury brands like Dr. Barbara Sturm and Tata Harper for double cleansing, coupled with Christophe Robin's products for fine hair, underscores a sophisticated approach to haircare. This isn't just about product recommendations; it's a glimpse into the intersection of celebrity culture, self-care rituals, and consumer trends. Swift's choices reflect current beauty industry movements towards multi-step routines and pH-balanced haircare, while also sparking speculation about her creative processes. The immediate sell-out potential of these products highlights the power of celebrity endorsement in beauty marketing.",
-    "summary_zh": "泰勒·斯威夫特近期分享的演唱会后护肤和洗护产品，不仅展示了明星级的日常保养流程，也反映了当前美妆行业的趋势。从奢华护肤品牌到专为细软发质设计的洗护产品，她的选择体现了对专业护理的追求。这些产品的快速售罄，更凸显了明星效应在美妆市场的影响力。对于粉丝和美妆爱好者来说，这不仅是产品推荐，更是一种生活方式的参考。",
-    "best_quote_en": "Everything she touches has a tendency to sell out",
-    "best_quote_zh": "她使用的产品往往会迅速售罄"
-  },
-  {
-    "id": 70,
-    "title": "Battlefield 6 'Ladder Launching' Will Get Patched, but That Hasn't Stopped Players From Having Fun While It Lasts",
-    "title_zh": "战地6的“梯子发射”将修复，但玩家们仍在享受这一功能",
-    "source": "ign.com",
-    "link": "https://www.ign.com/articles/battlefield-6-ladder-launching-will-get-patched-but-that-hasnt-stopped-players-from-having-fun-while-it-lasts",
-    "tags": [
-      "update",
-      "gaming",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "游戏开发",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "The Battlefield 6 community has discovered an unexpected gem in the game's ladder gadget, transforming it into a source of both frustration and creative amusement. While intended as a traversal tool for the Assault class, players have uncovered its quirky physics that allow for 'ladder launching' - a physics-based glitch that catapults players across maps. This phenomenon highlights several interesting aspects: the emergent gameplay possibilities in modern shooters, the creative problem-solving of gaming communities, and the delicate balance between preserving gameplay integrity and player enjoyment. The developer DICE has acknowledged the issue and plans to patch it, but in the meantime, players are documenting their ladder-launching adventures, creating a fascinating case study in gaming culture and community-driven content creation.",
-    "summary_zh": "战地6的梯子工具原本是突击兵的攀爬工具，却因物理引擎的不完善，被玩家发现可以用来“发射”自己，成为游戏中的一种独特玩法。这种现象反映了现代射击游戏中意外的游戏性可能性，以及玩家社区的创造力和解决问题的能力。虽然DICE计划修复这个问题，但玩家们仍在享受这一功能带来的乐趣，展现了游戏文化和社区驱动内容创作的独特魅力。",
-    "best_quote_en": "The ladder is a nice idea but the physics around it seems to be a bit finicky",
-    "best_quote_zh": "梯子的想法不错，但它的物理引擎似乎有点问题"
-  },
-  {
     "id": 71,
     "title": "Breaking news: Sexist man wants you to feel bad that he almost faced consequences for being terrible",
     "title_zh": "重大新闻：性别歧视者希望你为他差点因可恶言行受罚感到难过",
@@ -2360,5 +2242,125 @@
     "summary_zh": "该文章提出了关于美国政府举报人数据库及指南的理论变革，强调举报人的重要性在AI风险的集体认知转变中。作者批评了现有的举报人指南和工具的局限性，特别是在处理机密信息和国际场景方面。文章还讨论了举报人在影响AI政策和治理中的战略意义，强调需要高质量、可行动的指南来支持潜在的举报人。作者的观点基于数据，并展望未来，强调举报行为对AI风险缓解的潜在影响。",
     "best_quote_en": "I think one single whistleblower providing clear empirical evidence of incoming AI risk might end up convincing more people than hundreds of people making speculative arguments.",
     "best_quote_zh": "我认为，一个单一的举报者提供明确的AI风险实证证据，可能最终说服比数百人进行推测性论证的人更多。"
+  },
+  {
+    "id": 166,
+    "title": "If Your Fine Hair Needs a Volume Boost, These Shampoos Will Do the Trick",
+    "title_zh": "细软头发需要增量？这些洗发水能帮你搞定",
+    "source": "elle",
+    "link": "https://www.elle.com/beauty/hair/g69263908/best-shampoos-for-fine-hair/",
+    "tags": [
+      "update",
+      "lifestyle",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "生活方式",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "This ELLE article offers a comprehensive guide to shampoos specifically formulated for fine hair, addressing a common beauty challenge. The piece highlights 10 top products, each catering to different needs like color-treated hair, greasy scalps, or daily volume. Expert insights from dermatologists and hair specialists provide valuable context about fine hair characteristics and appropriate ingredients. The analysis reveals that fine hair requires careful balance—avoiding both excessive moisture and harsh cleansing agents. The article's strength lies in its practical, product-focused approach combined with expert validation, making it highly actionable for readers seeking solutions. The inclusion of personal testimonials adds credibility and relatability.",
+    "summary_zh": "这篇ELLE文章为细软头发的增量需求提供了全面指南，聚焦10款特别配方的洗发水，满足不同需求。专家观点揭示了细软头发的特性，强调平衡清洁与保湿的重要性。实用产品推荐和个人体验分享，为读者提供可操作的解决方案。",
+    "best_quote_en": "With fine hair, there's a fine line between what ingredients can make fine hair look flat and oily, and we have all the answers to your questions below.",
+    "best_quote_zh": "细软头发在保湿和清洁之间有一个微妙的平衡，我们为您解答所有疑问。"
+  },
+  {
+    "id": 167,
+    "title": "Battlefield 6 Dev Explains How Bots Work Amid 'Confusion' in the Community",
+    "title_zh": "《战地6》开发者解释游戏中机器人使用方式以解决社区混淆",
+    "source": "ign.com",
+    "link": "https://www.ign.com/articles/battlefield-6-dev-explains-how-bots-work-amid-confusion-in-the-community",
+    "tags": [
+      "update",
+      "education",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "教育学习",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-11-06",
+    "summary_en": "The article provides a detailed explanation from Battlefield 6 lead producer David Sirland about the use of bots in the game's multiplayer to maintain player engagement. The piece highlights the community's confusion about when and why bots are used, particularly in standard matches that struggle to fill teams with real players. Sirland clarifies that bots are introduced as a last resort when wait times exceed three minutes, and they are gradually replaced by human players as they join the match. The article also discusses the use of bots in beginner playlists to help new players warm up. This insightful explanation offers a behind-the-scenes look at the game's matchmaking system and the developers' efforts to balance wait times with player experience. It's a valuable read for gamers interested in understanding the mechanics behind modern multiplayer gaming.",
+    "summary_zh": "这篇文章详细介绍了《战地6》首席制片人David Sirland关于游戏中使用机器人的解释，以保持玩家的参与度。文章强调了社区对机器人使用时间的困惑，特别是在难以填补真实玩家的标准比赛中。Sirland解释说，当等待时间超过三分钟时，机器人才会作为最后手段被引入，并在玩家加入时逐渐被替换。文章还讨论了在初学者玩法中使用机器人帮助新手适应游戏。这一深入的解释为我们揭示了现代多人游戏的配对系统及开发者平衡等待时间与玩家体验的努力，是游戏爱好者了解游戏机制的有价值内容。",
+    "best_quote_en": "At that point, the game starts, and you can play with the bots instead of waiting. Other players in the same region matchmaking on that same playlist will join this server (as it has you on it). Each time a player joins, a bot leaves.",
+    "best_quote_zh": "此时，游戏开始，你可以和机器人一起玩而不是等待。其他同地区在同一播放列表进行匹配配对的玩家将加入该服务器（因为你已在上面）。每次有玩家加入，一个机器人就离开。"
+  },
+  {
+    "id": 168,
+    "title": "Rockstar Games reveals that the fired employees were leaking company secrets",
+    "title_zh": "摇滚明星游戏公司透露被解雇员工泄露公司机密",
+    "source": "escapistmagazine.com",
+    "link": "https://www.escapistmagazine.com/news-rockstar-games-fired-employees-leak/",
+    "tags": [
+      "analyze",
+      "gaming",
+      "science",
+      "controversial"
+    ],
+    "tags_zh": [
+      "分析",
+      "游戏开发",
+      "科学研究",
+      "争议观点"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "Rockstar Games' recent firing of 30 employees ahead of Grand Theft Auto 6's launch has been revealed to stem from internal information leaks, not unionization efforts as previously speculated. This development highlights the gaming industry's ongoing struggle with intellectual property protection and employee relations. The case raises important questions about corporate security in an era of digital vulnerability and the ethical boundaries of employer surveillance. It also underscends the tension between corporate interests and worker rights, particularly in creative industries where intellectual property is paramount.",
+    "summary_zh": "摇滚明星游戏公司在《侠盗猎车手6》发布前解雇30名员工，原因为内部泄密而非此前猜测的反工会行为。此事凸显游戏行业知识产权保护与员工关系的持续挑战，引发关于数字时代企业安全与雇主监控伦理边界的重要思考。同时，这也反映了知识产权至上的创意产业中企业利益与工人权益之间的紧张关系。",
+    "best_quote_en": "Rockstar has just carried out one of the most blatant and ruthless acts of union busting in the history of the games industry",
+    "best_quote_zh": "摇滚星游戏公司刚刚在游戏行业历史上实施了最赤裸裸、最残酷的打压工会行为"
+  },
+  {
+    "id": 169,
+    "title": "PlayStation Store: October 2025’s top downloads",
+    "title_zh": "PlayStation商店：2025年10月热门下载榜单",
+    "source": "blog.playstation.com",
+    "link": "https://blog.playstation.com/2025/11/05/playstation-store-october-2025s-top-downloads/",
+    "tags": [
+      "analyze",
+      "science",
+      "gaming",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "游戏开发",
+      "数据驱动"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "The October 2025 PlayStation download charts reveal intriguing regional preferences and the dominance of battle royale and open-world games. Battlefield 6 and Ghost of Yōtei topped US and EU charts, showing the continued appeal of large-scale multiplayer experiences. The free-to-play dominance of Battlefield REDSEC suggests a growing trend toward accessible, high-quality battle royale experiences. The cross-platform success of games like Minecraft and Grand Theft Auto V highlights their enduring popularity. The VR2 section shows diverse preferences, with Max Mustard leading in both regions. This data offers valuable insights into player behavior and market trends, particularly the enduring appeal of established franchises alongside emerging titles.",
+    "summary_zh": "2025年10月的PlayStation下载榜单揭示了地区差异和战斗类游戏的统治地位。Battlefield 6和《幽灵的雪山》在美欧地区均位列榜首，凸显了大型多人游戏的持续吸引力。免费战斗皇朝Battlefield REDSEC的霸主地位表明，高质量的免费战斗游戏正在崛起。跨平台游戏如《我的世界》和《侠盗猎车手V》的持续热度引人深思。VR2榜单多样化的选择反映了不同玩家的偏好。这些数据为理解玩家行为和市场趋势提供了宝贵洞察，尤其是经典系列与新兴游戏的共存现象。",
+    "best_quote_en": "October players were hunting down the Yōtei Six and enemy soldiers as Ghost of Yōtei and Battlefield 6 dominated the US and EU PlayStation Store charts.",
+    "best_quote_zh": "10月玩家们在追捕幽灵六人组和敌军士兵，而《幽灵的雪山》和《战地6》则统治了美国和欧洲PlayStation商店的排行榜。"
+  },
+  {
+    "id": 170,
+    "title": "Jess Cartner-Morley on fashion: introducing the twinset 2.0 – where practicality meets panache",
+    "title_zh": "杰斯·卡特纳-莫利谈时尚：引入双套装2.0——实用与优雅的完美结合",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/nov/05/jess-cartner-morley-winter-style-twinset-jumper-trend",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-11-05",
+    "summary_en": "Jess Cartner-Morley's exploration of the revived twinset trend reveals a fascinating evolution from its traditional, conservative origins to a modern, expressive fashion statement. The 'twinset 2.0' embodies the contemporary desire for comfort without sacrificing style, blending practicality with panache. This trend represents a rebellion against minimalism and a celebration of texture, proportion, and color experimentation. By layering knitwear in innovative ways, it creates visual intrigue while providing tactile comfort. The author's personal affection for jumpers adds warmth to the analysis, making the piece both informative and engaging. This trend's appeal lies in its accessibility—no need to buy new pieces—and its ability to transform familiar items into fashion statements.",
+    "summary_zh": "杰斯·卡特纳-莫利深入分析复古双套装的现代演变，从传统保守走向时尚前卫，展现了舒适与风格的完美平衡。这种新潮流挑战了极简主义，强调纹理、比例和色彩的实验性。通过创意叠穿针织品，既提供视觉吸引力又带来触觉舒适感。作者对毛衣的热爱使分析充满个人情感，既有见解又富有感染力。这一趋势的魅力在于无需购置新品，便能将熟悉的单品变身时尚单品。",
+    "best_quote_en": "The new twinset is a way to experiment with texture, proportion and colour.",
+    "best_quote_zh": "新双套装是一种探索纹理、比例和色彩的方式。"
   }
 ]
