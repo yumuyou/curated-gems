@@ -1,123 +1,5 @@
 [
   {
-    "id": 80,
-    "title": "Flashbang: Battlefield 6 Lighting Is So Bright That Players Feel Like They Have to Fight the Sun",
-    "title_zh": "战地6：玩家吐槽光线太亮像闪光弹",
-    "source": "ign.com",
-    "link": "https://www.ign.com/articles/flashbang-battlefield-6-lighting-is-so-bright-that-players-feel-like-they-have-to-fight-the-sun",
-    "tags": [
-      "solve",
-      "gaming",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "游戏开发",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-10-17",
-    "summary_en": "The recent launch of Battlefield 6 has brought excitement and frustration in equal measure. One unexpected challenge players are facing is the game's overly bright lighting, particularly when transitioning between indoor and outdoor environments. This issue, described as being 'flash-banged' by the sun, has sparked widespread complaints across platforms. The problem affects all player classes and seems particularly pronounced when aiming down sights from inside buildings. While some players attempt temporary fixes like adjusting HDR settings, the consensus is that this is a fundamental issue requiring developer intervention. The situation highlights the challenges of balancing realism with playability in modern shooters, and serves as a reminder that even big-budget titles can have launch-day problems. It will be interesting to see how DICE addresses these concerns in future updates.",
-    "summary_zh": "战地6的新作让玩家既兴奋又头疼。最意外的挑战是游戏中的超强光照问题，尤其是室内外切换时的光线过渡。玩家形容这像被闪光弹攻击，引发广泛吐槽。这个问题影响所有角色，尤其在室内瞄准时更明显。尽管有玩家尝试调整HDR设置等临时解决方案，但普遍认为需要开发商出面修复。这反映了现代射击游戏在真实感与可玩性之间的平衡难题，也提醒我们大作也可能存在上市问题。期待DICE在后续更新中如何应对这些挑战。",
-    "best_quote_en": "It's my main issue right now. It actually gives me a headache.",
-    "best_quote_zh": "这是我目前最大的问题，真的让我头疼。"
-  },
-  {
-    "id": 81,
-    "title": "Fellowship servers can’t handle the amount of MMO players rushing to play Early Access",
-    "title_zh": "早期访问的《Fellowship》服务器无法承受大量MMO玩家的涌入",
-    "source": "escapistmagazine.com",
-    "link": "https://www.escapistmagazine.com/fellowship-servers-down-update/",
-    "tags": [
-      "solve",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "The launch of Fellowship's Early Access has been marred by server issues, highlighting a critical challenge for indie MMOs. The game promises a quick, dungeon-focused experience for busy players, which is a refreshing alternative to time-consuming MMOs like World of Warcraft. However, the overwhelming player influx has exposed significant scalability problems, with many unable to access the game. This recurring issue, also seen in the Open Beta, raises questions about preparation and resource allocation. While some players embrace the chaos as typical for MMO launches, the situation underscores the delicate balance between ambition and technical readiness. The developers' ongoing efforts to address the problems offer hope, but this incident serves as a cautionary tale for game development and server management.",
-    "summary_zh": "《Fellowship》的早期访问服务器问题凸显了小型工作室MMO游戏的挑战。这款游戏为忙碌的玩家提供了快速的地牢体验，是传统MMO的新选择。然而，玩家涌入导致服务器崩溃，许多人无法进入游戏。类似问题曾在公测阶段出现，引发对开发者准备不足的质疑。尽管部分玩家认为混乱是MMO启动的常态，但这一事件仍提醒我们，野心与技术实力需平衡。开发者正努力解决问题，但这也为游戏开发和服务器管理提供了一个教训。",
-    "best_quote_en": "We've just kept the proposition extremely simple, which when you're an indie studio is much easier to do. Jump in the game, do Dungeons.",
-    "best_quote_zh": "我们只是保持了非常简单的理念，对于独立工作室来说这样做更容易。进入游戏，进行地牢挑战。"
-  },
-  {
-    "id": 82,
-    "title": "Battlefield 6 — 9 ways it evolves the franchise’s formula",
-    "title_zh": "战地6：9种改进该系列游戏的方式",
-    "source": "blog.playstation.com",
-    "link": "https://blog.playstation.com/2025/10/16/battlefield-6-9-ways-it-evolves-the-franchises-formula/",
-    "tags": [
-      "inspire",
-      "design",
-      "gaming",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "设计创意",
-      "游戏开发",
-      "案例研究"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "Battlefield 6 represents both a nostalgic return to the franchise's roots and an innovative leap forward. The game intelligently balances classic elements with meaningful improvements that enhance gameplay strategy and player experience. From amplified destruction mechanics that add tactical depth to enhanced squad commands that enable more precise team coordination, Battlefield 6 offers subtle yet impactful evolutions. The introduction of Escalation mode merges traditional objectives with dynamic map changes, creating intense, strategic battles. The refined class system with customizable Training Paths allows for deeper specialization, while responsive movement controls and haptic feedback immerse players in the action. These innovations collectively demonstrate how Battlefield 6 is not just building on its legacy but redefining what modern first-person shooters can achieve.",
-    "summary_zh": "战地6既回归经典元素，又带来创新升级。游戏平衡了传统玩法与战术深度的提升，破坏系统更具战略性，小队指令更精准。新增的升级模式融合了经典目标与动态地图变化，使战斗更紧张刺激。改进后的职业系统允许更深度的定制化，而灵敏的移动控制和触觉反馈让玩家更沉浸其中。这些创新展示了战地6如何超越传统，重新定义现代第一人称射击游戏的可能性。",
-    "best_quote_en": "Battlefield 6's look back to its past is actually full of steps forward into its future.",
-    "best_quote_zh": "战地6对过去的回顾实际上充满了通向未来的进步。"
-  },
-  {
-    "id": 83,
-    "title": "Deals: Take $49 Off Apple's M1 iMac With New All-Time Low Prices",
-    "title_zh": "交易：Apple M1 iMac 价格下调49美元，创历史新低",
-    "source": "MacRumors",
-    "link": "https://www.macrumors.com/2021/06/11/deals-take-49-off-m1-imac/",
-    "tags": [
-      "update",
-      "ai-research",
-      "personal-finance"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "个人理财"
-    ],
-    "date": "2021-06-11",
-    "summary_en": "This article highlights a significant price drop on Apple's M1 iMac models available exclusively on Amazon. The deal offers $49 off two configurations - one with a 7-core GPU and another with an 8-core GPU, both with 256GB storage. This marks a new all-time low price for these models, with the 7-core version at $1,249.99 and the 8-core at $1,449.99. The article emphasizes the exclusivity of this deal to Amazon and suggests readers monitor their 'Best iMac Deals' guide for ongoing promotions. This is valuable for tech enthusiasts and bargain hunters looking to upgrade their hardware at a discount, demonstrating how to find the best prices on premium tech products.",
-    "summary_zh": "这篇文章报道了Amazon独家提供的Apple M1 iMac新一轮降价促销，7核显卡版降至1249.99美元，8核显卡版降至1449.99美元。这种价格优势让想升级硬件的技术爱好者和精明购物者能以折扣价购买高端设备，展示了如何寻找最佳科技产品交易的智慧。",
-    "best_quote_en": "Amazon previously was discounting this model down to around $1,258.99, making today's sale a new all-time low on this model of the M1 iMac.",
-    "best_quote_zh": "亚马逊此前曾将该机型折价至约1258.99美元，使今天的促销成为该型号M1 iMac的历史最低价。"
-  },
-  {
-    "id": 84,
-    "title": "The Best Celebrity Bobs to Wear in Any Season",
-    "title_zh": "各季节适合的最佳明星短发造型",
-    "source": "elle",
-    "link": "https://www.elle.com/beauty/hair/g69074075/best-celebrity-bobs/",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-17",
-    "summary_en": "This article demonstrates how versatile bob haircuts can be across different seasons and styles. It showcases 21 celebrity-inspired variations, proving that bobs aren't limited to one look. From classic chin-length cuts to textured, colored, and accessorized versions, the content highlights how this hairstyle can be adapted for various face shapes and personal styles. The piece serves as both inspiration and practical guide for those considering a bob, emphasizing that the style offers endless possibilities for expression. It's particularly valuable for readers seeking trendy yet timeless hair transformations.",
-    "summary_zh": "本文展示了短发造型在不同季节和风格中的百变魅力，通过21位明星的不同发型演绎了短发的无限可能。从经典下颌长度到各种质感、颜色和配饰的版本，内容突出了这种发型如何适应不同的面型和个人风格。对于考虑剪短发的读者来说，它既是灵感来源也是实用指南，强调这种发型能提供无限的表达方式。",
-    "best_quote_en": "There’s absolutely no reason to feel limited in options with a bob haircut.",
-    "best_quote_zh": "短发造型绝对不会让人觉得选择有限。"
-  },
-  {
     "id": 85,
     "title": "Ubisoft Montreal Discusses the Past, Present, and Future of Rainbow Six Siege X",
     "title_zh": "《彩虹六号围攻X》的过去、现在与未来：蒙特利尔工作室深度解析",
@@ -2360,5 +2242,125 @@
     "summary_zh": "这篇令人心碎的报道通过震撼的第一手证据和卫星图像揭露了达尔富尔持续的种族灭绝。快速支援部队（RSF）系统性地针对少数民族，犯下令人发指的暴行，令人联想起过去的种族灭绝。尽管国际社会已知情，但全球回应仍不足。文章揭露了各国的参与，特别是阿联酋的武器支持，并批评特朗普政府外交的无效性。面对RSF无所顾忌的暴行，达尔富尔局势持续恶化，引发新一轮大规模屠杀的担忧。这篇报道既是警告，也是对国际社会面对种族灭绝无所作为的谴责。",
     "best_quote_en": "\"We are talking tens upon tens of thousands of potential dead in five days. And the berm built to keep aid out of El Fasher has now made it difficult to escape the city; only thirty-five thousand people are known to have done so.\"",
     "best_quote_zh": "“我们谈论的是五天内可能有数万人死亡。而阻止援助进入埃尔法希尔的堤坝现在使得逃离该市变得困难；只有三万五千人已知逃离。”"
+  },
+  {
+    "id": 180,
+    "title": "These Cashmere Perfumes Are the Epitome of Quiet Luxury, According to Fragrance Experts",
+    "title_zh": "这些现金丝绒香水是安静奢华的典范，香水专家如是说",
+    "source": "elle",
+    "link": "https://www.elle.com/beauty/g69191111/best-cashmere-perfume/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "design",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "设计创意",
+      "案例研究"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "This article explores the trend of cashmere-inspired perfumes, offering expert insights into what makes these fragrances uniquely appealing. Cashmere scents, characterized by their soft, skin-like qualities and subtle muskiness, are described as the olfactory equivalent of cozy knitwear. The piece highlights how cashmeran, a synthetic molecule, creates a warm, intimate fragrance that's not overpowering but rather invites closeness. The author curates a selection of the best cashmere perfumes, ranging from subtle musks to fruity florals, each with unique notes that cater to different preferences. The analysis emphasizes the growing popularity of these fragrances for their quiet luxury appeal, perfect for sweater weather and beyond. It's a fascinating look at how fragrance trends mirror broader cultural shifts towards comfort and understated elegance.",
+    "summary_zh": "这篇文章深入探讨了现金丝绒香水的趋势，专家指出这些香水以其柔软、亲肤的特质和淡淡的麝香味道独树一帜。现金丝绒香水的关键成分是现金丝绒醇，一种合成分子，能够创造出温暖、亲密的香气。作者精选了多款最佳现金丝绒香水，从柔和的麝香到果香花香，各具特色，满足不同的偏好。分析强调了这些香水因其安静奢华的特质而日益流行，成为秋冬季节的理想之选。",
+    "best_quote_en": "For me, a cashmere scent is the equivalent of your favorite cozy sweater: soft, warm, and quietly luxurious.",
+    "best_quote_zh": "对于我来说，现金丝绒香气就像你最喜欢的温暖毛衣：柔软、温暖且安静奢华。"
+  },
+  {
+    "id": 181,
+    "title": "The Best Deals Today: Gurren Lagann Complete Box Set, The Hundred Line - Last Defense Academy, and More",
+    "title_zh": "今日最佳交易：高达拉干完整版蓝光盒装、百线：最后防卫学院及更多",
+    "source": "ign.com",
+    "link": "https://www.ign.com/articles/best-deals-for-november-8-2025",
+    "tags": [
+      "update",
+      "gaming",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "游戏开发",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-11-08",
+    "summary_en": "This article presents a curated selection of time-limited deals across gaming and anime, offering significant savings on premium content. The inclusion of the Gurren Lagann Complete Box Set highlights its status as a genre-defining classic, while The Hundred Line - Last Defense Academy stands out as a hidden gem with its innovative narrative structure. The Magic: The Gathering - Final Fantasy bundle represents a strategic entry point for new players, capitalizing on the successful crossover. Each deal is positioned as both a value proposition and a gateway to deeper engagement with the respective franchises. The article effectively balances commercial promotion with genuine enthusiast appeal, making it valuable for both bargain hunters and franchise fans.",
+    "summary_zh": "本文整理了游戏和动漫领域的限时优惠，涵盖高达拉干完整版蓝光盒装等精品内容。其中高达拉干被视为经典之作，而百线：最后防卫学院凭借其创新叙事结构成为黑马。魔法风云孤独求败合作套装则为新手提供了完美切入点。每一笔交易都兼具性价比与深度体验，既迎合了实惠需求，也满足了粉丝情怀。",
+    "best_quote_en": "This is a must-watch for any fan of the genre, and this box set is the perfect way to make this all-time classic a permanent part of your collection.",
+    "best_quote_zh": "这是该类型动漫爱好者的必看之作，这套盒装是将这部经典永久收藏的完美方式。"
+  },
+  {
+    "id": 182,
+    "title": "GTA: Liberty City Stories at 20: How it defined the PSP for me",
+    "title_zh": "GTA: 解放城故事20周年：它如何定义了PSP",
+    "source": "escapistmagazine.com",
+    "link": "https://www.escapistmagazine.com/gta-liberty-city-sony-psp/",
+    "tags": [
+      "update",
+      "design",
+      "gaming",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "游戏开发",
+      "未来预测"
+    ],
+    "date": "2025-11-08",
+    "summary_en": "This nostalgic reflection on GTA: Liberty City Stories highlights how the game revolutionized handheld gaming experiences in 2005. The author shares personal memories of its multiplayer mode and immersive features, contrasting it with modern GTA Online. The piece argues for bringing back similar local multiplayer experiences in GTA 6, emphasizing the unique charm and replayability that made this portable version special. It's a thoughtful examination of how gaming evolution preserves core experiences while adapting to new platforms.",
+    "summary_zh": "这篇文章回顾了GTA: 解放城故事对2005年掌机游戏的革命性影响。作者分享了其多人模式和沉浸式特性的个人回忆，并将其与现代GTA Online进行对比。文章主张GTA 6应恢复类似的本地多人玩法，强调了这款掌机版独特的魅力和重玩价值。它深刻探讨了游戏演变如何在保留核心体验的同时适应新平台。",
+    "best_quote_en": "Being able to play a fully-featured GTA game on the PSP was incredible, and the fact that you could play your own music via the custom radio station made you feel more immersed in Liberty City than ever before.",
+    "best_quote_zh": "能够在PSP上玩一款完整版的GTA游戏令人惊叹，而通过自定义收音机播放自己的音乐让你比以往任何时候都更沉浸在解放城中。"
+  },
+  {
+    "id": 183,
+    "title": "Share of the Week: Costumes",
+    "title_zh": "本周分享：服装",
+    "source": "blog.playstation.com",
+    "link": "https://blog.playstation.com/2025/11/07/share-of-the-week-costumes-2/",
+    "tags": [
+      "solve",
+      "design",
+      "gaming",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "游戏开发",
+      "新手友好"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "This content showcases the creativity of PlayStation community members by featuring their in-game costumes from various popular titles. The selection highlights the artistic potential of video game photo modes, demonstrating how players can transform characters into unique, recognizable, or thematic outfits. The post serves as both an inspiration for other players and a celebration of gaming culture. It also promotes engagement by inviting submissions for future features, fostering a sense of community and participation. The inclusion of specific games like Silent Hill, Ghost of Yōtei, and God of War Ragnarök shows the breadth of creative possibilities across different genres.",
+    "summary_zh": "本文展示了PlayStation社区成员通过游戏中的服装创意，展现了游戏摄影模式的艺术潜力。选中的作品展示了玩家如何将角色打造成独特、可识别或主题化的装扮。内容既是对其他玩家的灵感激发，也是游戏文化的庆祝。同时，它通过邀请提交未来特色内容，促进社区参与。涵盖的游戏如《静默之丘》《幽灵之岳》和《诸神黄昏：诸神黄昏》展示了不同游戏类型的创意可能性。",
+    "best_quote_en": "From epic action sequences and visual wonders, to emotional reveals and unexpected twists, share an unforgettable moment that happened on PS5.",
+    "best_quote_zh": "从史诗级的战斗场景和视觉奇观，到情感揭示和意外转折，分享你在PS5上经历的难忘时刻。"
+  },
+  {
+    "id": 184,
+    "title": "Party dressing’s most unexpected upgrade: the cocktail T-shirt",
+    "title_zh": "派对穿搭最意外的升级：鸡尾酒T恤",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/fashion/2025/nov/07/party-dressing-cocktail-t-shirt-cashmere-wool",
+    "tags": [
+      "solve",
+      "design",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "The cocktail T-shirt represents a fascinating evolution in evening wear, blending casual comfort with sophisticated elegance. This trend challenges traditional party attire norms by offering a versatile alternative to conventional dress codes. The use of wool and cashmere provides both thermal regulation and a polished aesthetic, addressing practical concerns while maintaining style. The emergence of this category reflects broader fashion trends toward sustainability and versatility, though it raises important questions about material sourcing and environmental impact. As designers like Prada redefine femininity in fashion, the cocktail T-shirt becomes a symbol of modern adaptability in wardrobe choices.",
+    "summary_zh": "鸡尾酒T恤的出现颠覆了传统派对着装观念，将休闲与优雅完美融合。羊毛和开司米的使用不仅提供了温度调节功能，还赋予了服装更精致的质感。这一趋势反映了时尚界对可持续性和多功能性的追求，但也引发了关于材料来源和环境影响的思考。普拉达等设计师通过重新定义女性美学，使鸡尾酒T恤成为现代穿搭的象征。",
+    "best_quote_en": "They have that sort of understated look that a T-shirt tends to give the wearer, but unlike the way a cotton T-shirt sort of unravels by midday, the knit has a more polished effect",
+    "best_quote_zh": "它们具有T恤通常给人带来的低调外观，但与棉T恤到中午就变得凌乱不同，针织品显得更加精致"
   }
 ]
