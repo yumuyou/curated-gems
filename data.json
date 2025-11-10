@@ -1,29 +1,5 @@
 [
   {
-    "id": 85,
-    "title": "Ubisoft Montreal Discusses the Past, Present, and Future of Rainbow Six Siege X",
-    "title_zh": "《彩虹六号围攻X》的过去、现在与未来：蒙特利尔工作室深度解析",
-    "source": "ign.com",
-    "link": "https://www.ign.com/articles/ubisoft-montreal-discusses-the-past-present-and-future-of-rainbow-six-siege-x",
-    "tags": [
-      "inspire",
-      "science",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-10-18",
-    "summary_en": "Ubisoft Montreal's creative director Alexander Karpazis shares fascinating insights about Rainbow Six Siege X's decade-long evolution and future direction. The game's longevity is attributed to its depth and constant innovation, with over 40 pages of future concepts already developed. The team balances community feedback with long-term vision, embracing generative AI tools while maintaining human creativity. Despite player fluctuations post-launch, the free-to-play model has successfully attracted new players. Future plans include refining Dual Front mode and potential cross-platform expansion, with a major 10-year anniversary celebration upcoming. This interview reveals both the challenges and excitement of maintaining a live-service game at this scale.",
-    "summary_zh": "雨果工作室创意总监亚历山大·卡帕齐斯分享了《彩虹六号围攻X》十年发展历程与未来规划。游戏的持久生命力源于其深度和不断创新，团队已准备了40多页未来概念。他们在平衡玩家反馈与长远愿景中找到了平衡，虽然对生成式AI持谨慎态度，但仍在利用机器学习工具提升效率。尽管发布后玩家数量波动，但免费模式成功吸引新玩家。未来计划包括优化Dual Front模式和潜在跨平台扩展，并为十周年庆典做准备。本次访谈揭示了维持大型网络游戏的挑战与热情。",
-    "best_quote_en": "We want to encourage something that can last another 10 years.",
-    "best_quote_zh": "我们希望推动的事物能够再延续10年。"
-  },
-  {
     "id": 86,
     "title": "“We are targeted in tournaments”: Milk Cup’s all-female Fortnite pros want to compete with men, if you stopped being awful",
     "title_zh": "“我们是比赛的目标”：Milk Cup全女性Fortnite职业选手希望能与男性竞争，如果你们不再那么讨厌",
@@ -2362,5 +2338,29 @@
     "summary_zh": "鸡尾酒T恤的出现颠覆了传统派对着装观念，将休闲与优雅完美融合。羊毛和开司米的使用不仅提供了温度调节功能，还赋予了服装更精致的质感。这一趋势反映了时尚界对可持续性和多功能性的追求，但也引发了关于材料来源和环境影响的思考。普拉达等设计师通过重新定义女性美学，使鸡尾酒T恤成为现代穿搭的象征。",
     "best_quote_en": "They have that sort of understated look that a T-shirt tends to give the wearer, but unlike the way a cotton T-shirt sort of unravels by midday, the knit has a more polished effect",
     "best_quote_zh": "它们具有T恤通常给人带来的低调外观，但与棉T恤到中午就变得凌乱不同，针织品显得更加精致"
+  },
+  {
+    "id": 185,
+    "title": "Lyma’s Cult-Loved Laser Is at a Record-Low Price Ahead of Black Friday",
+    "title_zh": "Lyma热门激光仪在黑五前降至历史最低价",
+    "source": "elle",
+    "link": "https://www.elle.com/beauty/makeup-skin-care/a69273152/lyma-black-friday-cyber-monday-sale-2025/",
+    "tags": [
+      "solve",
+      "science",
+      "medicine",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "医学健康",
+      "未来预测"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "The Lyma Laser, a clinical-grade skincare device beloved by celebrities and beauty experts, is now at its lowest price ahead of Black Friday. This 25% discount offers significant savings on a product typically priced at $2,695. The Lyma Laser uses low-level light therapy (LLLT) to stimulate skin regeneration, targeting concerns like acne scars, hyperpigmentation, and fine lines. While not as powerful as professional treatments, its portability and ease of use make it a standout in the crowded at-home skincare market. The current deal includes two complementary products, making it an opportune time to invest in this advanced beauty technology.",
+    "summary_zh": "Lyma激光仪是一款获行业和明星青睐的临床级护肤仪，黑五前迎来25%的超低折扣。这款通常售价2695美元的产品，以低水平激光疗法（LLLT）刺激皮肤再生，改善痘痘疤痕、色斑和细纹。尽管无法替代专业级治疗，但其便携性和易用性使其成为居家护肤市场的佼佼者。目前促销还包含两款配套产品，抓紧时间入手这款高端护肤神器吧。",
+    "best_quote_en": "It's travel-friendly; Netflix-friendly. So, there are not many excuses not to do it at home.",
+    "best_quote_zh": "它适合旅行，适合边看Netflix边用。所以几乎没有理由不在家里使用它。"
   }
 ]
