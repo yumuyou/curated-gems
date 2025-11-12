@@ -1,99 +1,5 @@
 [
   {
-    "id": 90,
-    "title": "Share of the Week: Ghost of Yōtei – Atsu",
-    "title_zh": "每周分享：幽灵之山的幽灵 – 阿津",
-    "source": "blog.playstation.com",
-    "link": "https://blog.playstation.com/2025/10/17/share-of-the-week-ghost-of-yotei-atsu/",
-    "tags": [
-      "guide",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-17",
-    "summary_en": "This week's 'Share of the Week' highlights the haunting beauty of Atsu, the Onryō, from Ghost of Yōtei. The featured images showcase the character in various dramatic poses, from peeking through her straw hat to wielding her weapons with supernatural intensity. The collection reveals both the ethereal and fierce nature of Atsu, capturing moments of tranquility and ferocity. This series not only celebrates fan creativity but also underscores the immersive potential of video game photo modes, transforming gameplay into artistic expression. The upcoming theme focuses on landscapes, inviting players to explore and share the breathtaking environments of Ezo.",
-    "summary_zh": "本周「每周分享」聚焦《幽灵之山》中的幽灵阿津，展现了她从静谧到狂暴的多面性。玩家们通过照片模式捕捉了她的灵动与力量，既有穿越稻草帽的灵动身影，也有挥舞武器的霸气瞬间。这些作品不仅展现了玩家的创造力，也体现了游戏照片模式将游戏玩法转化为艺术创作的潜力。下一主题将聚焦风景，邀请玩家分享穿越床之岛的壮丽景色。",
-    "best_quote_en": "Atsu wielding her odachi wearing a white demon mask",
-    "best_quote_zh": "阿津戴着白色鬼面具挥舞着大太刀"
-  },
-  {
-    "id": 91,
-    "title": "Another Guardian link to the Keira Knightley film The Woman in Cabin 10 | Brief letters",
-    "title_zh": "又一篇关于凯拉·奈特莉电影《10号舱房的女人》的卫报链接 | 短信",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/media/2025/oct/15/another-guardian-link-to-the-keira-knightley-film-the-woman-in-cabin-10",
-    "tags": [
-      "solve",
-      "society",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "This brief letter exchange in The Guardian's letters section highlights an interesting connection between the film industry and journalism, noting that Joe Shrapnel, co-writer of 'The Woman in Cabin 10,' is the grandson of Norman Shrapnel, a legendary Guardian journalist. The piece also touches on various cultural and political topics, from language proficiency requirements for migrants to humorous anecdotes about Jilly Cooper's novels. While light in content, it offers a glimpse into the intersection of media, culture, and society through the lens of reader engagement.",
-    "summary_zh": "这篇卫报的短信版块展现了影视与新闻业的有趣联系，提到《10号舱房的女人》的编剧乔·夏普内尔是传奇记者诺曼·夏普内尔的孙子。内容还涉及移民英语水平要求等话题，以及读者对吉莉·库珀小说的趣闻。虽短小但折射出媒体、文化与社会交织的读者互动视角。",
-    "best_quote_en": "Norman Shrapnel's 'ironic edge and sharp eye for social detail made him the much-imitated master of a whole generation of Guardian writers'",
-    "best_quote_zh": "诺曼·夏普内尔的'讽刺笔法和敏锐的社会观察力，使他成为整整一代《卫报》作家模仿的榜样'"
-  },
-  {
-    "id": 92,
-    "title": "Putting Ideas into Words",
-    "title_zh": "将想法付诸文字",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/words.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "深度分析"
-    ],
-    "date": "2025-10-19",
-    "summary_en": "This insightful essay explores the transformative power of writing as a tool for refining ideas. The author argues that committing thoughts to words reveals their incompleteness and imprecision, forcing us to confront gaps in our understanding. Through the process of writing and rewriting, ideas become more rigorous and complete. The piece challenges the notion that some people can fully form complex ideas without external expression, suggesting that true mastery requires the discipline of articulation. It also distinguishes writing from speaking as a more exacting process, one that demands greater precision and focus. Ultimately, the essay presents writing not just as a means of communication, but as an essential method for deepening our own understanding.",
-    "summary_zh": "这篇文章深刻探讨了写作作为完善思想的工具。作者认为，将想法转化为文字会暴露其不完整和模糊之处，迫使我们面对认知盲区。通过反复推敲，思想才能变得更严谨。文章质疑了某些人声称能完整形成复杂想法的说法，强调真正的掌握需要语言表达的纪律。它还将写作与说话区分开来，认为前者更严谨，需要更精准的表达。最终，文章认为写作不仅是交流手段，更是深化理解的必要方法。",
-    "best_quote_en": "Putting ideas into words is a severe test. The first words you choose are usually wrong; you have to rewrite sentences over and over to get them exactly right.",
-    "best_quote_zh": "将想法付诸文字是一个严峻的考验。你最初选择的词语往往是错误的；你必须反复修改句子才能让它们准确无误。"
-  },
-  {
-    "id": 93,
-    "title": "Deals: Amazon Introduces Pair of Record Low Prices on Apple's 27-Inch iMacs (Save Up to $399)",
-    "title_zh": "交易：亚马逊推出苹果27英寸iMac的历史最低价（最高可省399美元）",
-    "source": "MacRumors",
-    "link": "https://www.macrumors.com/2021/06/08/deals-amazon-record-low-imac/",
-    "tags": [
-      "update",
-      "ai-research",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2021-06-08",
-    "summary_en": "Amazon's record-low pricing on Apple's 27-inch iMac models represents a significant opportunity for both first-time buyers and those looking to upgrade. The discounts, up to $399 off, make these premium all-in-one computers more accessible. This move could indicate increased competition in the premium desktop market or simply Amazon's strategy to clear inventory of 2020 models. The timing is interesting as it coincides with speculation about upcoming iMac redesigns. For consumers, this presents a chance to acquire high-performance hardware at a substantial discount, though they may want to consider whether to wait for potential new models. The article also highlights Amazon's affiliate relationship with MacRumors, adding context to the deal promotion.",
-    "summary_zh": "亚马逊对苹果27英寸iMac的历史最低价格促销，对首次购买者和想升级的用户都是一个重要机会。这些折扣最高可省399美元，使这些高端一体机更加实惠。这一举措可能表明高端台式机市场竞争加剧，或是亚马逊清理2020年旧款的策略。尤其在市场对即将推出的iMac改款的猜测中，这个促销的时机颇为有趣。对于消费者来说，这提供了以大幅折扣获得高性能硬件的机会，但他们可能需要考虑是否值得等待潜在的新款产品。文章还提到了亚马逊与MacRumors的合作关系，为交易促销提供了更多背景信息。",
-    "best_quote_en": "This is now the best price we've ever tracked for this model of the 27-inch iMac across all retailers.",
-    "best_quote_zh": "这是我们在所有零售商中追踪到的这款27英寸iMac的最佳价格。"
-  },
-  {
     "id": 94,
     "title": "Iris van Herpen Explores a New Art Form: Makeup",
     "title_zh": "Iris van Herpen 探索新艺术形式：化妆",
@@ -2358,5 +2264,99 @@
     "summary_zh": "这篇文章分析了美国史上最长的政府停摆事件，探讨了民主党的策略运作及复杂后果。虽然停摆最初似乎将公众关注点聚焦于医疗保健和特朗普的腐败问题，但特朗普时代政治危机的分散性削弱了其影响。文章认为，民主党在将医疗保健问题定位为切身利益问题并揭露特朗普权力至上的优先级方面取得了部分成功。然而，结束停摆的妥协协议在党内引发了分歧，进步派声音批评这项协议是妥协。文章得出结论，停摆的混合结果反映了民主党在坚持原则与实际治理之间平衡的更大挑战，认为这种张力为该党未来发展提供了机遇而非困境。",
     "best_quote_en": "If I were in the Senate, I wouldn’t vote for this compromise.",
     "best_quote_zh": "如果我是参议员，我不会投票支持这项妥协协议。"
+  },
+  {
+    "id": 190,
+    "title": "The Best Creams Experts Recommend to Ward off Wrinkles",
+    "title_zh": "专家推荐的最佳抗皱面霜",
+    "source": "elle",
+    "link": "https://www.elle.com/beauty/g69384901/best-wrinkle-creams/",
+    "tags": [
+      "analyze",
+      "medicine",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "This comprehensive guide to anti-wrinkle creams offers both expert insights and practical recommendations. The article debunks the myth of instant youth restoration while emphasizing the importance of consistent use and quality ingredients. Dermatologists highlight that while wrinkle creams won't achieve dramatic age reversal, they can significantly improve skin texture and delay signs of aging when used preventatively. The featured products range from luxury options to drugstore finds, each targeting specific skin concerns. What makes this piece particularly valuable is its balanced perspective, combining scientific expertise with real-user experiences. The emphasis on preventive care and ingredient education empowers readers to make informed choices about their skincare routines.",
+    "summary_zh": "这篇文章全面解析了抗皱面霜的作用与选择，结合专家建议和实用指南。文章指出抗皱霜需要长期使用才能见效，但能有效改善皮肤质地并延缓衰老。从高端产品到平价选购，每款产品都针对不同肤质需求。文章的亮点在于平衡了科学专业性与用户真实体验，特别强调了预防护肤和成分知识的重要性，帮助读者更明智地选择护肤产品。",
+    "best_quote_en": "The issue with wrinkle creams is that they take time [to work]. Do not expect immediate results.",
+    "best_quote_zh": "抗皱霜需要时间见效，不要期待立竿见影的效果。"
+  },
+  {
+    "id": 191,
+    "title": "FX's Alien: Earth Renewed for Season 2",
+    "title_zh": "FX《异形：地球》续订第二季",
+    "source": "ign.com",
+    "link": "https://www.ign.com/articles/fxs-alien-earth-renewed-for-season-2",
+    "tags": [
+      "inspire",
+      "writing-content",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "写作内容",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2025-11-12",
+    "summary_en": "FX's renewal of 'Alien: Earth' for a second season marks a significant development in the sci-fi television landscape. This decision underscores the growing demand for high-quality, character-driven storytelling within the alien franchise. Showrunner Noah Hawley's unique vision and FX's longstanding support for creative risk-taking are key factors in this renewal. The announcement also highlights the strategic partnership between FX, Hulu, and Disney+, demonstrating their commitment to expanding their content portfolio. As filming begins in 2026, fans can expect further exploration of the Xenomorph universe, building on the success of Season 1. This renewal raises intriguing questions about how the series will integrate with the broader Alien movie universe, offering potential for both continuity and innovative storytelling.",
+    "summary_zh": "FX续订《异形：地球》第二季，体现了科幻电视领域的重要发展。这部剧集续订凸显了高品质、以人物为核心的叙事在异形系列中的需求。制作人诺亚·霍利的独特视野和FX长期以来对创意冒险的支持是续订的关键因素。该公告还展示了FX、Hulu和迪士尼+之间的战略合作，体现了他们扩大内容库的决心。2026年开机后，观众将看到对异形宇宙的进一步探索，基于第一季的成功。这一续订引发了关于剧集如何融入更广阔异形电影宇宙的有趣思考，为连贯性和创新叙事提供了可能性。",
+    "best_quote_en": "Noah never stops surprising us with truly original stories—and his unique ability to bring them to vibrant life as a director and producer as well as writer makes him extraordinary.",
+    "best_quote_zh": "诺亚始终以真正原创的故事让我们惊喜——他作为导演和制作人的独特能力，以及作为作家将这些故事生动呈现的能力，使他非比寻常。"
+  },
+  {
+    "id": 192,
+    "title": "Pokémon Legends Z-A not being open world is a good thing",
+    "title_zh": "宝可梦 传说 Z-A 不是开放世界是件好事",
+    "source": "escapistmagazine.com",
+    "link": "https://www.escapistmagazine.com/pokemon-legends-z-a-open-world/",
+    "tags": [
+      "analyze",
+      "design",
+      "gaming",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "游戏开发",
+      "数据驱动"
+    ],
+    "date": "2025-11-12",
+    "summary_en": "The article critiques the Pokémon franchise's recent push toward open-world design, arguing that Pokémon Legends Z-A's departure from this trend is beneficial. It highlights how previous open-world games like Scarlet & Violet and Legends: Arceus suffered from empty maps with insufficient content, leading to player disinterest. By focusing on a smaller area like Lumiose City, Legends Z-A concentrates its content, creating a more robust experience despite its repetitive gameplay loops. The article suggests this approach exposes fundamental weaknesses in Pokémon's content design, offering valuable lessons for future games. It emphasizes the need for quality over quantity, hoping the franchise will use this opportunity to return to its roots of engaging, narrative-rich gameplay.",
+    "summary_zh": "文章批判宝可梦系列近期追求开放世界的设计，认为《宝可梦传说 Z-A》摒弃这一趋势是有益的。指出《朱/紫》和《阿尔宙斯》等开放世界游戏因地图空旷而内容不足，导致玩家失去兴趣。通过聚焦于卢卡利欧城等小区域，《Z-A》将内容压缩，尽管游戏循环重复，但体验更紧凑。该做法暴露了宝可梦内容设计的根本问题，为未来游戏提供宝贵教训。强调质量胜于数量，希望系列能回归以往的沉浸式叙事体验。",
+    "best_quote_en": "It is not obvious that the problems Scarlet & Violet and Pokémon Legends: Arceus both suffered from weren’t the world being large, but the content inside it being empty.",
+    "best_quote_zh": "问题不在于世界过大，而在于内容空洞，这正是《朱/紫》和《阿尔宙斯》共同面临的困境。"
+  },
+  {
+    "id": 193,
+    "title": "The Hidden Devastation of Hurricanes",
+    "title_zh": "飓风隐藏的破坏",
+    "source": "The New Yorker",
+    "link": "https://www.newyorker.com/news/the-lede/the-hidden-devastation-of-hurricanes",
+    "tags": [
+      "analyze",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-11",
+    "summary_en": "This article reveals the profound, long-lasting health impacts of hurricanes that extend far beyond immediate physical destruction. Through compelling case studies from Hurricane Katrina to recent storms like Melissa, the piece highlights how these natural disasters trigger cascading health effects including increased heart attacks, respiratory diseases, and mental health crises. The research cited shows that official death tolls drastically underreport the true human cost, with indirect deaths often surpassing direct fatalities. The article also explores the economic ripple effects that compound health problems, creating a vicious cycle of poverty and diminished healthcare access. Most strikingly, it reveals that infants are among the most vulnerable groups, with increased mortality rates appearing years after storms. In a warming world with more powerful hurricanes, the author argues for fundamentally rethinking disaster recovery efforts to address these delayed but devastating consequences.",
+    "summary_zh": "这篇文章揭示了飓风深远而持久的健康影响，远超直接的物理破坏。通过卡特里娜飓风到最近的梅丽莎飓风等案例，文章指出这些自然灾害引发心脏病、呼吸系统疾病和心理健康危机等连锁健康问题。研究表明，官方死亡统计严重低估了真实人员损失，间接死亡人数常超过直接死亡人数。文章还探讨了经济连锁反应如何加剧健康问题，形成贫困与医疗资源缺乏的恶性循环。最令人震惊的是，婴儿是最脆弱群体之一，飓风后数年死亡率仍然升高。在气候变暖导致飓风更加猛烈的背景下，作者呼吁重新思考灾后恢复策略，以应对这些延迟但毁灭性的后果。",
+    "best_quote_en": "They’re existential. They pull at every element of the fabric of society.",
+    "best_quote_zh": "这些危害是存在性的。它们撕扯着社会结构的每一个元素。"
   }
 ]
