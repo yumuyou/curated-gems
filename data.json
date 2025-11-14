@@ -1,121 +1,5 @@
 [
   {
-    "id": 94,
-    "title": "Iris van Herpen Explores a New Art Form: Makeup",
-    "title_zh": "Iris van Herpen 探索新艺术形式：化妆",
-    "source": "elle",
-    "link": "https://www.elle.com/beauty/makeup-skin-care/a69044882/iris-van-herpen-nars-holiday-collaboration-interview-2025/",
-    "tags": [
-      "inspire",
-      "music-arts",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "音乐艺术",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-10-17",
-    "summary_en": "Iris van Herpen's collaboration with NARS represents a fascinating intersection of fashion, beauty, and avant-garde artistry. This collection goes beyond typical holiday makeup trends by incorporating futuristic designs and exploring concepts like hypnosis and synesthesia. Van Herpen's unique perspective on beauty as a primal language and her integration of science and technology into her work offer profound insights into modern creative processes. The collection's emphasis on nature and its hypnotic qualities challenges conventional beauty standards and invites users to experience makeup as an art form. This interview reveals how van Herpen's creative evolution is deeply connected to her archive, demonstrating how past ideas can be reimagined in innovative ways.",
-    "summary_zh": "Iris van Herpen与NARS的合作展现了时尚、美妆与前卫艺术的独特交融。这一系列突破传统节日化妆品设计，融入未来感元素，探索催眠与联觉等概念。她将美视为原始语言，并将科学与技术融入创作，揭示了现代创意过程的深刻内涵。该系列以自然为灵感，强调催眠感，挑战传统美标准，邀请用户将化妆视为艺术形式。访谈揭示了其创作与档案的深度关联，展现如何以新方式重塑旧灵感。",
-    "best_quote_en": "Beauty is a very primal language. It’s the way we feel engaged, inspired, and love. It’s connected to all of our emotions, and fashion is as well.",
-    "best_quote_zh": "美是一种非常原始的语言。它是我们感到投入、受启发和爱意的方式。它与我们所有的情感相连，时尚亦然。"
-  },
-  {
-    "id": 95,
-    "title": "Huge Outage Knocks Out Amazon, Roblox, Fortnite, Snapchat, Slack and a Lot More",
-    "title_zh": "大规模故障导致亚马逊、Roblox、Fortnite、Snapchat、Slack等多个平台瘫痪",
-    "source": "ign.com",
-    "link": "https://www.ign.com/articles/huge-outage-knocks-out-amazon-roblox-fortnite-snapchat-slack-and-a-lot-more",
-    "tags": [
-      "solve",
-      "cybersecurity",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "网络安全",
-      "数据驱动"
-    ],
-    "date": "2025-10-20",
-    "summary_en": "The article highlights a significant outage in Amazon Web Services' US-EAST-1 region, causing widespread disruptions across major platforms like Roblox, Fortnite, Snapchat, and Slack. The issue stems from high error rates in DynamoDB, affecting DNS resolution and cascading to other AWS services. This incident underscores the fragility of centralized cloud infrastructure and the domino effect of regional outages on global services. The article's real-time reporting and AWS's ongoing investigation reflect the critical need for robust redundancy and transparency in cloud service management. It serves as a stark reminder of how interconnected modern digital ecosystems are and the potential ripple effects of localized technical failures.",
-    "summary_zh": "亚马逊云服务US-EAST-1区域的大规模故障导致多个主流平台宕机，暴露了集中式云基础设施的脆弱性。这场技术故障引发的连锁反应，凸显了数字生态系统的相互依存性，也提醒我们需重视云服务的容灾能力与透明化沟通。",
-    "best_quote_en": "An outage affecting several services on the internet is also impacting Fortnite log-ins",
-    "best_quote_zh": "一个影响多个互联网服务的故障也导致了Fortnite登录异常"
-  },
-  {
-    "id": 96,
-    "title": "I’m still unsure about Destiny Rising, but I’m sure about the Gamesir X5s",
-    "title_zh": "我仍然对《命运：崛起》感到不确定，但对GameSir X5s控制器很有信心",
-    "source": "escapistmagazine.com",
-    "link": "https://www.escapistmagazine.com/gamesir-x5s-destiny-rising/",
-    "tags": [
-      "solve",
-      "gaming",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "游戏开发",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-10-19",
-    "summary_en": "The article explores the mixed experience of playing Destiny: Rising, a mobile spin-off of Bungie's popular looter-shooter franchise. While the game itself feels like a pastiche of the original with several underdeveloped features and gacha mechanics that don't fully deliver, the review highlights how the GameSir X5s controller transforms the mobile gaming experience. The controller's comfort, precision, and versatility make Destiny: Rising more playable and enjoyable, addressing common issues with mobile gaming controllers. The piece also critiques the game's half-baked ideas and menus, while praising the X5s as a premium option that finally gets mobile gaming controls right.",
-    "summary_zh": "文章探讨了玩《命运：崛起》的复杂体验，这款Bungie热门射击游戏的手机衍生作品虽然充满了未完成的想法和不尽如人意的抽卡机制，但GameSir X5s控制器却让手机游戏体验焕然一新。该控制器的舒适性、精度和多功能性使《命运：崛起》更易于游玩，解决了手机游戏控制器的常见问题。文章批评了游戏的粗制滥造和菜单设计，但赞扬X5s作为高端选择，终于让手机游戏控制器做对了。",
-    "best_quote_en": "It morphed a mobile port pastiche of Bungie’s live service game into a much more comfortable time, but it is also genuinely a good piece of hardware.",
-    "best_quote_zh": "它将Bungie直播服务游戏的手机移植拼凑品变成了更舒适的体验，但它本身也是一款非常优秀的硬件。"
-  },
-  {
-    "id": 97,
-    "title": "PlayStation Plus Game Catalog for October: Silent Hill 2, Until Dawn, V Rising, Yakuza: Like a Dragon and more",
-    "title_zh": "PlayStation Plus 10月游戏目录：静默之丘2、至暗时刻、V Rising、龙が如く7等",
-    "source": "blog.playstation.com",
-    "link": "https://blog.playstation.com/2025/10/15/playstation-plus-game-catalog-for-october-silent-hill-2-until-dawn-v-rising-yakuza-like-a-dragon-and-more/",
-    "tags": [
-      "update",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-10-15",
-    "summary_en": "This October's PlayStation Plus Game Catalog offers a thrilling mix of horror, action, and storytelling experiences perfect for spooky season. The lineup features notable titles like Silent Hill 2's chilling remake, the definitive PS5 edition of Until Dawn, and the vampire survival RPG V Rising. Yakuza: Like a Dragon provides a stark contrast with its unique RPG combat and colorful cast of outcasts. The selection demonstrates Sony's commitment to offering diverse gaming experiences across genres. Particularly intriguing is the inclusion of classic titles like Tekken 3 with modern enhancements, showing appreciation for gaming history while delivering contemporary quality. The variety suggests PlayStation's strategy to cater to both nostalgia and current gaming trends.",
-    "summary_zh": "本月PlayStation Plus游戏目录带来一系列适合万圣节的恐怖与冒险游戏。重制版《静默之丘2》展现了心理恐怖的魅力，而《至暗时刻》的PS5版本则重塑了互动式恐怖体验。开放世界生存RPG《V Rising》则为玩家提供了独特的吸血鬼视角。这些游戏展示了索尼为不同玩家提供多元化游戏体验的决心，尤其值得关注的是对经典游戏的现代化改编，如《铁拳3》的升级版本，既尊重游戏历史又满足当代需求。",
-    "best_quote_en": "Experience a master class in psychological horror on the latest hardware with chilling visuals and visceral sounds.",
-    "best_quote_zh": "在最新硬件上体验心理恐怖的经典之作，惊悚的视觉效果与震撼的音效带来沉浸式体验。"
-  },
-  {
-    "id": 98,
-    "title": "Deals: Amazon Discounts 512GB 27-Inch iMac to Lowest Price of $1,699.99 ($299 Off)",
-    "title_zh": "交易：亚马逊将512GB 27英寸iMac折价至1699.99美元（优惠299美元）",
-    "source": "MacRumors",
-    "link": "https://www.macrumors.com/2021/06/03/deals-amazon-27-inch-imac/",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2021-06-03",
-    "summary_en": "This article highlights a significant price drop on Apple's 27-inch 5K iMac with 512GB SSD, now priced at $1,699.99 on Amazon—a record low. The discount is notable as it brings the 512GB model to the same price point as the 256GB version. The deal is particularly valuable for those looking to upgrade or purchase an iMac for the first time. The article also directs readers to a comprehensive buyer's guide for ongoing iMac deals from various retailers, emphasizing the importance of staying informed about tech discounts. The personal touch comes from the reminder that such deals are rare and worth acting on quickly.",
-    "summary_zh": "这篇文章报道了苹果27英寸5K iMac 512GB固态硬盘版本在亚马逊上的大幅降价，降至1699.99美元，创历史新低。这个折扣使得512GB版本的价格与256GB版本持平，对想升级或首次购买iMac的用户来说非常划算。文章还指引读者参考一份综合性的购买指南，了解来自各大零售商的最新iMac优惠。作者强调，这样的优惠难得，建议读者抓住机会。",
-    "best_quote_en": "This sale was introduced last month on Amazon and it remains the best discount we've ever tracked for this model of the 27-inch Intel iMac.",
-    "best_quote_zh": "这个促销活动上个月在亚马逊首次推出，至今仍是我们追踪到的这款27英寸Intel iMac的最佳折扣。"
-  },
-  {
     "id": 99,
     "title": "These 15 Lip Liners Stay Put Through Drinks, Food, and Sweat",
     "title_zh": "这些15种唇线笔能经受住饮料、食物和汗水的考验",
@@ -2358,5 +2242,125 @@
     "summary_zh": "这篇文章揭示了飓风深远而持久的健康影响，远超直接的物理破坏。通过卡特里娜飓风到最近的梅丽莎飓风等案例，文章指出这些自然灾害引发心脏病、呼吸系统疾病和心理健康危机等连锁健康问题。研究表明，官方死亡统计严重低估了真实人员损失，间接死亡人数常超过直接死亡人数。文章还探讨了经济连锁反应如何加剧健康问题，形成贫困与医疗资源缺乏的恶性循环。最令人震惊的是，婴儿是最脆弱群体之一，飓风后数年死亡率仍然升高。在气候变暖导致飓风更加猛烈的背景下，作者呼吁重新思考灾后恢复策略，以应对这些延迟但毁灭性的后果。",
     "best_quote_en": "They’re existential. They pull at every element of the fabric of society.",
     "best_quote_zh": "这些危害是存在性的。它们撕扯着社会结构的每一个元素。"
+  },
+  {
+    "id": 194,
+    "title": "This Candle Makes My Apartment Smell Expensive",
+    "title_zh": "这支蜡烛让我的公寓闻起来很高级",
+    "source": "elle",
+    "link": "https://www.elle.com/beauty/makeup-skin-care/a69278974/le-labo-ambroxyde-17-candle-review/",
+    "tags": [
+      "solve",
+      "lifestyle",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "生活方式",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2025-11-13",
+    "summary_en": "This piece explores the emotional and sensory value of luxury products through the lens of a high-end candle. It delves into the psychology of savoring expensive items and the atmospheric impact of scent on our perception of space. The author's personal experience with Le Labo's Ambroxyde 17 reveals how scent can evoke powerful imagery and emotional responses, transcending its physical form. The article suggests that certain luxury products, like this candle, create an experience that goes beyond their material value, influencing our mood and self-perception. It raises interesting questions about the intersection of sensory marketing, personal indulgence, and the creation of aspirational environments.",
+    "summary_zh": "这篇文章通过一支高端蜡烛探讨了奢侈品的情感与感官价值。作者通过个人体验揭示了气味如何塑造空间感知，引发强烈联想。这支蜡烛的独特魅力不仅在于价格，更在于它创造的沉浸式体验。它让我们思考：感官营销如何影响自我感知？何时享用珍贵之物才是最合适的？",
+    "best_quote_en": "It's the kind of scent that you can't quite place, and it conjures a feeling you can't quite explain. It's warm; it's sharp; it stops you in your tracks.",
+    "best_quote_zh": "这种香气难以言喻，唤起难以描述的感觉。它既温暖又锐利，让人驻足沉思。"
+  },
+  {
+    "id": 195,
+    "title": "The Alienware 18 Area-51 RTX 5090 Gaming Laptop Drops Below $2,900 for Black Friday",
+    "title_zh": "黑五期间，Alienware 18 Area-51 RTX 5090游戏笔记本电脑价格降至2900美元以下",
+    "source": "ign.com",
+    "link": "https://www.ign.com/articles/alienware-18-area-51-rtx-5090-gaming-laptop-deal-dell-early-black-friday-sale",
+    "tags": [
+      "solve",
+      "ai-research",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "AI研究",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2025-11-14",
+    "summary_en": "This article highlights a significant Black Friday deal on the high-performance Alienware 18 Area-51 gaming laptop equipped with an RTX 5090 GPU. The refurbished model, starting at $2,886.40, represents a dramatic price drop from its original $4,550 price tag. The laptop's impressive specifications include an 18-inch 300Hz display, Intel Core Ultra 9 processor, 64GB RAM, and 2TB SSD. The article emphasizes the rarity of 18-inch gaming laptops with such high-end components and positions this deal as one of the most affordable options in its class. It also details the laptop's premium build quality, advanced cooling system, and sleek design. The RTX 5090 GPU is particularly noted for its superior performance in both gaming and creative applications, making this deal attractive for both gamers and content creators.",
+    "summary_zh": "该文章突出了黑五期间Alienware 18 Area-51游戏笔记本电脑的特惠价格，配备RTX 5090显卡的翻新机型价格从原价4550美元降至2886.40美元，性价比极高。该笔记本配置包括18英寸300Hz显示屏、Intel Core Ultra 9处理器、64GB内存和2TB SSD。文章强调了18英寸高端游戏笔记本的稀缺性，并将此次特惠定位为同类产品中最具竞争力的选择。此外，还详细介绍了笔记本的高端工艺、先进散热系统和时尚设计。RTX 5090显卡因其在游戏和创作领域的卓越表现，使这一特惠对游戏玩家和内容创作者都具有吸引力。",
+    "best_quote_en": "The RTX 5090 is the most powerful mobile gaming CPU available and performs about 15% better than the RTX 5080.",
+    "best_quote_zh": "RTX 5090是目前最强大的移动端游戏处理器，性能比RTX 5080提升了约15%。"
+  },
+  {
+    "id": 196,
+    "title": "Gooners, rejoice: Dispatch may be getting previously cut sex scenes",
+    "title_zh": "派遣游戏玩家们，高兴吧：可能会添加被剪掉的性爱场景",
+    "source": "escapistmagazine.com",
+    "link": "https://www.escapistmagazine.com/news-dispatch-sex-scenes-coming/",
+    "tags": [
+      "update",
+      "gaming",
+      "programming",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "游戏开发",
+      "编程开发",
+      "未来预测"
+    ],
+    "date": "2025-11-14",
+    "summary_en": "The article discusses the potential return of cut sex scenes in the popular episodic game Dispatch, which has already sold over a million copies. Writer Pierre Shorette admitted to regretting the removal of these scenes due to fan demand, suggesting they might be added in future content. This revelation has sparked excitement among fans who believe it could lead to DLC or a more explicit second season. The piece highlights the tension between creative vision and audience expectations, as well as the commercial potential of catering to fan desires for more mature content in gaming.",
+    "summary_zh": "这篇文章讨论了热门互动剧情游戏《派遣》可能会恢复被剪掉的性爱场景，该游戏首周销量已突破百万。作者Pierre Shorette承认因粉丝要求后悔删减这些场景，暗示未来可能会增加。这一消息引发粉丝热议，认为可能推出DLC或更火辣的第二季。文章揭示了创作初衷与受众期待之间的张力，以及迎合粉丝需求在游戏中增加成人内容的商业潜力。",
+    "best_quote_en": "There isn't anyone on the development team that wouldn't have a laundry list of stuff they wish they could polish more or gotten into the game.",
+    "best_quote_zh": "开发团队中没有人不会有想要完善或加入游戏的清单。"
+  },
+  {
+    "id": 197,
+    "title": "Five Years of Play: The Evolution of PlayStation 5",
+    "title_zh": "五年游戏时光：PlayStation 5的演变",
+    "source": "blog.playstation.com",
+    "link": "https://blog.playstation.com/2025/11/12/five-years-of-play-the-evolution-of-playstation-5/",
+    "tags": [
+      "update",
+      "design",
+      "tech-trends",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "设计创意",
+      "技术趋势",
+      "数据驱动"
+    ],
+    "date": "2025-11-12",
+    "summary_en": "The PlayStation 5's five-year journey showcases remarkable innovation in gaming technology and community engagement. From its groundbreaking launch with ultra-fast SSDs and immersive 3D audio to the introduction of VR2 and cloud streaming, PS5 has consistently pushed boundaries. Key milestones include 1.6 billion Share Screen sessions, 700 million Share Play uses, and 5.6 billion game captures shared. Accessibility features have grown from 11 to 20, with one in four users utilizing them. The platform's evolution reflects a commitment to personalization, with color variations, customizable controllers, and community-driven features like Game Help. The PS5 Pro and 30th-anniversary celebrations mark its enduring impact, with 84 million units sold and 100 billion hours of gameplay. This retrospective reveals how PS5 has redefined gaming through technological advancements and community connection.",
+    "summary_zh": "PlayStation 5的五年历程展现了游戏技术和社区互动的卓越创新。从超高速SSD和沉浸式3D音频的开创性发布，到VR2和云流媒体的引入，PS5始终在突破界限。关键里程碑包括16亿次分享屏幕会话、7亿次分享游戏时长和56亿次游戏捕捉共享。无障碍功能从11项增长到20项，四分之一的用户使用了这些功能。平台的演变体现了对个性化的承诺，包括色彩变体、可定制的控制器和社区驱动的功能如游戏帮助。PS5 Pro和30周年纪念活动标志着其持久影响力，全球销量8400万台，游戏时长达1000亿小时。这篇回顾揭示了PS5如何通过技术进步和社区联结重新定义游戏体验。",
+    "best_quote_en": "Five years on, the PS5 platform continues to evolve and connect more players than ever.",
+    "best_quote_zh": "五年过去，PS5平台继续进化并连接比以往更多的玩家。"
+  },
+  {
+    "id": 198,
+    "title": "Born in the forest: the women giving birth alone in the Kashmiri mountains",
+    "title_zh": "诞生在森林：喀什米尔山区孤独生产的女性",
+    "source": "Women | The Guardian",
+    "link": "https://www.theguardian.com/global-development/2025/nov/14/healthcare-kashmir-mountains-giving-birth-alone-gujjar-bakarwal-pastoralists-maternal-mortality",
+    "tags": [
+      "analyze",
+      "medicine",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "医学健康",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-14",
+    "summary_en": "This article sheds light on the harrowing realities faced by nomadic Gujjar and Bakarwal women in Kashmir who give birth during their seasonal migrations. The piece highlights the severe lack of medical infrastructure and the dangerous conditions these women endure, often leading to preventable maternal deaths. It contrasts official statistics showing improved maternal mortality rates with the grim, undocumented experiences of nomadic communities. The narrative powerfully illustrates the resilience of these women while critiquing systemic failures in healthcare provision. International comparisons with similar initiatives in Mongolia and Ethiopia underscore the global nature of this issue, calling for urgent action and policy reforms to address this overlooked crisis.",
+    "summary_zh": "文章揭示了喀什米尔游牧部落古吉尔和巴卡瓦尔妇女在季节性迁循中分娩的惊人现实。内容突出医疗设施的严重缺乏和这些女性面临的危险条件，往往导致可预防的产妇死亡。报道对比官方统计显示的产妇死亡率改善与游牧社区未被记录的惨痛经历。叙事生动展现了这些女性的韧性，同时批评医疗服务供应的系统性失败。与蒙古和埃塞俄比亚类似情况的国际比较，凸显了这一问题的全球性，呼吁采取紧急行动和政策改革，解决这一被忽视的危机。",
+    "best_quote_en": "We have only the knowledge passed down to us – no medicines, no doctor. If I fall sick or grow too old, who will help these women?",
+    "best_quote_zh": "我们只有代代相传的知识——没有药品，没有医生。如果我生病或者老了，谁来帮助这些妇女？"
   }
 ]
