@@ -1,29 +1,5 @@
 [
   {
-    "id": 116,
-    "title": "Ghost of Yōtei – tech deep dive",
-    "title_zh": "幽灵的羊蹄山——技术深度解析",
-    "source": "blog.playstation.com",
-    "link": "https://blog.playstation.com/2025/10/23/ghost-of-yotei-tech-deep-dive/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-10-23",
-    "summary_en": "Sucker Punch's Ghost of Yōtei showcases remarkable technical advancements that elevate open-world gaming. The developers focused on creating a sense of freedom in an untamed wilderness, implementing innovative solutions for distant rendering, dynamic environments, and realistic character interactions. The game's use of GPU compute techniques for rendering millions of environmental elements, advanced terrain tessellation for snow physics, and sophisticated cloud rendering demonstrates their commitment to visual fidelity. The integration of ray tracing for global illumination and PS5 Pro enhancements like PSSR upsampling further pushes the boundaries of console gaming. What stands out is how these technical innovations serve the game's core fantasy of a wandering warrior's emotional journey, making the world feel alive and immersive. This deep dive reveals how art and technology intersect to create memorable gaming experiences.",
-    "summary_zh": "幽灵的羊蹄山展示了Sucker Punch在开放世界游戏技术上的突破。开发团队致力于营造自由探索的体验，通过创新的渲染技术、动态环境交互和真实的角色动作，将游戏世界呈现得栩栩如生。游戏中运用GPU计算渲染数百万环境元素，利用高级地形细分实现雪地物理效果，并采用复杂的云层渲染技术，展现了团队对视觉质量的追求。此外，通过光线追踪增强全局照明，并利用PS5 Pro的图像上采样技术，进一步提升了画面表现力。这些技术突破不仅服务于游戏的核心幻想——流浪武士与过去的和解，更让整个世界充满生命力和沉浸感。本次技术深度解析揭示了艺术与技术如何交织，创造出难忘的游戏体验。",
-    "best_quote_en": "Making games is more than that though — it's a huge team effort with art informing technology and technology informing art throughout.",
-    "best_quote_zh": "制作游戏不仅仅是技术，更是一项需要艺术与技术相互交融的团队努力。"
-  },
-  {
     "id": 117,
     "title": "It’s great to see pregnant women in the public eye – but must they all be so gorgeous? | Coco Khan",
     "title_zh": "在公众视野中看到孕妇固然可喜——但她们都必须如此美丽吗？",
@@ -2358,5 +2334,29 @@
     "summary_zh": "这篇文章深入分析了沙特王储穆罕默德·本·萨勒曼（M.B.S.）如何成功赢回华盛顿的支持。尽管2018年卡舒吉遇害事件曾严重损害其声誉，但通过在西方体育领域的投资和全球能源市场的变化，M.B.S.成功重新获得了拜登和特朗普政府的支持。专家F. Gregory Gause指出，M.B.S.的国内改革使沙特社会更加开放，但政治体制仍然保持高度集权。文章还探讨了沙特在中东地区的外交策略，包括对伊朗和以色列的态度调整，以及特朗普政府可能与沙特达成的核能协议。整体来看，M.B.S.的成功不仅依赖于战略调整，也反映了美国政坛对沙特的现实需求。",
     "best_quote_en": "The word that best describes what he wants is one that he’s used, which is that he wants Saudi Arabia to be a normal country.",
     "best_quote_zh": "最能描述他目标的词是他自己曾用过的，即他希望沙特成为一个'正常'的国家。"
+  },
+  {
+    "id": 216,
+    "title": "Fine, Flat Hair Is No Match for These 10 Texturizing Sprays",
+    "title_zh": "细软头发无法抵挡的这10款造型喷雾",
+    "source": "elle",
+    "link": "https://www.elle.com/beauty/makeup-skin-care/g69485056/best-texturizing-sprays/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "design",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "设计创意",
+      "新手友好"
+    ],
+    "date": "2025-11-19",
+    "summary_en": "This ELLE article provides an expert-curated guide to the best texturizing sprays for fine, flat hair in 2025. The piece offers valuable insights into how to choose the right product based on hair type and styling goals, with recommendations from celebrity stylists working with A-list clients. The analysis highlights key features of each product, including ingredients like zeolite crystals and sea salt, and explains how they contribute to volume, texture, and hold without stiffness. The article also addresses common questions about usage frequency and application techniques, making it both educational and practical for readers seeking to improve their hair styling routine. The expert commentary adds credibility and provides a professional perspective on why these products stand out.",
+    "summary_zh": "这篇ELLE文章为2025年细软头发提供了专家筛选的10款造型喷雾推荐。内容不仅介绍了不同发型需求下的产品选择，还分享了明星发型师的专业见解和使用技巧。文章详细分析了各产品的关键成分及作用，如吸油晶体和海盐，帮助读者理解产品功效。此外，还解答了使用频率和技巧等常见问题，为想提升发型效果的读者提供了实用指南。专家的评价增强了内容的可信度，让读者更直观地了解这些产品的优势。",
+    "best_quote_en": "Texturizing spray is a styling product used to add volume, definition, and a bit of grip to the hair. It’s great for creating that effortlessly tousled, lived-in look without making the hair feel stiff or heavy.",
+    "best_quote_zh": "造型喷雾能为头发增加体积、定型和轻微的握感，适合打造自然蓬松、有层次感的造型，同时不会让头发变得僵硬或沉重。"
   }
 ]
