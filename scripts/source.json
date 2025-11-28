@@ -1,58 +1,26 @@
 [
   {
-    "name": "MacRumors",
-    "url": "https://feeds.macrumors.com/MacRumors-Mac"
-  },
-  {
-    "name": "elle",
-    "url": "https://www.elle.com/rss/beauty.xml/"
-  },
-  {
     "name": "ign.com",
     "url": "https://www.ign.com/rss/articles/feed"
-  },
-  {
-    "name": "escapistmagazine.com",
-    "url": "https://www.escapistmagazine.com/feed/"
   },
   {
     "name": "blog.playstation.com",
     "url": "https://feeds.feedburner.com/psblog"
   },
   {
-    "name": "Women | The Guardian",
-    "url": "http://theguardian.com/lifeandstyle/women/rss"
+    "name": "escapistmagazine.com",
+    "url": "https://www.escapistmagazine.com/feed/"
   },
   {
-    "name": "Paul Graham",
-    "url": "http://www.aaronsw.com/2002/feeds/pgessays.rss"
+    "name": "gamespot.com",
+    "url": "https://www.gamespot.com/feeds/mashup/"
   },
   {
-    "name": "LessWrong",
-    "url": "https://www.lesswrong.com/feed.xml"
+    "name": "indiegamesplus.com",
+    "url": "https://indiegamesplus.com/feed"
   },
   {
-    "name": "The New Yorker",
-    "url": "https://www.newyorker.com/feed/news"
-  },
-  {
-    "name": "Wait But Why",
-    "url": "https://waitbutwhy.com/feed"
-  },
-  {
-    "name": "Kevin Kelly",
-    "url": "https://kk.org/cooltools/feed/"
-  },
-  {
-    "name": "Sam Altman",
-    "url": "https://blog.samaltman.com/posts.atom"
-  },
-  {
-    "name": "Huberman Lab",
-    "url": "https://feeds.megaphone.fm/hubermanlab"
-  },
-  {
-    "name": "Tim Ferriss",
-    "url": "https://tim.blog/feed/"
+    "name": "kotaku.com",
+    "url": "https://kotaku.com/rss"
   }
 ]
